@@ -2,27 +2,28 @@
 # -*- coding: utf-8 -*-
 #
 #  untitled.py
-#  
+#
 #  Copyright 2020 ali <ali@parrot>
-#  
+#
 #  This program is free software; you can redistribute it and/or modify
 #  it under the terms of the GNU General Public License as published by
 #  the Free Software Foundation; either version 3 of the License, or
 #  (at your option) any later version.
-#  
+#
 #  This program is distributed in the hope that it will be useful,
 #  but WITHOUT ANY WARRANTY; without even the implied warranty of
 #  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 #  GNU General Public License for more details.
-#  
+#
 #  You should have received a copy of the GNU General Public License
 #  along with this program; if not, write to the Free Software
 #  Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
 #  MA 02110-1301, USA.
-#  
-#  
+#
+#
 from PyQt5 import QtCore, QtGui, QtWidgets
 import math
+
 
 class Ui_MainWindow(object):
     def setupUi(self, MainWindow):
@@ -175,74 +176,129 @@ class Ui_MainWindow(object):
 
     def about(self, event):
         self.clear()
-        self.lineEdit.setPlaceholderText("Simple Calculator designed by Ali Aref Mohammadi")
+        self.lineEdit.setPlaceholderText(
+            "Simple Calculator designed by Ali Aref Mohammadi"
+        )
+
+    def Empty(self, must_int=False):
+        if not self.lineEdit.text():
+            self.lineEdit.setText("0")
+        if must_int:
+            self.lineEdit.setText(self.lineEdit.text().split(".")[0])
+
     def hexaX(self):
-        self.lineEdit.setText(str(hex(int(self.lineEdit.text()))))
+        self.Empty(must_int=True)
+        self.lineEdit.setText(str(hex(int(self.lineEdit.text(), 0))))
+
     def octX(self):
-        self.lineEdit.setText(str(oct(int(self.lineEdit.text()))))        
+        self.Empty(must_int=True)
+        self.lineEdit.setText(str(oct(int(self.lineEdit.text(), 0))))
+
     def binX(self):
-        self.lineEdit.setText(str(bin(int(self.lineEdit.text()))))
+        self.Empty(must_int=True)
+        self.lineEdit.setText(str(bin(int(self.lineEdit.text(), 0))))
+
     def x1barX(self):
-        self.lineEdit.setText(str(1/(float(self.lineEdit.text()))))
+        if not self.lineEdit.text():
+            self.lineEdit.setText("division by zero is not allowed")
+        else:
+            self.lineEdit.setText(str(1 / (float(self.lineEdit.text()))))
+
     def pow2(self):
-        self.lineEdit.setText(str(math.pow(float(self.lineEdit.text()),2)))
+        self.Empty()
+        self.lineEdit.setText(str(math.pow(float(self.lineEdit.text()), 2)))
+
     def sqrtX(self):
+        self.Empty()
         self.lineEdit.setText(str(math.sqrt(float(self.lineEdit.text()))))
+
     def lnX(self):
-        self.lineEdit.setText(str(math.log(float(self.lineEdit.text()),math.e)))
+        self.Empty()
+        self.lineEdit.setText(str(math.log(float(self.lineEdit.text()), math.e)))
+
     def logX(self):
+        self.Empty()
         self.lineEdit.setText(str(math.log10(float(self.lineEdit.text()))))
+
     def sinX(self):
+        self.Empty()
         self.lineEdit.setText(str(math.sin(float(self.lineEdit.text()))))
+
     def cosX(self):
+        self.Empty()
         self.lineEdit.setText(str(math.cos(float(self.lineEdit.text()))))
+
     def tanX(self):
+        self.Empty()
         self.lineEdit.setText(str(math.tan(float(self.lineEdit.text()))))
+
     def pushButton_equalClicked(self):
         result = str(eval(self.lineEdit.text()))
         self.lineEdit.setText(result)
+
     def clear(self):
         self.lineEdit.setText("")
+
     def backspace(self):
         self.lineEdit.setText(self.lineEdit.text()[:-1])
+
     def numberButtonPressed1(self):
         self.lineEdit.setText(self.lineEdit.text() + str(1))
+
     def numberButtonPressed2(self):
         self.lineEdit.setText(self.lineEdit.text() + str(2))
+
     def numberButtonPressed3(self):
         self.lineEdit.setText(self.lineEdit.text() + str(3))
+
     def numberButtonPressed4(self):
         self.lineEdit.setText(self.lineEdit.text() + str(4))
+
     def numberButtonPressed5(self):
         self.lineEdit.setText(self.lineEdit.text() + str(5))
+
     def numberButtonPressed6(self):
         self.lineEdit.setText(self.lineEdit.text() + str(6))
+
     def numberButtonPressed7(self):
         self.lineEdit.setText(self.lineEdit.text() + str(7))
+
     def numberButtonPressed8(self):
         self.lineEdit.setText(self.lineEdit.text() + str(8))
+
     def numberButtonPressed9(self):
         self.lineEdit.setText(self.lineEdit.text() + str(9))
+
     def numberButtonPressed0(self):
         self.lineEdit.setText(self.lineEdit.text() + str(0))
+
     def sum(self):
         self.lineEdit.setText(self.lineEdit.text() + "+")
+
     def mins(self):
         self.lineEdit.setText(self.lineEdit.text() + "-")
+
     def multi(self):
         self.lineEdit.setText(self.lineEdit.text() + "*")
+
     def devision(self):
         self.lineEdit.setText(self.lineEdit.text() + "/")
+
     def point(self):
-        if self.lineEdit.text() != "":
-            self.lineEdit.setText(self.lineEdit.text()+".")
-        else :
-            self.lineEdit.setText(self.lineEdit.text()+"0.")
+        if not self.lineEdit.text() == "" and not self.lineEdit.text().__contains__(
+            "."
+        ):
+            self.lineEdit.setText(self.lineEdit.text() + ".")
+        elif self.lineEdit.text() == "":
+            self.lineEdit.setText(self.lineEdit.text() + "0.")
+        else:
+            pass
+
     def postiveNegitive(self):
-        if  not self.isNegative :
-            self.isNegative = True 
-            self.lineEdit.setText("-"+self.lineEdit.text())
-        else :
+        if not self.isNegative:
+            self.isNegative = True
+            self.lineEdit.setText("-" + self.lineEdit.text())
+        else:
             self.isNegative = False
             self.lineEdit.setText(self.lineEdit.text()[1:])
 
@@ -261,7 +317,9 @@ class Ui_MainWindow(object):
         self.pushButton_1.setText(_translate("MainWindow", "1"))
         self.pushButton_3.setText(_translate("MainWindow", "3"))
         self.pushButton_point.setText(_translate("MainWindow", "."))
-        self.pushButton_postiveNegitive.setText(_translate("MainWindow", u"\N{PLUS-MINUS SIGN}"))
+        self.pushButton_postiveNegitive.setText(
+            _translate("MainWindow", u"\N{PLUS-MINUS SIGN}")
+        )
         self.pushButton_0.setText(_translate("MainWindow", "0"))
         self.pushButton_sum.setText(_translate("MainWindow", "+"))
         self.pushButton_equal.setText(_translate("MainWindow", "="))
@@ -284,6 +342,7 @@ class Ui_MainWindow(object):
 
 if __name__ == "__main__":
     import sys
+
     app = QtWidgets.QApplication(sys.argv)
     MainWindow = QtWidgets.QMainWindow()
     ui = Ui_MainWindow()

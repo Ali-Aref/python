@@ -1,3 +1,4 @@
+# snake game using python by Ali-Aref Mohammadi
 import random
 import curses
 
@@ -51,7 +52,6 @@ while True:
             ]
             food = new_food if new_food not in snake else None
         window.addch(food[0], food[1], "O")
-
     else:
         tail = snake.pop()
         window.addch(int(tail[0]), int(tail[1]), " ")

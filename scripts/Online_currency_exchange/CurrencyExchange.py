@@ -3,7 +3,7 @@ import requests
 
 
 def about():
-    print("\n \t\tOnline Currency exchange ")
+    print("\n \t\tOnline Currency exchange\n")
     print("Source from the https://www.xe.com/en website")
     print("1. For all Currencies exchange rate[1]")
     print("2. For an specific Currencies exchange rate[2]")

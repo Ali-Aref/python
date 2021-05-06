@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Anaconda",
+		"AutoFileName",
+		"Axios Snippets",
+		"ayu",
+		"BracketHighlighter",
+		"CTags",
+		"Djaneiro",
+		"Django Manage Commands",
+		"Django-Rest-Snippets",
+		"Emmet",
+		"HTML-CSS-JS Prettify",
+		"JavaScript Enhancements",
+		"jQuery",
+		"Material Theme",
+		"Materialize",
+		"Package Control",
+		"RTL Mirror",
+		"SideBarEnhancements",
+		"sublack",
+		"TerminalView"
+	]
+}

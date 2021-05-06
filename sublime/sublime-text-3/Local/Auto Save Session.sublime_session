@@ -1,0 +1,4086 @@
+{
+	"folder_history":
+	[
+		"/home/ali/mobile app/Be Better/mysite",
+		"/home/ali/mobile app/Be Better",
+		"/home/ali/mobile app/Sublime Python IDE",
+		"/home/ali/DoctorPlus",
+		"/home/ali/pro",
+		"/home/ali/Ali/ali/ngrok/smartbot",
+		"/home/ali/parabola",
+		"/home/ali/telecom",
+		"/home/ali/DoctorPlus_bak3.2.9",
+		"/home/ali/Ali/DOCCURE/doccure",
+		"/home/ali/Ali/ali/ngrok/pythonbot",
+		"/home/ali/Doctorplus_ministery",
+		"/home/ali/DoctorPlus_bak00",
+		"/home/ali/DoctorPlus_bak3.2.3",
+		"/home/ali/Downloads/Compressed/nn/Aya",
+		"/home/ali/delete_me",
+		"/home/ali/Ali/Documents/code/templete/theme_rtl/assets",
+		"/home/ali/Ali/Documents/code/templete/theme_rtl/admin_6_rounded",
+		"/home/ali/Ali/Documents/code/templete/theme/admin_6_rounded",
+		"/home/ali/doctor_plus",
+		"/home/ali/src",
+		"/home/ali/cfe",
+		"/home/ali/Ali/Documents/code/projects/python/doctor",
+		"/home/ali/doctorSite",
+		"/home/ali/doctor",
+		"/media/ali/Chelsea FC/Documents/code/projects/python/doctor",
+		"/media/ali/Chelsea FC/Documents/code/projects/python/doci",
+		"/home/ali/Focuse/pvchat",
+		"/media/ali/Chelsea FC/Documents/code/projects/python/pvchat",
+		"/media/ali/Chelsea FC/Documents/code/projects/python/schoolms",
+		"/media/ali/Chelsea FC/Documents/code/projects/python/WebSite_FINALL",
+		"/media/ali/Chelsea FC/Documents/code/projects/python/Shop",
+		"/media/ali/Chelsea FC/Documents/code/projects/python/ISE",
+		"/media/ali/Chelsea FC/Documents/code/projects/python/FMC",
+		"/home/ali/Ali/Documents/code/projects/python/mcollege",
+		"/home/ali/main/sevensquare",
+		"/opt/lampp/htdocs/del",
+		"/home/ali/Ali/Documents/code/projects/python/mfc",
+		"/home/ali/Ali/Documents/code/projects/pro_temp",
+		"/home/ali/Ali/ali/ngrok/pythonbot_bak",
+		"/media/ali/Chelsea FC/Documents/code/projects/pro"
+	],
+	"last_version": 3211,
+	"last_window_id": 133,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"read",
+						"read_only=\tparam"
+					],
+					[
+						"mu",
+						"MultipleChoiceField\tclass"
+					],
+					[
+						"ma",
+						"many"
+					],
+					[
+						"Ing",
+						"IntegerField\tclass"
+					],
+					[
+						"serial",
+						"serializers\tmodule"
+					],
+					[
+						"clini",
+						"clinics_data"
+					],
+					[
+						"clin",
+						"clinic_set_data\tstatement"
+					],
+					[
+						"Exp",
+						"ExperienceSerializer\tclass"
+					],
+					[
+						"Awr",
+						"AwardSerializer\tclass"
+					],
+					[
+						"Ed",
+						"EducationListSerializer\tclass"
+					],
+					[
+						"wir",
+						"WritableNestedModelSerializer\tclass"
+					],
+					[
+						"edu",
+						"education_instances\tstatement"
+					],
+					[
+						"ed",
+						"eduction_data\tstatement"
+					],
+					[
+						"education_",
+						"education_instance"
+					],
+					[
+						"ins",
+						"instances\tparam"
+					],
+					[
+						"valid",
+						"validated_data\tparam"
+					],
+					[
+						"Edi",
+						"Education"
+					],
+					[
+						"Clini",
+						"ClinicSerializer\tclass"
+					],
+					[
+						"Add",
+						"AddressSerializer\tclass"
+					],
+					[
+						"model",
+						"modelserializer\tModelSerializer"
+					],
+					[
+						"Doc",
+						"DoctorSerializer\tclass"
+					],
+					[
+						"modelser",
+						"modelserializer\tModelSerializer"
+					],
+					[
+						"doct",
+						"Doctor\tclass"
+					],
+					[
+						"rou",
+						"router\tstatement"
+					],
+					[
+						"App",
+						"AppointmentSerializer"
+					],
+					[
+						"Medi",
+						"MedicalRecordViewSet\tclass"
+					],
+					[
+						"view",
+						"GenericViewSet"
+					],
+					[
+						"serli",
+						"serializer_class\tstatement"
+					],
+					[
+						"Fe",
+						"FeedbackSerializerII\tclass"
+					],
+					[
+						"Feed",
+						"FeedbackSerializer\tclass"
+					],
+					[
+						"feed",
+						"FeedbackViewSet\tclass"
+					],
+					[
+						"fee",
+						"FeedbackSerializer\tclass"
+					],
+					[
+						"gener",
+						"GenericViewSet"
+					],
+					[
+						"Des",
+						"DestroyModelMixin\tclass"
+					],
+					[
+						"Ret",
+						"RetrieveModelMixin\tclass"
+					],
+					[
+						"Lis",
+						"ListModelMixin\tclass"
+					],
+					[
+						"Noti",
+						"NotificationSerializer\tclass"
+					],
+					[
+						"Not",
+						"NotificationSerializer\tclass"
+					],
+					[
+						"upda",
+						"update_date\tstatement"
+					],
+					[
+						"update",
+						"u_date_pdate\tstatement"
+					],
+					[
+						"now",
+						"now_3\tstatement"
+					],
+					[
+						"date",
+						"datetime"
+					],
+					[
+						"des",
+						"DestroyModelMixin\tclass"
+					],
+					[
+						"req",
+						"request"
+					],
+					[
+						"se",
+						"self\tparam"
+					],
+					[
+						"list",
+						"ListNotificationsView\tclass"
+					],
+					[
+						"No",
+						"Notification"
+					],
+					[
+						"not",
+						"notification\tmodule"
+					],
+					[
+						"Fee",
+						"FeedbackRepliesSerializer\tclass"
+					],
+					[
+						"RE",
+						"RetrieveFeedbackRepliesView\tclass"
+					],
+					[
+						"get",
+						"get\tfunction"
+					],
+					[
+						"Feedback",
+						"FeedbackReplies"
+					],
+					[
+						"as",
+						"as_view\tfunction"
+					],
+					[
+						"appo",
+						"appointment__doctor"
+					],
+					[
+						"pag",
+						"pagination_class\tstatement"
+					],
+					[
+						"Page",
+						"PageNumberPagination\tclass"
+					],
+					[
+						"res",
+						"rest_framework\tmodule"
+					],
+					[
+						"viewset",
+						"viewsets\tmodule"
+					],
+					[
+						"cu",
+						"currentText()\t⟠"
+					],
+					[
+						"combo",
+						"comboBox_2\tstatement"
+					],
+					[
+						"com",
+						"comboBox_2\tstatement"
+					],
+					[
+						"but",
+						"button_convert_clicked\tfunction"
+					],
+					[
+						"conn",
+						"connect(self\t8★ pro ⟠"
+					],
+					[
+						"bt",
+						"btn1\t⟠"
+					],
+					[
+						"st",
+						"strip\tfunction"
+					],
+					[
+						"ob",
+						"obj\tstatement"
+					],
+					[
+						"de",
+						"decrypt"
+					],
+					[
+						"has",
+						"hash\tstatement"
+					],
+					[
+						"ha",
+						"hash\tstatement"
+					],
+					[
+						"cr",
+						"crypto\tmodule"
+					],
+					[
+						"cry",
+						"crypt\tmodule"
+					],
+					[
+						"send",
+						"sender_id\tstatement"
+					],
+					[
+						"typ",
+						"typing_payload\tstatement"
+					],
+					[
+						"send_",
+						"send_raw\tfunction"
+					],
+					[
+						"py",
+						"payload\tparam"
+					],
+					[
+						"item",
+						"items\tstatement"
+					],
+					[
+						"pro",
+						"Product\tclass"
+					],
+					[
+						"admin",
+						"adminview\tModel Admin View"
+					],
+					[
+						"wel",
+						"welcome_key_words\tstatement"
+					],
+					[
+						"mo",
+						"models import\t8★ pro ⟠"
+					],
+					[
+						"djan",
+						"django\tmodule ⟠"
+					],
+					[
+						"dic",
+						"difference_in_years\tstatement"
+					],
+					[
+						"da",
+						"days=\tparam"
+					],
+					[
+						"time",
+						"timedelta\tclass"
+					],
+					[
+						"xp",
+						"xp_start_date\tstatement"
+					],
+					[
+						"__",
+						"__class__\tfunction"
+					],
+					[
+						"List",
+						"ListMedicalRecordsView\tclass"
+					],
+					[
+						"medi",
+						"medicalrecord\tmodule"
+					],
+					[
+						"ser",
+						"serializer_class\tstatement"
+					],
+					[
+						"USer",
+						"UserSerializer\tclass"
+					],
+					[
+						"User",
+						"UserSerializer\tclass"
+					],
+					[
+						"qur",
+						"queryset\tstatement"
+					],
+					[
+						"Rel",
+						"RelativeSerializer\tclass"
+					],
+					[
+						"rel",
+						"relatives\tstatement"
+					],
+					[
+						"PAti",
+						"PatientSerializer\tclass"
+					],
+					[
+						"My",
+						"RetrieveMyPatientDetailView\tclass"
+					],
+					[
+						"Patien",
+						"PatientSerializer\tclass"
+					],
+					[
+						"try",
+						"try\tTry/Except"
+					],
+					[
+						"bloo",
+						"blood_group"
+					],
+					[
+						"blo",
+						"blood_group"
+					],
+					[
+						"ret",
+						"retrieveapiview\tRetrieveAPIView"
+					],
+					[
+						"red",
+						"read_only_fields"
+					],
+					[
+						"ir",
+						"itertools"
+					],
+					[
+						"my",
+						"my_patients\tstatement"
+					],
+					[
+						"q",
+						"queryset\tstatement"
+					],
+					[
+						"listapi",
+						"listapiview\tListAPIView"
+					],
+					[
+						"validate",
+						"validated_data"
+					],
+					[
+						"cond",
+						"condition_threaded_data\tstatement"
+					],
+					[
+						"condition",
+						"condition_threaded"
+					],
+					[
+						"sup",
+						"super\tclass"
+					],
+					[
+						"dyn",
+						"dynamic_fields\tfunction"
+					],
+					[
+						"dy",
+						"dynamic_fields\tfunction"
+					],
+					[
+						"REla",
+						"RelativeSerializer\tclass"
+					],
+					[
+						"init",
+						"initial"
+					],
+					[
+						"user",
+						"UserSerializer\tclass"
+					],
+					[
+						"Relati",
+						"Relative\tclass"
+					],
+					[
+						"Re",
+						"RetrieveUpdateDestroyAPIView\tclass"
+					],
+					[
+						"get_query",
+						"get_queryset"
+					],
+					[
+						"reter",
+						"retrieveupdateapiview\tRetrieveUpdateAPIView"
+					],
+					[
+						"def",
+						"defs\tMethod"
+					],
+					[
+						"Appt",
+						"ApptStatus\tclass"
+					],
+					[
+						"dadh",
+						"DashboardApiView\tclass"
+					],
+					[
+						"app",
+						"appointment\tmodule"
+					],
+					[
+						"wid",
+						"width\tAttr"
+					],
+					[
+						"wi",
+						"width\tAttr"
+					],
+					[
+						"load",
+						"load\t.load()"
+					],
+					[
+						"Con",
+						"Continent\tclass"
+					],
+					[
+						"Co",
+						"Coverage\tclass"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Anaconda Python Builder",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Anaconda Python Builder",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"op",
+						"Terminal View: Open Bash Terminal"
+					],
+					[
+						"Django:new",
+						"Django: New Project"
+					],
+					[
+						"menu",
+						"View: Toggle Menu"
+					],
+					[
+						"Django:inter",
+						"Django: Set Project Interpreter"
+					],
+					[
+						"Django:new ",
+						"Django: New Project"
+					],
+					[
+						"Django:pro",
+						"Django: New Project"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"Django:migrate",
+						"Django: Migrate Database"
+					],
+					[
+						"Django:make",
+						"Django: Make Migration"
+					],
+					[
+						"show",
+						"Anaconda: Show error list"
+					],
+					[
+						"ui",
+						"UI: Select Theme"
+					],
+					[
+						"color",
+						"UI: Select Color Scheme"
+					],
+					[
+						"wo",
+						"Word Wrap: Toggle"
+					],
+					[
+						"low",
+						"Convert Case: Lower Case"
+					],
+					[
+						"active",
+						"Activate Materialize Theme"
+					],
+					[
+						"Django:migra",
+						"Django: Migrate Database"
+					],
+					[
+						"Django:ma",
+						"Django: Make Migration"
+					],
+					[
+						"Django:",
+						"Django: Other Command"
+					],
+					[
+						"Django:cre",
+						"Django: Run Custom Server"
+					],
+					[
+						"Django:mi",
+						"Django: Migrate Database"
+					],
+					[
+						"Django:migr",
+						"Django: Migrate App"
+					],
+					[
+						"lower",
+						"Convert Case: Lower Case"
+					],
+					[
+						"cus",
+						"Django: Custom Command"
+					],
+					[
+						"Django:mig",
+						"Django: Migrate Database"
+					],
+					[
+						"Django:run",
+						"Django: Run Server"
+					],
+					[
+						"acti",
+						"Activate Materialize Theme"
+					],
+					[
+						"activate",
+						"ayu: Activate theme"
+					],
+					[
+						"colo",
+						"UI: Select Color Scheme"
+					],
+					[
+						"men",
+						"View: Toggle Menu"
+					],
+					[
+						"Django:ru",
+						"Django: Run Server"
+					],
+					[
+						"mneu",
+						"View: Toggle Menu"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"Django:r",
+						"Django: Run Server"
+					],
+					[
+						"dj",
+						"Set Syntax: HTML (Django)"
+					],
+					[
+						"Django:cus",
+						"Django: Custom Command"
+					],
+					[
+						"titl",
+						"Convert Case: Title Case"
+					],
+					[
+						"title",
+						"Convert Case: Title Case"
+					],
+					[
+						"til",
+						"Snippet: Tabular Inline"
+					],
+					[
+						"tit",
+						"Convert Case: Title Case"
+					],
+					[
+						"Django:app",
+						"Django: New App"
+					],
+					[
+						"Django:u",
+						"Django: Custom Command"
+					],
+					[
+						"Django:runser",
+						"Django: Run Server"
+					],
+					[
+						"json",
+						"Set Syntax: JSON"
+					],
+					[
+						"Django:makemi",
+						"Django: Make Migration"
+					],
+					[
+						"jdson",
+						"Snippet: JSONField (sjson)"
+					],
+					[
+						"Django:mak",
+						"Django: Make Migration"
+					],
+					[
+						"save",
+						"File: Save All"
+					],
+					[
+						"ope",
+						"Terminal View: Open Bash Terminal"
+					],
+					[
+						"active ",
+						"Activate Materialize Theme"
+					],
+					[
+						"reind",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"active ay",
+						"ayu: Activate theme"
+					],
+					[
+						"them",
+						"UI: Select Theme"
+					],
+					[
+						"active m",
+						"Activate Materialize Theme"
+					],
+					[
+						"active me",
+						"Activate Materialize Theme"
+					],
+					[
+						"status",
+						"View: Toggle Status Bar"
+					],
+					[
+						"package remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"active ma",
+						"Activate Materialize Theme"
+					],
+					[
+						"mig",
+						"Django: Migrate Database"
+					],
+					[
+						"toggle tabs",
+						"View: Toggle Tabs"
+					],
+					[
+						"toggle stats",
+						"View: Toggle Status Bar"
+					],
+					[
+						"make",
+						"Django: Make Migration"
+					],
+					[
+						"material",
+						"Material Theme: Advanced configuration"
+					],
+					[
+						"toggle tab",
+						"View: Toggle Tabs"
+					],
+					[
+						"tabs",
+						"Terminal View: Open Bash Terminal"
+					],
+					[
+						"open",
+						"Terminal View: Open Bash Terminal"
+					],
+					[
+						"toabs",
+						"View: Toggle Tabs"
+					],
+					[
+						"toggl tab",
+						"View: Toggle Tabs"
+					],
+					[
+						"material ac",
+						"Material Theme: Advanced configuration"
+					],
+					[
+						"remove pakc",
+						"Package Control: Remove Package"
+					],
+					[
+						"active mat",
+						"Activate Materialize Theme"
+					],
+					[
+						"active mati",
+						"Material Theme: Activate theme"
+					],
+					[
+						"materializ",
+						"Activate Materialize Theme"
+					],
+					[
+						"wrap",
+						"Word Wrap: Toggle"
+					],
+					[
+						"material ",
+						"Material Theme: Configuration"
+					],
+					[
+						"ctags",
+						"CTags: Show Symbols (file)"
+					],
+					[
+						"o",
+						"Terminal View: Open Bash Terminal"
+					],
+					[
+						"coloe",
+						"UI: Select Color Scheme"
+					],
+					[
+						"theme",
+						"UI: Select Color Scheme"
+					],
+					[
+						"view ope",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"toggle",
+						"Bookmarks: Toggle"
+					],
+					[
+						"booke",
+						"Bookmarks: Toggle"
+					],
+					[
+						"view app",
+						"JavaScript Enhancements Flow: Previous Error"
+					],
+					[
+						"opent terin",
+						"Terminal View: Open Bash Terminal"
+					],
+					[
+						"html",
+						"HTMLPrettify"
+					],
+					[
+						"dja",
+						"Set Syntax: HTML (Django)"
+					],
+					[
+						"xml",
+						"Set Syntax: XML"
+					],
+					[
+						"java",
+						"Set Syntax: Java"
+					],
+					[
+						"runser",
+						"Django: Run Server"
+					],
+					[
+						"custom",
+						"Django: Custom Command"
+					],
+					[
+						"reinde",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"djan",
+						"Set Syntax: HTML (Django)"
+					],
+					[
+						"path",
+						"File: Copy Path"
+					],
+					[
+						"djn",
+						"Set Syntax: HTML (Django)"
+					],
+					[
+						"Django:custom",
+						"Django: Custom Command"
+					],
+					[
+						"django run",
+						"Django: Run Server"
+					],
+					[
+						"Django:server",
+						"Django: Run Server"
+					],
+					[
+						"open ba",
+						"Terminal View: Open Bash Terminal"
+					],
+					[
+						"open bas",
+						"Terminal View: Open Bash Terminal"
+					],
+					[
+						"opene",
+						"Sublime Merge: Open Repository"
+					],
+					[
+						"run",
+						"Django: Run Server"
+					],
+					[
+						"Django:runs",
+						"Django: Run Server"
+					],
+					[
+						"stat",
+						"View: Toggle Status Bar"
+					],
+					[
+						"merger",
+						"Sublime Merge: Open Repository"
+					],
+					[
+						"merge",
+						"Sublime Merge: Blame File"
+					],
+					[
+						"runs",
+						"Django: Run Server"
+					],
+					[
+						"term",
+						"Terminal View: Open Bash Terminal"
+					],
+					[
+						"django:help",
+						"Django: Help"
+					],
+					[
+						"makem",
+						"Django: Make Migration"
+					],
+					[
+						"migrate",
+						"Django: Migrate Database"
+					],
+					[
+						"terminal",
+						"Terminal View: Open Bash Terminal"
+					],
+					[
+						"re",
+						"Permute Lines: Reverse"
+					],
+					[
+						"terminsl",
+						"Terminal View: Open Bash Terminal"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"remove ",
+						"Package Control: Remove Package"
+					],
+					[
+						"djang",
+						"Set Syntax: HTML (Django)"
+					],
+					[
+						"package re",
+						"Package Control: Remove Package"
+					],
+					[
+						"packa",
+						"Package Control: Remove Package"
+					],
+					[
+						"djnago",
+						"Set Syntax: HTML (Django)"
+					],
+					[
+						"coloer",
+						"UI: Select Color Scheme"
+					],
+					[
+						"gutter",
+						"GitGutter: Show Diff Popup"
+					],
+					[
+						"git ",
+						"Preferences: GitGutter Key Bindings"
+					],
+					[
+						"git",
+						"Material Theme: Configuration"
+					],
+					[
+						"django",
+						"Set Syntax: HTML (Django)"
+					],
+					[
+						"git ba",
+						"Set Syntax: Git Rebase Todo"
+					],
+					[
+						"savel",
+						"File: Save All"
+					],
+					[
+						"snippet pass",
+						"Snippet: New Class"
+					],
+					[
+						"model acc",
+						"HTML: Encode Special Characters"
+					],
+					[
+						"wroa",
+						"Word Wrap: Toggle"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 178.0,
+				"history":
+				[
+					"sublime.log_commands(True)",
+					"sublime.log_commands(False)",
+					"sublime.log_commands(True)",
+					"sublime.log_commands(False)",
+					"sublime.log_commands(True)",
+					"sublime.log_command(True)",
+					"terminal"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/ali/mobile app/Sublime Python IDE/Arsa.tmTheme",
+				"/home/ali/mobile app/Sublime Python IDE/material-theme.sublime-settings",
+				"/home/ali/mobile app/Sublime Python IDE/sublack.sublime-settings",
+				"/home/ali/mobile app/Sublime Python IDE/Anaconda.sublime-settings",
+				"/home/ali/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+				"/home/ali/.config/sublime-text-3/Packages/User/HTML (Django).sublime-settings",
+				"/home/ali/.config/sublime-text-3/Packages/User/Python (Django).sublime-settings",
+				"/home/ali/DoctorPlus/doctor/api/urls.py",
+				"/home/ali/DoctorPlus/doctor/api/views.py",
+				"/home/ali/DoctorPlus/doctor/models.py",
+				"/home/ali/DoctorPlus/doctor/api/serializers.py",
+				"/home/ali/DoctorPlus/appointment/models.py",
+				"/home/ali/DoctorPlus/patient/api/serializers.py",
+				"/home/ali/DoctorPlus/home/templates/home/homepage.html",
+				"/home/ali/DoctorPlus/templates/base.html",
+				"/home/ali/DoctorPlus/notification/models.py",
+				"/home/ali/DoctorPlus/account/tests.py",
+				"/home/ali/Ali/ali/ngrok/smartbot/del.py",
+				"/home/ali/Desktop/algo.py",
+				"/home/ali/Ali/ali/ngrok/smartbot/bot/ai.py",
+				"/home/ali/Ali/ali/ngrok/smartbot/products/admin.py",
+				"/home/ali/Ali/ali/ngrok/smartbot/bot/payload_responses.py",
+				"/home/ali/Ali/ali/ngrok/smartbot/products/models.py",
+				"/home/ali/Desktop/new.",
+				"/home/ali/Ali/ali/ngrok/smartbot/db.sqlite3",
+				"/home/ali/Ali/ali/ngrok/smartbot/smartbot/settings.py",
+				"/home/ali/Ali/ali/ngrok/smartbot/bot/admin.py",
+				"/home/ali/DoctorPlus/doctor/views.py",
+				"/home/ali/DoctorPlus/account/models.py",
+				"/home/ali/DoctorPlus/medicalrecord/models.py",
+				"/home/ali/DoctorPlus/patient/api/views.py",
+				"/home/ali/DoctorPlus/adminplus/graphs.py",
+				"/home/ali/DoctorPlus/adminplus/views.py",
+				"/home/ali/DoctorPlus/patient/api/README.md",
+				"/home/ali/DoctorPlus/doctor/urls.py",
+				"/home/ali/DoctorPlus/doctor/templates/doctor/doctor_dashboard.html",
+				"/home/ali/DoctorPlus/doctor/static/doctor/js/doctor_dashboard.js",
+				"/home/ali/DoctorPlus/doctor/api/permissions.py",
+				"/home/ali/DoctorPlus/DoctorPlus/settings.py",
+				"/home/ali/DoctorPlus/patient/api/permissions.py",
+				"/home/ali/DoctorPlus/account/api/urls.py",
+				"/home/ali/DoctorPlus/account/urls.py",
+				"/home/ali/parabola/parabola/settings.py",
+				"/home/ali/parabola/parabola/urls.py",
+				"/home/ali/parabola/home/templates/home/contact.html",
+				"/home/ali/parabola/templates/base.html",
+				"/home/ali/parabola/home/urls.py",
+				"/home/ali/parabola/home/templates/home/faq.html",
+				"/home/ali/parabola/home/templates/home/index.html",
+				"/home/ali/parabola/templates/navbar.html",
+				"/home/ali/parabola/home/templates/home/coverage.html",
+				"/home/ali/parabola/home/templates/home/products.html",
+				"/home/ali/parabola/home/views.py",
+				"/home/ali/parabola/static/css/styles.css",
+				"/home/ali/parabola/templates/footer.html",
+				"/home/ali/parabola/home/templates/home/solutions.html",
+				"/home/ali/parabola/home/templates/home/terms_conditions.html",
+				"/home/ali/parabola/home/templates/home/continent.html",
+				"/home/ali/parabola/home/static/phone.codes.js",
+				"/home/ali/Desktop/International mobile dial codes _ Sprint Support.htm",
+				"/home/ali/parabola/home/templates/home/privacy-policy.html",
+				"/home/ali/parabola/settings/settings.py",
+				"/home/ali/parabola/templates/header.html",
+				"/home/ali/telecom/telecom/settings.py",
+				"/home/ali/telecom/templates/base.html",
+				"/home/ali/telecom/home/views.py",
+				"/home/ali/telecom/home/templates/home/index.html",
+				"/home/ali/telecom/telecom/urls.py",
+				"/home/ali/telecom/templates/header.html",
+				"/home/ali/telecom/home/urls.py",
+				"/home/ali/DoctorPlus/doctor/templates/doctor/dropdowns/conditions_dropdown.html",
+				"/home/ali/DoctorPlus/doctor/static/doctor/js/profile-settings.js",
+				"/home/ali/DoctorPlus/adminplus/templates/adminplus/pages/doctor/review_requests.html",
+				"/home/ali/DoctorPlus/home/models.py",
+				"/home/ali/DoctorPlus/adminplus/forms.py",
+				"/home/ali/DoctorPlus/patient/views.py",
+				"/home/ali/DoctorPlus/doctor/templates/doctor/doctor_profile.html",
+				"/home/ali/DoctorPlus/account/admin.py",
+				"/home/ali/DoctorPlus/adminplus/templates/adminplus/pages/speciality/services.html",
+				"/home/ali/DoctorPlus/adminplus/urls.py",
+				"/home/ali/DoctorPlus/adminplus/templates/adminplus/adminp_sidebar.html",
+				"/home/ali/DoctorPlus/adminplus/templates/adminplus/pages/speciality/edit_speciality.html",
+				"/tmp/kite_tutorial.py",
+				"/home/ali/.config/sublime-text-3/Packages/User/KiteSublime.sublime-settings",
+				"/home/ali/.config/sublime-text-3/Packages/KiteSublime/KiteSublime.sublime-settings",
+				"/home/ali/DoctorPlus/adminplus/templates/adminplus/pages/speciality/specialities.html",
+				"/home/ali/DoctorPlus/account/validators.py",
+				"/home/ali/DoctorPlus/account/api/serializers.py",
+				"/home/ali/DoctorPlus/account/api/views.py",
+				"/home/ali/DoctorPlus/DoctorPlus/urls.py",
+				"/home/ali/DoctorPlus/account/views.py",
+				"/home/ali/DoctorPlus/patient/api/urls.py",
+				"/home/ali/DoctorPlus/patient/models.py",
+				"/home/ali/DoctorPlus/account/api/__init__.py",
+				"/home/ali/DoctorPlus/chat/validators.py",
+				"/home/ali/DoctorPlus/chat/models.py",
+				"/home/ali/DoctorPlus/relative/forms.py",
+				"/home/ali/DoctorPlus/patient/urls.py",
+				"/home/ali/DoctorPlus/patient/api/__init__.py",
+				"/home/ali/DoctorPlus/doctor/templatetags/doctor_tags.py",
+				"/home/ali/DoctorPlus/home/static/home/js/home.js",
+				"/home/ali/DoctorPlus/home/views.py",
+				"/home/ali/DoctorPlus/home/urls.py",
+				"/home/ali/DoctorPlus/adminplus/templates/adminplus/components/doctor_rating.html",
+				"/home/ali/DoctorPlus/appointment/urls.py",
+				"/home/ali/DoctorPlus/doctor/templates/doctor/templatetag_files/doctor_rating.html",
+				"/home/ali/DoctorPlus/adminplus/templates/adminplus/pages/doctor/doctors.html",
+				"/home/ali/DoctorPlus/adminplus/static/adminplus/js/dashboard.js",
+				"/home/ali/DoctorPlus/adminplus/static/adminplus/js/doctors.js",
+				"/home/ali/DoctorPlus/adminplus/templates/adminplus/pages/speciality/conditions.html",
+				"/home/ali/DoctorPlus/adminplus/static/adminplus/js/all_feedbacks.js",
+				"/home/ali/DoctorPlus/adminplus/templates/adminplus/pages/feedback/all_feedbacks.html",
+				"/home/ali/DoctorPlus/adminplus/templates/adminplus/pages/feedback/feedbacks.html",
+				"/home/ali/DoctorPlus/adminplus/templates/adminplus/pages/speciality/edit_service.html",
+				"/home/ali/DoctorPlus/adminplus/templates/adminplus/pages/speciality/edit_conditions.html",
+				"/home/ali/DoctorPlus/relative/templates/relative/family_member_detail.html",
+				"/home/ali/DoctorPlus/adminplus/templates/adminplus/adminp_base.html",
+				"/home/ali/DoctorPlus/adminplus/templates/adminplus/components/components.main.html",
+				"/home/ali/DoctorPlus/adminplus/templates/adminplus/adminp_dashboard.html",
+				"/home/ali/DoctorPlus/account/__init__.py",
+				"/home/ali/DoctorPlus/home/templates/home/search.html",
+				"/home/ali/DoctorPlus/doctor/forms.py",
+				"/home/ali/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+				"/home/ali/.config/sublime-text-3/Packages/User/CTags.sublime-settings",
+				"/home/ali/.config/sublime-text-3/Packages/CTags/CTags.sublime-settings",
+				"/home/ali/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/ali/.config/sublime-text-3/Packages/User/Python Django.sublime-settings",
+				"/home/ali/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap"
+			],
+			"find":
+			{
+				"height": 26.0
+			},
+			"find_in_files":
+			{
+				"height": 136.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": false
+			},
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 52.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 318.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"model app",
+						"appointment/models.py"
+					],
+					[
+						"app model",
+						"appointment/models.py"
+					],
+					[
+						"home",
+						"home/templates/home/homepage.html"
+					],
+					[
+						"html",
+						"templates/base.html"
+					],
+					[
+						"serial",
+						"patient/api/serializers.py"
+					],
+					[
+						"test",
+						"account/tests.py"
+					],
+					[
+						"tes",
+						"account/tests.py"
+					],
+					[
+						"settin",
+						"smartbot/settings.py"
+					],
+					[
+						"model cod",
+						"doctor/models.py"
+					],
+					[
+						"view doc",
+						"doctor/views.py"
+					],
+					[
+						"urls doc",
+						"doctor/api/urls.py"
+					],
+					[
+						"graph",
+						"adminplus/graphs.py"
+					],
+					[
+						"models app",
+						"appointment/models.py"
+					],
+					[
+						"rea",
+						"patient/api/README.md"
+					],
+					[
+						"pat seria",
+						"patient/api/serializers.py"
+					],
+					[
+						"seria",
+						"doctor/api/serializers.py"
+					],
+					[
+						"doctor_dashboard",
+						"doctor/static/doctor/js/doctor_dashboard.js"
+					],
+					[
+						"doctor dash",
+						"doctor/templates/doctor/doctor_dashboard.html"
+					],
+					[
+						"serli pati",
+						"patient/api/serializers.py"
+					],
+					[
+						"view patient",
+						"patient/api/views.py"
+					],
+					[
+						"serli",
+						"patient/api/serializers.py"
+					],
+					[
+						"view patien",
+						"patient/api/views.py"
+					],
+					[
+						"setting",
+						"DoctorPlus/settings.py"
+					],
+					[
+						"view doct",
+						"doctor/views.py"
+					],
+					[
+						"per",
+						"patient/api/permissions.py"
+					],
+					[
+						"permin",
+						"doctor/api/permissions.py"
+					],
+					[
+						"urls acc",
+						"account/urls.py"
+					],
+					[
+						"url acc",
+						"account/api/urls.py"
+					],
+					[
+						"conta",
+						"home/templates/home/contact.html"
+					],
+					[
+						"index",
+						"home/templates/home/index.html"
+					],
+					[
+						"base",
+						"templates/base.html"
+					],
+					[
+						"nav",
+						"templates/navbar.html"
+					],
+					[
+						"urls",
+						"home/urls.py"
+					],
+					[
+						"footer",
+						"templates/footer.html"
+					],
+					[
+						"navbar",
+						"templates/navbar.html"
+					],
+					[
+						"header",
+						"templates/header.html"
+					],
+					[
+						"home model",
+						"home/models.py"
+					],
+					[
+						"adminpside",
+						"adminplus/templates/adminplus/adminp_sidebar.html"
+					],
+					[
+						"admin acc",
+						"account/admin.py"
+					],
+					[
+						"view",
+						"doctor/views.py"
+					],
+					[
+						"view admin ",
+						"adminplus/views.py"
+					],
+					[
+						"urls Doctor",
+						"DoctorPlus/urls.py"
+					],
+					[
+						"models patient",
+						"patient/models.py"
+					],
+					[
+						"rel form",
+						"relative/forms.py"
+					],
+					[
+						"settings",
+						"DoctorPlus/settings.py"
+					],
+					[
+						"doctor_ta",
+						"doctor/templatetags/doctor_tags.py"
+					],
+					[
+						"view home",
+						"home/views.py"
+					],
+					[
+						"home.js",
+						"home/static/home/js/home.js"
+					],
+					[
+						"urls app",
+						"appointment/urls.py"
+					],
+					[
+						"model home",
+						"home/models.py"
+					],
+					[
+						"doctor_tain",
+						"adminplus/templates/adminplus/components/doctor_rating.html"
+					],
+					[
+						"url home",
+						"home/urls.py"
+					],
+					[
+						"urls docto",
+						"doctor/urls.py"
+					],
+					[
+						"models acc",
+						"account/models.py"
+					],
+					[
+						"doctors",
+						"adminplus/static/adminplus/js/doctors.js"
+					],
+					[
+						"view adminp",
+						"adminplus/views.py"
+					],
+					[
+						"all_",
+						"adminplus/static/adminplus/js/all_feedbacks.js"
+					],
+					[
+						"addminp_side",
+						"adminplus/templates/adminplus/adminp_sidebar.html"
+					],
+					[
+						"famil",
+						"relative/templates/relative/family_member_detail.html"
+					],
+					[
+						"urls amdinp",
+						"adminplus/urls.py"
+					],
+					[
+						"adminp_base",
+						"adminplus/templates/adminplus/adminp_base.html"
+					],
+					[
+						"amdinp_side",
+						"adminplus/templates/adminplus/adminp_sidebar.html"
+					],
+					[
+						"adminp_side",
+						"adminplus/templates/adminplus/adminp_sidebar.html"
+					],
+					[
+						"urls amdin",
+						"adminplus/urls.py"
+					],
+					[
+						"urls Doc",
+						"DoctorPlus/urls.py"
+					],
+					[
+						"acc admin",
+						"account/admin.py"
+					],
+					[
+						"edit_spec",
+						"adminplus/templates/adminplus/pages/speciality/edit_speciality.html"
+					],
+					[
+						"homr",
+						"home/templates/home/search.html"
+					],
+					[
+						"vie",
+						"doctor/views.py"
+					],
+					[
+						"app view",
+						"appointment/views.py"
+					],
+					[
+						"patient dash",
+						"patient/templates/patient/dashboard/patient_appoinment.html"
+					],
+					[
+						"model acc",
+						"account/models.py"
+					],
+					[
+						"book",
+						"appointment/templates/appointment/booked_success.html"
+					],
+					[
+						"public",
+						"appointment/templates/appointment/public_time_slot.html"
+					],
+					[
+						"public_time_slot_script",
+						"appointment/templates/appointment/scripts/public_time_slot_script.html"
+					],
+					[
+						"appointment vie",
+						"appointment/views.py"
+					],
+					[
+						"relative de",
+						"relative/templates/relative/family_member_detail.html"
+					],
+					[
+						"rela view",
+						"relative/views.py"
+					],
+					[
+						"publi",
+						"appointment/templates/appointment/public_time_slot.html"
+					],
+					[
+						"adminplus grap",
+						"adminplus/graphs.py"
+					],
+					[
+						"urls appointmen",
+						"appointment/urls.py"
+					],
+					[
+						"view appoint",
+						"appointment/views.py"
+					],
+					[
+						"url patie",
+						"patient/urls.py"
+					],
+					[
+						"booked_success.html",
+						"appointment/templates/appointment/booked_success.html"
+					],
+					[
+						"public_time_slot_script.html",
+						"appointment/templates/appointment/scripts/public_time_slot_script.html"
+					],
+					[
+						"doctoe",
+						"templates/doctor_sidebar.html"
+					],
+					[
+						"appointment",
+						"notification/appointment_notifications.py"
+					],
+					[
+						"patient n",
+						"notification/patient_notifications.py"
+					],
+					[
+						"relative view",
+						"relative/views.py"
+					],
+					[
+						"urls appin",
+						"appointment/urls.py"
+					],
+					[
+						"view app",
+						"appointment/views.py"
+					],
+					[
+						"view doctor",
+						"doctor/views.py"
+					],
+					[
+						"appointemtn admi",
+						"appointment/admin.py"
+					],
+					[
+						"appointmen ",
+						"notification/appointment_notifications.py"
+					],
+					[
+						"today_booked_appt_patient_list",
+						"appointment/templates/appointment/today_booked_appt_patient_list.html"
+					],
+					[
+						"app ta",
+						"appointment/templatetags/appt_custom_filter.py"
+					],
+					[
+						"schu",
+						"appointment/templates/appointment/schedule_time.html"
+					],
+					[
+						"app url",
+						"appointment/urls.py"
+					],
+					[
+						"models",
+						"account/models.py"
+					],
+					[
+						"view docto",
+						"doctor/views.py"
+					],
+					[
+						"doctor view",
+						"doctor/views.py"
+					],
+					[
+						"urls doctor",
+						"doctor/urls.py"
+					],
+					[
+						"exportable",
+						"doctor/templates/doctor/today_exportable_appointments.html"
+					],
+					[
+						"doctor_dash",
+						"doctor/templates/doctor/doctor_dashboard.html"
+					],
+					[
+						"doctor_",
+						"doctor/templates/doctor/templatetag_files/doctor_appointments_by_clinic.html"
+					],
+					[
+						"doctr",
+						"account/templates/account/doctor_register.html"
+					],
+					[
+						"doctor profil",
+						"doctor/templates/doctor/doctor_profile.html"
+					],
+					[
+						"forms",
+						"doctor/forms.py"
+					],
+					[
+						"dashboard.js",
+						"adminplus/static/adminplus/js/dashboard.js"
+					],
+					[
+						"doctor.js",
+						"adminplus/static/adminplus/js/doctors.js"
+					],
+					[
+						"urls smar",
+						"smartbot/urls.py"
+					],
+					[
+						"fmail",
+						"DoctorPlus/relative/templates/relative/family_member_detail.html"
+					],
+					[
+						"models doctor",
+						"DoctorPlus/doctor/models.py"
+					],
+					[
+						"view adminplus",
+						"DoctorPlus/adminplus/views.py"
+					],
+					[
+						"patients",
+						"DoctorPlus/adminplus/templates/adminplus/pages/patient/patients.html"
+					],
+					[
+						"admin_side",
+						"DoctorPlus/adminplus/templates/adminplus/adminp_sidebar.html"
+					],
+					[
+						"models home",
+						"DoctorPlus/home/models.py"
+					],
+					[
+						"all",
+						"DoctorPlus/adminplus/static/adminplus/js/all_feedbacks.js"
+					],
+					[
+						"doctors.js",
+						"DoctorPlus/adminplus/static/adminplus/js/doctors.js"
+					],
+					[
+						"models appointme",
+						"DoctorPlus/appointment/models.py"
+					],
+					[
+						"side",
+						"DoctorPlus/templates/sidebar.html"
+					],
+					[
+						"doctor_ra",
+						"DoctorPlus/adminplus/templates/adminplus/components/doctor_rating.html"
+					],
+					[
+						"doctor_rating",
+						"DoctorPlus/adminplus/templates/adminplus/components/doctor_rating.html"
+					],
+					[
+						"doctor_rating.html",
+						"DoctorPlus/adminplus/templates/adminplus/components/doctor_rating.html"
+					],
+					[
+						"adminplus",
+						"DoctorPlus/adminplus/templatetags/adminplus_tags.py"
+					],
+					[
+						"doctor",
+						"DoctorPlus/doctor/templatetags/doctor_tags.py"
+					],
+					[
+						"main.",
+						"DoctorPlus/chat/static/chat/js/main.js"
+					],
+					[
+						"doctor_tags",
+						"DoctorPlus/doctor/templatetags/doctor_tags.py"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 354.0,
+				"last_filter": "Doctor",
+				"selected_items":
+				[
+					[
+						"Doctor",
+						"Doctor"
+					],
+					[
+						"appoin",
+						"Appointment"
+					],
+					[
+						"Patien",
+						"Patient"
+					],
+					[
+						"Patie",
+						"Patient"
+					],
+					[
+						"appointmcon",
+						"AppointmentConditionThread"
+					],
+					[
+						"condition",
+						"ConditionThreadListView"
+					],
+					[
+						"service",
+						"Service"
+					],
+					[
+						"speci",
+						"Speciality"
+					],
+					[
+						"user",
+						"User"
+					],
+					[
+						"address",
+						"Address"
+					],
+					[
+						"sp",
+						"Speciality"
+					],
+					[
+						"login",
+						"LoginView"
+					],
+					[
+						"Address",
+						"Address"
+					],
+					[
+						"patien",
+						"Patient"
+					],
+					[
+						"USer",
+						"User"
+					],
+					[
+						"bloo",
+						"BloodGroup"
+					],
+					[
+						"relative",
+						"Relative"
+					],
+					[
+						"User",
+						"User"
+					],
+					[
+						"home",
+						"home_view"
+					],
+					[
+						"app",
+						"Appointment"
+					],
+					[
+						"Speci",
+						"Speciality"
+					],
+					[
+						"Service",
+						"Service"
+					],
+					[
+						"spe",
+						"Speciality"
+					],
+					[
+						"spec",
+						"Specialities"
+					],
+					[
+						"clinicvie",
+						"ClinicListView"
+					],
+					[
+						"clinic",
+						"Clinic"
+					]
+				],
+				"width": 747.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 276.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"__",
+						"__import__\tfunction"
+					],
+					[
+						"any",
+						"any\tfunction"
+					],
+					[
+						"try",
+						"try\tTry/Except/Else"
+					],
+					[
+						"def",
+						"def\tFunction"
+					],
+					[
+						"mip",
+						"mgip\tIPAddressField (mgip)"
+					],
+					[
+						"model",
+						"models\tmodule"
+					],
+					[
+						"mdate",
+						"mdate\tDateField (mdate)"
+					],
+					[
+						"mfil",
+						"mfilepath\tFilePathField (mfilepath)"
+					],
+					[
+						"read",
+						"read_only=\tparam"
+					],
+					[
+						"mu",
+						"MultipleChoiceField\tclass"
+					],
+					[
+						"ma",
+						"many"
+					],
+					[
+						"Ing",
+						"IntegerField\tclass"
+					],
+					[
+						"serial",
+						"serializers\tmodule"
+					],
+					[
+						"clini",
+						"clinics_data"
+					],
+					[
+						"clin",
+						"clinic_set_data\tstatement"
+					],
+					[
+						"Exp",
+						"ExperienceSerializer\tclass"
+					],
+					[
+						"Awr",
+						"AwardSerializer\tclass"
+					],
+					[
+						"Ed",
+						"EducationListSerializer\tclass"
+					],
+					[
+						"wir",
+						"WritableNestedModelSerializer\tclass"
+					],
+					[
+						"edu",
+						"education_instances\tstatement"
+					],
+					[
+						"ed",
+						"eduction_data\tstatement"
+					],
+					[
+						"education_",
+						"education_instance"
+					],
+					[
+						"ins",
+						"instances\tparam"
+					],
+					[
+						"valid",
+						"validated_data\tparam"
+					],
+					[
+						"Edi",
+						"Education"
+					],
+					[
+						"Clini",
+						"ClinicSerializer\tclass"
+					],
+					[
+						"Add",
+						"AddressSerializer\tclass"
+					],
+					[
+						"Doc",
+						"DoctorSerializer\tclass"
+					],
+					[
+						"modelser",
+						"modelserializer\tModelSerializer"
+					],
+					[
+						"doct",
+						"Doctor\tclass"
+					],
+					[
+						"rou",
+						"router\tstatement"
+					],
+					[
+						"App",
+						"AppointmentSerializer"
+					],
+					[
+						"Medi",
+						"MedicalRecordViewSet\tclass"
+					],
+					[
+						"view",
+						"GenericViewSet"
+					],
+					[
+						"serli",
+						"serializer_class\tstatement"
+					],
+					[
+						"Fe",
+						"FeedbackSerializerII\tclass"
+					],
+					[
+						"Feed",
+						"FeedbackSerializer\tclass"
+					],
+					[
+						"feed",
+						"FeedbackViewSet\tclass"
+					],
+					[
+						"fee",
+						"FeedbackSerializer\tclass"
+					],
+					[
+						"gener",
+						"GenericViewSet"
+					],
+					[
+						"Des",
+						"DestroyModelMixin\tclass"
+					],
+					[
+						"Ret",
+						"RetrieveModelMixin\tclass"
+					],
+					[
+						"Lis",
+						"ListModelMixin\tclass"
+					],
+					[
+						"Noti",
+						"NotificationSerializer\tclass"
+					],
+					[
+						"Not",
+						"NotificationSerializer\tclass"
+					],
+					[
+						"upda",
+						"update_date\tstatement"
+					],
+					[
+						"update",
+						"u_date_pdate\tstatement"
+					],
+					[
+						"now",
+						"now_3\tstatement"
+					],
+					[
+						"date",
+						"datetime"
+					],
+					[
+						"des",
+						"DestroyModelMixin\tclass"
+					],
+					[
+						"req",
+						"request"
+					],
+					[
+						"se",
+						"self\tparam"
+					],
+					[
+						"list",
+						"ListNotificationsView\tclass"
+					],
+					[
+						"No",
+						"Notification"
+					],
+					[
+						"not",
+						"notification\tmodule"
+					],
+					[
+						"Fee",
+						"FeedbackRepliesSerializer\tclass"
+					],
+					[
+						"RE",
+						"RetrieveFeedbackRepliesView\tclass"
+					],
+					[
+						"get",
+						"get\tfunction"
+					],
+					[
+						"Feedback",
+						"FeedbackReplies"
+					],
+					[
+						"as",
+						"as_view\tfunction"
+					],
+					[
+						"appo",
+						"appointment__doctor"
+					],
+					[
+						"pag",
+						"pagination_class\tstatement"
+					],
+					[
+						"Page",
+						"PageNumberPagination\tclass"
+					],
+					[
+						"res",
+						"rest_framework\tmodule"
+					],
+					[
+						"viewset",
+						"viewsets\tmodule"
+					],
+					[
+						"cu",
+						"currentText()\t⟠"
+					],
+					[
+						"combo",
+						"comboBox_2\tstatement"
+					],
+					[
+						"com",
+						"comboBox_2\tstatement"
+					],
+					[
+						"but",
+						"button_convert_clicked\tfunction"
+					],
+					[
+						"conn",
+						"connect(self\t8★ pro ⟠"
+					],
+					[
+						"bt",
+						"btn1\t⟠"
+					],
+					[
+						"st",
+						"strip\tfunction"
+					],
+					[
+						"ob",
+						"obj\tstatement"
+					],
+					[
+						"de",
+						"decrypt"
+					],
+					[
+						"has",
+						"hash\tstatement"
+					],
+					[
+						"ha",
+						"hash\tstatement"
+					],
+					[
+						"cr",
+						"crypto\tmodule"
+					],
+					[
+						"cry",
+						"crypt\tmodule"
+					],
+					[
+						"send",
+						"sender_id\tstatement"
+					],
+					[
+						"typ",
+						"typing_payload\tstatement"
+					],
+					[
+						"send_",
+						"send_raw\tfunction"
+					],
+					[
+						"py",
+						"payload\tparam"
+					],
+					[
+						"item",
+						"items\tstatement"
+					],
+					[
+						"pro",
+						"Product\tclass"
+					],
+					[
+						"admin",
+						"adminview\tModel Admin View"
+					],
+					[
+						"wel",
+						"welcome_key_words\tstatement"
+					],
+					[
+						"mo",
+						"models import\t8★ pro ⟠"
+					],
+					[
+						"djan",
+						"django\tmodule ⟠"
+					],
+					[
+						"dic",
+						"difference_in_years\tstatement"
+					],
+					[
+						"da",
+						"days=\tparam"
+					],
+					[
+						"time",
+						"timedelta\tclass"
+					],
+					[
+						"xp",
+						"xp_start_date\tstatement"
+					],
+					[
+						"List",
+						"ListMedicalRecordsView\tclass"
+					],
+					[
+						"medi",
+						"medicalrecord\tmodule"
+					],
+					[
+						"ser",
+						"serializer_class\tstatement"
+					],
+					[
+						"USer",
+						"UserSerializer\tclass"
+					],
+					[
+						"User",
+						"UserSerializer\tclass"
+					],
+					[
+						"qur",
+						"queryset\tstatement"
+					],
+					[
+						"Rel",
+						"RelativeSerializer\tclass"
+					],
+					[
+						"rel",
+						"relatives\tstatement"
+					],
+					[
+						"PAti",
+						"PatientSerializer\tclass"
+					],
+					[
+						"My",
+						"RetrieveMyPatientDetailView\tclass"
+					],
+					[
+						"Patien",
+						"PatientSerializer\tclass"
+					],
+					[
+						"bloo",
+						"blood_group"
+					],
+					[
+						"blo",
+						"blood_group"
+					],
+					[
+						"ret",
+						"retrieveapiview\tRetrieveAPIView"
+					],
+					[
+						"red",
+						"read_only_fields"
+					],
+					[
+						"ir",
+						"itertools"
+					],
+					[
+						"my",
+						"my_patients\tstatement"
+					],
+					[
+						"q",
+						"queryset\tstatement"
+					],
+					[
+						"listapi",
+						"listapiview\tListAPIView"
+					],
+					[
+						"validate",
+						"validated_data"
+					],
+					[
+						"cond",
+						"condition_threaded_data\tstatement"
+					],
+					[
+						"condition",
+						"condition_threaded"
+					],
+					[
+						"sup",
+						"super\tclass"
+					],
+					[
+						"dyn",
+						"dynamic_fields\tfunction"
+					],
+					[
+						"dy",
+						"dynamic_fields\tfunction"
+					],
+					[
+						"REla",
+						"RelativeSerializer\tclass"
+					],
+					[
+						"init",
+						"initial"
+					],
+					[
+						"user",
+						"UserSerializer\tclass"
+					],
+					[
+						"Relati",
+						"Relative\tclass"
+					],
+					[
+						"Re",
+						"RetrieveUpdateDestroyAPIView\tclass"
+					],
+					[
+						"get_query",
+						"get_queryset"
+					],
+					[
+						"reter",
+						"retrieveupdateapiview\tRetrieveUpdateAPIView"
+					],
+					[
+						"Appt",
+						"ApptStatus\tclass"
+					],
+					[
+						"dadh",
+						"DashboardApiView\tclass"
+					],
+					[
+						"app",
+						"appointment\tmodule"
+					],
+					[
+						"wid",
+						"width\tAttr"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/ali/mobile app/Be Better/mysite/manage.py",
+					"settings":
+					{
+						"buffer_size": 662,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Anaconda Python Builder",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Anaconda Python Builder",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"menu",
+						"View: Toggle Menu"
+					],
+					[
+						"Django:new",
+						"Django: New App"
+					],
+					[
+						"meu",
+						"View: Toggle Menu"
+					],
+					[
+						"op",
+						"Terminal View: Open Bash Terminal"
+					],
+					[
+						"Django:inter",
+						"Django: Set Project Interpreter"
+					],
+					[
+						"Django:new ",
+						"Django: New Project"
+					],
+					[
+						"Django:pro",
+						"Django: New Project"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"Django:migrate",
+						"Django: Migrate Database"
+					],
+					[
+						"Django:make",
+						"Django: Make Migration"
+					],
+					[
+						"show",
+						"Anaconda: Show error list"
+					],
+					[
+						"ui",
+						"UI: Select Theme"
+					],
+					[
+						"color",
+						"UI: Select Color Scheme"
+					],
+					[
+						"wo",
+						"Word Wrap: Toggle"
+					],
+					[
+						"low",
+						"Convert Case: Lower Case"
+					],
+					[
+						"active",
+						"Activate Materialize Theme"
+					],
+					[
+						"Django:migra",
+						"Django: Migrate Database"
+					],
+					[
+						"Django:ma",
+						"Django: Make Migration"
+					],
+					[
+						"Django:",
+						"Django: Other Command"
+					],
+					[
+						"Django:cre",
+						"Django: Run Custom Server"
+					],
+					[
+						"Django:mi",
+						"Django: Migrate Database"
+					],
+					[
+						"Django:migr",
+						"Django: Migrate App"
+					],
+					[
+						"lower",
+						"Convert Case: Lower Case"
+					],
+					[
+						"cus",
+						"Django: Custom Command"
+					],
+					[
+						"Django:mig",
+						"Django: Migrate Database"
+					],
+					[
+						"Django:run",
+						"Django: Run Server"
+					],
+					[
+						"acti",
+						"Activate Materialize Theme"
+					],
+					[
+						"activate",
+						"ayu: Activate theme"
+					],
+					[
+						"colo",
+						"UI: Select Color Scheme"
+					],
+					[
+						"men",
+						"View: Toggle Menu"
+					],
+					[
+						"Django:ru",
+						"Django: Run Server"
+					],
+					[
+						"mneu",
+						"View: Toggle Menu"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"Django:r",
+						"Django: Run Server"
+					],
+					[
+						"dj",
+						"Set Syntax: HTML (Django)"
+					],
+					[
+						"Django:cus",
+						"Django: Custom Command"
+					],
+					[
+						"titl",
+						"Convert Case: Title Case"
+					],
+					[
+						"title",
+						"Convert Case: Title Case"
+					],
+					[
+						"til",
+						"Snippet: Tabular Inline"
+					],
+					[
+						"tit",
+						"Convert Case: Title Case"
+					],
+					[
+						"Django:app",
+						"Django: New App"
+					],
+					[
+						"Django:u",
+						"Django: Custom Command"
+					],
+					[
+						"Django:runser",
+						"Django: Run Server"
+					],
+					[
+						"json",
+						"Set Syntax: JSON"
+					],
+					[
+						"Django:makemi",
+						"Django: Make Migration"
+					],
+					[
+						"jdson",
+						"Snippet: JSONField (sjson)"
+					],
+					[
+						"Django:mak",
+						"Django: Make Migration"
+					],
+					[
+						"save",
+						"File: Save All"
+					],
+					[
+						"ope",
+						"Terminal View: Open Bash Terminal"
+					],
+					[
+						"active ",
+						"Activate Materialize Theme"
+					],
+					[
+						"reind",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"active ay",
+						"ayu: Activate theme"
+					],
+					[
+						"them",
+						"UI: Select Theme"
+					],
+					[
+						"active m",
+						"Activate Materialize Theme"
+					],
+					[
+						"active me",
+						"Activate Materialize Theme"
+					],
+					[
+						"status",
+						"View: Toggle Status Bar"
+					],
+					[
+						"package remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"active ma",
+						"Activate Materialize Theme"
+					],
+					[
+						"mig",
+						"Django: Migrate Database"
+					],
+					[
+						"toggle tabs",
+						"View: Toggle Tabs"
+					],
+					[
+						"toggle stats",
+						"View: Toggle Status Bar"
+					],
+					[
+						"make",
+						"Django: Make Migration"
+					],
+					[
+						"material",
+						"Material Theme: Advanced configuration"
+					],
+					[
+						"toggle tab",
+						"View: Toggle Tabs"
+					],
+					[
+						"tabs",
+						"Terminal View: Open Bash Terminal"
+					],
+					[
+						"open",
+						"Terminal View: Open Bash Terminal"
+					],
+					[
+						"toabs",
+						"View: Toggle Tabs"
+					],
+					[
+						"toggl tab",
+						"View: Toggle Tabs"
+					],
+					[
+						"material ac",
+						"Material Theme: Advanced configuration"
+					],
+					[
+						"remove pakc",
+						"Package Control: Remove Package"
+					],
+					[
+						"active mat",
+						"Activate Materialize Theme"
+					],
+					[
+						"active mati",
+						"Material Theme: Activate theme"
+					],
+					[
+						"materializ",
+						"Activate Materialize Theme"
+					],
+					[
+						"wrap",
+						"Word Wrap: Toggle"
+					],
+					[
+						"material ",
+						"Material Theme: Configuration"
+					],
+					[
+						"ctags",
+						"CTags: Show Symbols (file)"
+					],
+					[
+						"o",
+						"Terminal View: Open Bash Terminal"
+					],
+					[
+						"coloe",
+						"UI: Select Color Scheme"
+					],
+					[
+						"theme",
+						"UI: Select Color Scheme"
+					],
+					[
+						"view ope",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"toggle",
+						"Bookmarks: Toggle"
+					],
+					[
+						"booke",
+						"Bookmarks: Toggle"
+					],
+					[
+						"view app",
+						"JavaScript Enhancements Flow: Previous Error"
+					],
+					[
+						"opent terin",
+						"Terminal View: Open Bash Terminal"
+					],
+					[
+						"html",
+						"HTMLPrettify"
+					],
+					[
+						"dja",
+						"Set Syntax: HTML (Django)"
+					],
+					[
+						"xml",
+						"Set Syntax: XML"
+					],
+					[
+						"java",
+						"Set Syntax: Java"
+					],
+					[
+						"runser",
+						"Django: Run Server"
+					],
+					[
+						"custom",
+						"Django: Custom Command"
+					],
+					[
+						"reinde",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"djan",
+						"Set Syntax: HTML (Django)"
+					],
+					[
+						"path",
+						"File: Copy Path"
+					],
+					[
+						"djn",
+						"Set Syntax: HTML (Django)"
+					],
+					[
+						"Django:custom",
+						"Django: Custom Command"
+					],
+					[
+						"django run",
+						"Django: Run Server"
+					],
+					[
+						"Django:server",
+						"Django: Run Server"
+					],
+					[
+						"open ba",
+						"Terminal View: Open Bash Terminal"
+					],
+					[
+						"open bas",
+						"Terminal View: Open Bash Terminal"
+					],
+					[
+						"opene",
+						"Sublime Merge: Open Repository"
+					],
+					[
+						"run",
+						"Django: Run Server"
+					],
+					[
+						"Django:runs",
+						"Django: Run Server"
+					],
+					[
+						"stat",
+						"View: Toggle Status Bar"
+					],
+					[
+						"merger",
+						"Sublime Merge: Open Repository"
+					],
+					[
+						"merge",
+						"Sublime Merge: Blame File"
+					],
+					[
+						"runs",
+						"Django: Run Server"
+					],
+					[
+						"term",
+						"Terminal View: Open Bash Terminal"
+					],
+					[
+						"django:help",
+						"Django: Help"
+					],
+					[
+						"makem",
+						"Django: Make Migration"
+					],
+					[
+						"migrate",
+						"Django: Migrate Database"
+					],
+					[
+						"terminal",
+						"Terminal View: Open Bash Terminal"
+					],
+					[
+						"re",
+						"Permute Lines: Reverse"
+					],
+					[
+						"terminsl",
+						"Terminal View: Open Bash Terminal"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"remove ",
+						"Package Control: Remove Package"
+					],
+					[
+						"djang",
+						"Set Syntax: HTML (Django)"
+					],
+					[
+						"package re",
+						"Package Control: Remove Package"
+					],
+					[
+						"packa",
+						"Package Control: Remove Package"
+					],
+					[
+						"djnago",
+						"Set Syntax: HTML (Django)"
+					],
+					[
+						"coloer",
+						"UI: Select Color Scheme"
+					],
+					[
+						"gutter",
+						"GitGutter: Show Diff Popup"
+					],
+					[
+						"git ",
+						"Preferences: GitGutter Key Bindings"
+					],
+					[
+						"git",
+						"Material Theme: Configuration"
+					],
+					[
+						"django",
+						"Set Syntax: HTML (Django)"
+					],
+					[
+						"git ba",
+						"Set Syntax: Git Rebase Todo"
+					],
+					[
+						"savel",
+						"File: Save All"
+					],
+					[
+						"snippet pass",
+						"Snippet: New Class"
+					],
+					[
+						"model acc",
+						"HTML: Encode Special Characters"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 178.0,
+				"history":
+				[
+					"sublime.log_commands(True)",
+					"sublime.log_commands(False)",
+					"sublime.log_commands(True)",
+					"sublime.log_commands(False)",
+					"sublime.log_commands(True)",
+					"sublime.log_command(True)",
+					"terminal"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/ali/mobile app/Be Better/mysite"
+			],
+			"file_history":
+			[
+				"/home/ali/mobile app/Be Better/mysite/products/models.py",
+				"/home/ali/mobile app/Be Better/mysite/products/tests.py",
+				"/home/ali/mobile app/Sublime Python IDE/Arsa.tmTheme",
+				"/home/ali/mobile app/Sublime Python IDE/material-theme.sublime-settings",
+				"/home/ali/mobile app/Sublime Python IDE/sublack.sublime-settings",
+				"/home/ali/mobile app/Sublime Python IDE/Anaconda.sublime-settings",
+				"/home/ali/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+				"/home/ali/.config/sublime-text-3/Packages/User/HTML (Django).sublime-settings",
+				"/home/ali/.config/sublime-text-3/Packages/User/Python (Django).sublime-settings",
+				"/home/ali/DoctorPlus/doctor/api/urls.py",
+				"/home/ali/DoctorPlus/doctor/api/views.py",
+				"/home/ali/DoctorPlus/doctor/models.py",
+				"/home/ali/DoctorPlus/doctor/api/serializers.py",
+				"/home/ali/DoctorPlus/appointment/models.py",
+				"/home/ali/DoctorPlus/patient/api/serializers.py",
+				"/home/ali/DoctorPlus/home/templates/home/homepage.html",
+				"/home/ali/DoctorPlus/templates/base.html",
+				"/home/ali/DoctorPlus/notification/models.py",
+				"/home/ali/DoctorPlus/account/tests.py",
+				"/home/ali/Ali/ali/ngrok/smartbot/del.py",
+				"/home/ali/Desktop/algo.py",
+				"/home/ali/Ali/ali/ngrok/smartbot/bot/ai.py",
+				"/home/ali/Ali/ali/ngrok/smartbot/products/admin.py",
+				"/home/ali/Ali/ali/ngrok/smartbot/bot/payload_responses.py",
+				"/home/ali/Ali/ali/ngrok/smartbot/products/models.py",
+				"/home/ali/Desktop/new.",
+				"/home/ali/Ali/ali/ngrok/smartbot/db.sqlite3",
+				"/home/ali/Ali/ali/ngrok/smartbot/smartbot/settings.py",
+				"/home/ali/Ali/ali/ngrok/smartbot/bot/admin.py",
+				"/home/ali/DoctorPlus/doctor/views.py",
+				"/home/ali/DoctorPlus/account/models.py",
+				"/home/ali/DoctorPlus/medicalrecord/models.py",
+				"/home/ali/DoctorPlus/patient/api/views.py",
+				"/home/ali/DoctorPlus/adminplus/graphs.py",
+				"/home/ali/DoctorPlus/adminplus/views.py",
+				"/home/ali/DoctorPlus/patient/api/README.md",
+				"/home/ali/DoctorPlus/doctor/urls.py",
+				"/home/ali/DoctorPlus/doctor/templates/doctor/doctor_dashboard.html",
+				"/home/ali/DoctorPlus/doctor/static/doctor/js/doctor_dashboard.js",
+				"/home/ali/DoctorPlus/doctor/api/permissions.py",
+				"/home/ali/DoctorPlus/DoctorPlus/settings.py",
+				"/home/ali/DoctorPlus/patient/api/permissions.py",
+				"/home/ali/DoctorPlus/account/api/urls.py",
+				"/home/ali/DoctorPlus/account/urls.py",
+				"/home/ali/parabola/parabola/settings.py",
+				"/home/ali/parabola/parabola/urls.py",
+				"/home/ali/parabola/home/templates/home/contact.html",
+				"/home/ali/parabola/templates/base.html",
+				"/home/ali/parabola/home/urls.py",
+				"/home/ali/parabola/home/templates/home/faq.html",
+				"/home/ali/parabola/home/templates/home/index.html",
+				"/home/ali/parabola/templates/navbar.html",
+				"/home/ali/parabola/home/templates/home/coverage.html",
+				"/home/ali/parabola/home/templates/home/products.html",
+				"/home/ali/parabola/home/views.py",
+				"/home/ali/parabola/static/css/styles.css",
+				"/home/ali/parabola/templates/footer.html",
+				"/home/ali/parabola/home/templates/home/solutions.html",
+				"/home/ali/parabola/home/templates/home/terms_conditions.html",
+				"/home/ali/parabola/home/templates/home/continent.html",
+				"/home/ali/parabola/home/static/phone.codes.js",
+				"/home/ali/Desktop/International mobile dial codes _ Sprint Support.htm",
+				"/home/ali/parabola/home/templates/home/privacy-policy.html",
+				"/home/ali/parabola/settings/settings.py",
+				"/home/ali/parabola/templates/header.html",
+				"/home/ali/telecom/telecom/settings.py",
+				"/home/ali/telecom/templates/base.html",
+				"/home/ali/telecom/home/views.py",
+				"/home/ali/telecom/home/templates/home/index.html",
+				"/home/ali/telecom/telecom/urls.py",
+				"/home/ali/telecom/templates/header.html",
+				"/home/ali/telecom/home/urls.py",
+				"/home/ali/DoctorPlus/doctor/templates/doctor/dropdowns/conditions_dropdown.html",
+				"/home/ali/DoctorPlus/doctor/static/doctor/js/profile-settings.js",
+				"/home/ali/DoctorPlus/adminplus/templates/adminplus/pages/doctor/review_requests.html",
+				"/home/ali/DoctorPlus/home/models.py",
+				"/home/ali/DoctorPlus/adminplus/forms.py",
+				"/home/ali/DoctorPlus/patient/views.py",
+				"/home/ali/DoctorPlus/doctor/templates/doctor/doctor_profile.html",
+				"/home/ali/DoctorPlus/account/admin.py",
+				"/home/ali/DoctorPlus/adminplus/templates/adminplus/pages/speciality/services.html",
+				"/home/ali/DoctorPlus/adminplus/urls.py",
+				"/home/ali/DoctorPlus/adminplus/templates/adminplus/adminp_sidebar.html",
+				"/home/ali/DoctorPlus/adminplus/templates/adminplus/pages/speciality/edit_speciality.html",
+				"/tmp/kite_tutorial.py",
+				"/home/ali/.config/sublime-text-3/Packages/User/KiteSublime.sublime-settings",
+				"/home/ali/.config/sublime-text-3/Packages/KiteSublime/KiteSublime.sublime-settings",
+				"/home/ali/DoctorPlus/adminplus/templates/adminplus/pages/speciality/specialities.html",
+				"/home/ali/DoctorPlus/account/validators.py",
+				"/home/ali/DoctorPlus/account/api/serializers.py",
+				"/home/ali/DoctorPlus/account/api/views.py",
+				"/home/ali/DoctorPlus/DoctorPlus/urls.py",
+				"/home/ali/DoctorPlus/account/views.py",
+				"/home/ali/DoctorPlus/patient/api/urls.py",
+				"/home/ali/DoctorPlus/patient/models.py",
+				"/home/ali/DoctorPlus/account/api/__init__.py",
+				"/home/ali/DoctorPlus/chat/validators.py",
+				"/home/ali/DoctorPlus/chat/models.py",
+				"/home/ali/DoctorPlus/relative/forms.py",
+				"/home/ali/DoctorPlus/patient/urls.py",
+				"/home/ali/DoctorPlus/patient/api/__init__.py",
+				"/home/ali/DoctorPlus/doctor/templatetags/doctor_tags.py",
+				"/home/ali/DoctorPlus/home/static/home/js/home.js",
+				"/home/ali/DoctorPlus/home/views.py",
+				"/home/ali/DoctorPlus/home/urls.py",
+				"/home/ali/DoctorPlus/adminplus/templates/adminplus/components/doctor_rating.html",
+				"/home/ali/DoctorPlus/appointment/urls.py",
+				"/home/ali/DoctorPlus/doctor/templates/doctor/templatetag_files/doctor_rating.html",
+				"/home/ali/DoctorPlus/adminplus/templates/adminplus/pages/doctor/doctors.html",
+				"/home/ali/DoctorPlus/adminplus/static/adminplus/js/dashboard.js",
+				"/home/ali/DoctorPlus/adminplus/static/adminplus/js/doctors.js",
+				"/home/ali/DoctorPlus/adminplus/templates/adminplus/pages/speciality/conditions.html",
+				"/home/ali/DoctorPlus/adminplus/static/adminplus/js/all_feedbacks.js",
+				"/home/ali/DoctorPlus/adminplus/templates/adminplus/pages/feedback/all_feedbacks.html",
+				"/home/ali/DoctorPlus/adminplus/templates/adminplus/pages/feedback/feedbacks.html",
+				"/home/ali/DoctorPlus/adminplus/templates/adminplus/pages/speciality/edit_service.html",
+				"/home/ali/DoctorPlus/adminplus/templates/adminplus/pages/speciality/edit_conditions.html",
+				"/home/ali/DoctorPlus/relative/templates/relative/family_member_detail.html",
+				"/home/ali/DoctorPlus/adminplus/templates/adminplus/adminp_base.html",
+				"/home/ali/DoctorPlus/adminplus/templates/adminplus/components/components.main.html",
+				"/home/ali/DoctorPlus/adminplus/templates/adminplus/adminp_dashboard.html",
+				"/home/ali/DoctorPlus/account/__init__.py",
+				"/home/ali/DoctorPlus/home/templates/home/search.html",
+				"/home/ali/DoctorPlus/doctor/forms.py",
+				"/home/ali/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+				"/home/ali/.config/sublime-text-3/Packages/User/CTags.sublime-settings",
+				"/home/ali/.config/sublime-text-3/Packages/CTags/CTags.sublime-settings",
+				"/home/ali/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap"
+			],
+			"find":
+			{
+				"height": 26.0
+			},
+			"find_in_files":
+			{
+				"height": 136.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": false
+			},
+			"folders":
+			[
+				{
+					"path": "/home/ali/mobile app/Be Better/mysite"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/ali/mobile app/Be Better/mysite/manage.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 662,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										662,
+										662
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content"
+									],
+									"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 52.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": false,
+			"output.exec":
+			{
+				"height": 318.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,18,640,498,1366,768",
+			"project": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"test",
+						"products/tests.py"
+					],
+					[
+						"model ",
+						"products/models.py"
+					],
+					[
+						"model app",
+						"appointment/models.py"
+					],
+					[
+						"app model",
+						"appointment/models.py"
+					],
+					[
+						"home",
+						"home/templates/home/homepage.html"
+					],
+					[
+						"html",
+						"templates/base.html"
+					],
+					[
+						"serial",
+						"patient/api/serializers.py"
+					],
+					[
+						"tes",
+						"account/tests.py"
+					],
+					[
+						"settin",
+						"smartbot/settings.py"
+					],
+					[
+						"model cod",
+						"doctor/models.py"
+					],
+					[
+						"view doc",
+						"doctor/views.py"
+					],
+					[
+						"urls doc",
+						"doctor/api/urls.py"
+					],
+					[
+						"graph",
+						"adminplus/graphs.py"
+					],
+					[
+						"models app",
+						"appointment/models.py"
+					],
+					[
+						"rea",
+						"patient/api/README.md"
+					],
+					[
+						"pat seria",
+						"patient/api/serializers.py"
+					],
+					[
+						"seria",
+						"doctor/api/serializers.py"
+					],
+					[
+						"doctor_dashboard",
+						"doctor/static/doctor/js/doctor_dashboard.js"
+					],
+					[
+						"doctor dash",
+						"doctor/templates/doctor/doctor_dashboard.html"
+					],
+					[
+						"serli pati",
+						"patient/api/serializers.py"
+					],
+					[
+						"view patient",
+						"patient/api/views.py"
+					],
+					[
+						"serli",
+						"patient/api/serializers.py"
+					],
+					[
+						"view patien",
+						"patient/api/views.py"
+					],
+					[
+						"setting",
+						"DoctorPlus/settings.py"
+					],
+					[
+						"view doct",
+						"doctor/views.py"
+					],
+					[
+						"per",
+						"patient/api/permissions.py"
+					],
+					[
+						"permin",
+						"doctor/api/permissions.py"
+					],
+					[
+						"urls acc",
+						"account/urls.py"
+					],
+					[
+						"url acc",
+						"account/api/urls.py"
+					],
+					[
+						"conta",
+						"home/templates/home/contact.html"
+					],
+					[
+						"index",
+						"home/templates/home/index.html"
+					],
+					[
+						"base",
+						"templates/base.html"
+					],
+					[
+						"nav",
+						"templates/navbar.html"
+					],
+					[
+						"urls",
+						"home/urls.py"
+					],
+					[
+						"footer",
+						"templates/footer.html"
+					],
+					[
+						"navbar",
+						"templates/navbar.html"
+					],
+					[
+						"header",
+						"templates/header.html"
+					],
+					[
+						"home model",
+						"home/models.py"
+					],
+					[
+						"adminpside",
+						"adminplus/templates/adminplus/adminp_sidebar.html"
+					],
+					[
+						"admin acc",
+						"account/admin.py"
+					],
+					[
+						"view",
+						"doctor/views.py"
+					],
+					[
+						"view admin ",
+						"adminplus/views.py"
+					],
+					[
+						"urls Doctor",
+						"DoctorPlus/urls.py"
+					],
+					[
+						"models patient",
+						"patient/models.py"
+					],
+					[
+						"rel form",
+						"relative/forms.py"
+					],
+					[
+						"settings",
+						"DoctorPlus/settings.py"
+					],
+					[
+						"doctor_ta",
+						"doctor/templatetags/doctor_tags.py"
+					],
+					[
+						"view home",
+						"home/views.py"
+					],
+					[
+						"home.js",
+						"home/static/home/js/home.js"
+					],
+					[
+						"urls app",
+						"appointment/urls.py"
+					],
+					[
+						"model home",
+						"home/models.py"
+					],
+					[
+						"doctor_tain",
+						"adminplus/templates/adminplus/components/doctor_rating.html"
+					],
+					[
+						"url home",
+						"home/urls.py"
+					],
+					[
+						"urls docto",
+						"doctor/urls.py"
+					],
+					[
+						"models acc",
+						"account/models.py"
+					],
+					[
+						"doctors",
+						"adminplus/static/adminplus/js/doctors.js"
+					],
+					[
+						"view adminp",
+						"adminplus/views.py"
+					],
+					[
+						"all_",
+						"adminplus/static/adminplus/js/all_feedbacks.js"
+					],
+					[
+						"addminp_side",
+						"adminplus/templates/adminplus/adminp_sidebar.html"
+					],
+					[
+						"famil",
+						"relative/templates/relative/family_member_detail.html"
+					],
+					[
+						"urls amdinp",
+						"adminplus/urls.py"
+					],
+					[
+						"adminp_base",
+						"adminplus/templates/adminplus/adminp_base.html"
+					],
+					[
+						"amdinp_side",
+						"adminplus/templates/adminplus/adminp_sidebar.html"
+					],
+					[
+						"adminp_side",
+						"adminplus/templates/adminplus/adminp_sidebar.html"
+					],
+					[
+						"urls amdin",
+						"adminplus/urls.py"
+					],
+					[
+						"urls Doc",
+						"DoctorPlus/urls.py"
+					],
+					[
+						"acc admin",
+						"account/admin.py"
+					],
+					[
+						"edit_spec",
+						"adminplus/templates/adminplus/pages/speciality/edit_speciality.html"
+					],
+					[
+						"homr",
+						"home/templates/home/search.html"
+					],
+					[
+						"vie",
+						"doctor/views.py"
+					],
+					[
+						"app view",
+						"appointment/views.py"
+					],
+					[
+						"patient dash",
+						"patient/templates/patient/dashboard/patient_appoinment.html"
+					],
+					[
+						"model acc",
+						"account/models.py"
+					],
+					[
+						"book",
+						"appointment/templates/appointment/booked_success.html"
+					],
+					[
+						"public",
+						"appointment/templates/appointment/public_time_slot.html"
+					],
+					[
+						"public_time_slot_script",
+						"appointment/templates/appointment/scripts/public_time_slot_script.html"
+					],
+					[
+						"appointment vie",
+						"appointment/views.py"
+					],
+					[
+						"relative de",
+						"relative/templates/relative/family_member_detail.html"
+					],
+					[
+						"rela view",
+						"relative/views.py"
+					],
+					[
+						"publi",
+						"appointment/templates/appointment/public_time_slot.html"
+					],
+					[
+						"adminplus grap",
+						"adminplus/graphs.py"
+					],
+					[
+						"urls appointmen",
+						"appointment/urls.py"
+					],
+					[
+						"view appoint",
+						"appointment/views.py"
+					],
+					[
+						"url patie",
+						"patient/urls.py"
+					],
+					[
+						"booked_success.html",
+						"appointment/templates/appointment/booked_success.html"
+					],
+					[
+						"public_time_slot_script.html",
+						"appointment/templates/appointment/scripts/public_time_slot_script.html"
+					],
+					[
+						"doctoe",
+						"templates/doctor_sidebar.html"
+					],
+					[
+						"appointment",
+						"notification/appointment_notifications.py"
+					],
+					[
+						"patient n",
+						"notification/patient_notifications.py"
+					],
+					[
+						"relative view",
+						"relative/views.py"
+					],
+					[
+						"urls appin",
+						"appointment/urls.py"
+					],
+					[
+						"view app",
+						"appointment/views.py"
+					],
+					[
+						"view doctor",
+						"doctor/views.py"
+					],
+					[
+						"appointemtn admi",
+						"appointment/admin.py"
+					],
+					[
+						"appointmen ",
+						"notification/appointment_notifications.py"
+					],
+					[
+						"today_booked_appt_patient_list",
+						"appointment/templates/appointment/today_booked_appt_patient_list.html"
+					],
+					[
+						"app ta",
+						"appointment/templatetags/appt_custom_filter.py"
+					],
+					[
+						"schu",
+						"appointment/templates/appointment/schedule_time.html"
+					],
+					[
+						"app url",
+						"appointment/urls.py"
+					],
+					[
+						"models",
+						"account/models.py"
+					],
+					[
+						"view docto",
+						"doctor/views.py"
+					],
+					[
+						"doctor view",
+						"doctor/views.py"
+					],
+					[
+						"urls doctor",
+						"doctor/urls.py"
+					],
+					[
+						"exportable",
+						"doctor/templates/doctor/today_exportable_appointments.html"
+					],
+					[
+						"doctor_dash",
+						"doctor/templates/doctor/doctor_dashboard.html"
+					],
+					[
+						"doctor_",
+						"doctor/templates/doctor/templatetag_files/doctor_appointments_by_clinic.html"
+					],
+					[
+						"doctr",
+						"account/templates/account/doctor_register.html"
+					],
+					[
+						"doctor profil",
+						"doctor/templates/doctor/doctor_profile.html"
+					],
+					[
+						"forms",
+						"doctor/forms.py"
+					],
+					[
+						"dashboard.js",
+						"adminplus/static/adminplus/js/dashboard.js"
+					],
+					[
+						"doctor.js",
+						"adminplus/static/adminplus/js/doctors.js"
+					],
+					[
+						"urls smar",
+						"smartbot/urls.py"
+					],
+					[
+						"fmail",
+						"DoctorPlus/relative/templates/relative/family_member_detail.html"
+					],
+					[
+						"models doctor",
+						"DoctorPlus/doctor/models.py"
+					],
+					[
+						"view adminplus",
+						"DoctorPlus/adminplus/views.py"
+					],
+					[
+						"patients",
+						"DoctorPlus/adminplus/templates/adminplus/pages/patient/patients.html"
+					],
+					[
+						"admin_side",
+						"DoctorPlus/adminplus/templates/adminplus/adminp_sidebar.html"
+					],
+					[
+						"models home",
+						"DoctorPlus/home/models.py"
+					],
+					[
+						"all",
+						"DoctorPlus/adminplus/static/adminplus/js/all_feedbacks.js"
+					],
+					[
+						"doctors.js",
+						"DoctorPlus/adminplus/static/adminplus/js/doctors.js"
+					],
+					[
+						"models appointme",
+						"DoctorPlus/appointment/models.py"
+					],
+					[
+						"side",
+						"DoctorPlus/templates/sidebar.html"
+					],
+					[
+						"doctor_ra",
+						"DoctorPlus/adminplus/templates/adminplus/components/doctor_rating.html"
+					],
+					[
+						"doctor_rating",
+						"DoctorPlus/adminplus/templates/adminplus/components/doctor_rating.html"
+					],
+					[
+						"doctor_rating.html",
+						"DoctorPlus/adminplus/templates/adminplus/components/doctor_rating.html"
+					],
+					[
+						"adminplus",
+						"DoctorPlus/adminplus/templatetags/adminplus_tags.py"
+					],
+					[
+						"doctor",
+						"DoctorPlus/doctor/templatetags/doctor_tags.py"
+					],
+					[
+						"main.",
+						"DoctorPlus/chat/static/chat/js/main.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 354.0,
+				"last_filter": "Doctor",
+				"selected_items":
+				[
+					[
+						"Doctor",
+						"Doctor"
+					],
+					[
+						"appoin",
+						"Appointment"
+					],
+					[
+						"Patien",
+						"Patient"
+					],
+					[
+						"Patie",
+						"Patient"
+					],
+					[
+						"appointmcon",
+						"AppointmentConditionThread"
+					],
+					[
+						"condition",
+						"ConditionThreadListView"
+					],
+					[
+						"service",
+						"Service"
+					],
+					[
+						"speci",
+						"Speciality"
+					],
+					[
+						"user",
+						"User"
+					],
+					[
+						"address",
+						"Address"
+					],
+					[
+						"sp",
+						"Speciality"
+					],
+					[
+						"login",
+						"LoginView"
+					],
+					[
+						"Address",
+						"Address"
+					],
+					[
+						"patien",
+						"Patient"
+					],
+					[
+						"USer",
+						"User"
+					],
+					[
+						"bloo",
+						"BloodGroup"
+					],
+					[
+						"relative",
+						"Relative"
+					],
+					[
+						"User",
+						"User"
+					],
+					[
+						"home",
+						"home_view"
+					],
+					[
+						"app",
+						"Appointment"
+					],
+					[
+						"Speci",
+						"Speciality"
+					],
+					[
+						"Service",
+						"Service"
+					],
+					[
+						"spe",
+						"Speciality"
+					],
+					[
+						"spec",
+						"Specialities"
+					],
+					[
+						"clinicvie",
+						"ClinicListView"
+					],
+					[
+						"clinic",
+						"Clinic"
+					]
+				],
+				"width": 747.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 276.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 133,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

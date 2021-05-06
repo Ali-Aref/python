@@ -1,0 +1,7 @@
+// Specify your own settings. You don't need to restart
+{
+	// all are mine
+	"sidebar_widget_on_other_theme": false,
+	"sidebar_widget": ["clock"],
+	"sidebar_widget_clock_mode": "12h",
+}

@@ -1,0 +1,4 @@
+[
+	{"keys": ["alt+-"], "command": "run_macro_file", "args": {"file": "Packages/User/djang_gettext.sublime-macro"}},
+	{"keys": ["control+\\"], "command": "focus_side_bar"},	
+]

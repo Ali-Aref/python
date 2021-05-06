@@ -1,0 +1,23 @@
+// Do NOT edit anything in the left-hand pane.
+// Copy the whole tree from there to here.
+{
+	"htmltidy": {
+        "disable": false,
+        "format_on_save": true,
+        "syntaxes": ["html", "xml"],
+        "executable_path": "/usr/bin/tidy",
+        "config_path": {
+            "html": "${packages}/User/formatter.assets/config/htmltidyrc_html.cfg",
+            "xml": "${packages}/User/formatter.assets/config/htmltidyrc_xml.cfg"
+        }
+    },
+    "black": {
+        "disable": true,
+        "format_on_save": false,
+        "syntaxes": ["python"],
+        "executable_path": "${packages}/User/formatter.assets/python/bin/black",
+        "config_path": {
+            "default": "${packages}/User/formatter.assets/config/blackrc.toml"
+        }
+    },
+}

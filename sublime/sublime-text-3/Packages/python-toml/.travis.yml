@@ -1,0 +1,19 @@
+language: python
+
+python:
+ - "3.3"
+
+notifications:
+  email: false
+addons:
+  apt:
+    packages:
+    - git
+    - golang
+before_install:
+ - export GOPATH=~/go
+ - go get github.com/BurntSushi/toml-test
+script:
+ - ~/go/bin/toml-test ./tests/decoding_test3.sh
+
+

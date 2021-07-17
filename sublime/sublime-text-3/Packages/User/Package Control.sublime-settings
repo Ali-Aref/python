@@ -7,17 +7,17 @@
 	[
 		"A File Icon",
 		"Anaconda",
-		"AutoFileName",
 		"Axios Snippets",
 		"ayu",
 		"BracketHighlighter",
+		"Color Highlight",
 		"CTags",
 		"Djaneiro",
 		"Django Manage Commands",
 		"Django-Rest-Snippets",
 		"Emmet",
 		"HTML-CSS-JS Prettify",
-		"JavaScript Enhancements",
+		"JavaScript Completions",
 		"jQuery",
 		"Material Theme",
 		"Materialize",
@@ -25,6 +25,8 @@
 		"RTL Mirror",
 		"SideBarEnhancements",
 		"sublack",
-		"TerminalView"
-	]
+		"SublimeLinter-pydocstyle",
+		"TerminalView",
+		"ToDone",
+	],
 }

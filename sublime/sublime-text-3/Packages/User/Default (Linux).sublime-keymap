@@ -1,4 +1,8 @@
 [
 	{"keys": ["alt+-"], "command": "run_macro_file", "args": {"file": "Packages/User/djang_gettext.sublime-macro"}},
-	{"keys": ["control+\\"], "command": "focus_side_bar"},	
+	{ "keys": ["alt+]"], "command": "next_bookmark" },
+	{ "keys": ["alt+["], "command": "prev_bookmark" },
+	{ "keys": ["alt+="], "command": "toggle_bookmark" },
+	{ "keys": ["shift+alt+-"], "command": "clear_bookmarks" },
+	{ "keys": ["shift+alt+="], "command": "select_all_bookmarks" },
 ]

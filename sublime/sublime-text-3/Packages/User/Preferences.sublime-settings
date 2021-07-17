@@ -3,9 +3,9 @@
 	"font_size": 9,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
 	],
-	"material_theme_accent_red": true,
+	"material_theme_accent_orange": true,
 	"material_theme_big_fileicons": true,
 	"material_theme_bright_scrollbars": true,
 	"material_theme_compact_panel": true,
@@ -15,5 +15,19 @@
 	"material_theme_small_tab": true,
 	"material_theme_tabs_autowidth": true,
 	"material_theme_tree_headings": true,
-	"theme": "ayu-dark.sublime-theme"
+	"material_theme_tabs_separator": true,
+	"material_theme_panel_separator": true,
+	"theme": "Default Dark.sublime-theme",
+	"light_theme": "Default Dark.sublime-theme",
+	"dark_theme": "Adaptive.sublime-theme",
+	// added by ali
+	// Set to false to disable detection of tabs vs. spaces on load
+	"detect_indentation": false,
+	"highlight_line": false,
+	"line_padding_top": 0,
+	/*"line_padding_top": 0,*/
+	"auto_complete_delay": 25,
+	"auto_complete_cycle": true,
+	"file_tab_style": "rounded", // square
+	"spell_check": false,
 }

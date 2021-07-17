@@ -1,10 +1,36 @@
 {
 	"folder_history":
 	[
+		"/home/ali/FocusWeb",
+		"/home/ali/Desktop/hostwhmcs",
+		"/home/ali/ICTHOST",
+		"/home/ali/IctHost",
+		"/home/ali/mxhost/uxliner.com/maxhost___django",
+		"/home/ali/digitalstore",
+		"/home/ali/ICTHOSTS",
+		"/home/ali/Ali/Documents/web_temps/Ecom/molla-eCommerce-html-template__django",
+		"/home/ali/WoClothingStore",
+		"/opt/lampp/apps/wordpress",
+		"/home/ali/PyGetWays",
+		"/opt/lampp/htdocs/wordpress",
+		"/home/ali/SmartBot",
+		"/home/ali/cms/razorpay/RZ",
+		"/home/ali/braintree/BT",
+		"/home/ali/braintree/did_django_braintree_api",
+		"/home/ali/ch2/2checkout-python",
+		"/home/ali/2checkout-python",
+		"/home/ali/2checkout-python-tutorial",
+		"/home/ali/WomenClothingStores",
+		"/home/ali/Ali/Documents/code/FOCUS/Ecommercey",
+		"/home/ali/Ali/Documents/web_temps/Ecom/molla-eCommerce-html-template",
+		"/home/ali/Ecommercey",
+		"/home/ali/Desktop/ecom/httrack/website",
+		"/home/ali/DoctorPlus",
+		"/home/ali/Desktop/chatbot",
+		"/home/ali/DoctorPlus_bak_test",
 		"/home/ali/mobile app/Be Better/mysite",
 		"/home/ali/mobile app/Be Better",
 		"/home/ali/mobile app/Sublime Python IDE",
-		"/home/ali/DoctorPlus",
 		"/home/ali/pro",
 		"/home/ali/Ali/ali/ngrok/smartbot",
 		"/home/ali/parabola",
@@ -43,12 +69,14 @@
 		"/home/ali/Ali/ali/ngrok/pythonbot_bak",
 		"/media/ali/Chelsea FC/Documents/code/projects/pro"
 	],
-	"last_version": 3211,
-	"last_window_id": 133,
+	"last_version": 4113,
+	"last_window_id": 189,
 	"log_indexing": false,
 	"settings":
 	{
+		"new_window_full_screen": false,
 		"new_window_height": 0.0,
+		"new_window_maximized": true,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -56,516 +84,516 @@
 				"selected_items":
 				[
 					[
-						"read",
-						"read_only=\tparam"
+						"consle",
+						"console_log"
 					],
 					[
-						"mu",
-						"MultipleChoiceField\tclass"
+						"each",
+						"each"
 					],
 					[
-						"ma",
-						"many"
+						"findele",
+						"find_element_by_xpath"
 					],
 					[
-						"Ing",
-						"IntegerField\tclass"
+						"find_",
+						"find_element_by_name"
 					],
 					[
-						"serial",
-						"serializers\tmodule"
+						"axios",
+						"axios.get"
 					],
 					[
-						"clini",
-						"clinics_data"
+						"fiefo",
+						"Firefox"
 					],
 					[
-						"clin",
-						"clinic_set_data\tstatement"
+						"find",
+						"find_element_by_name"
 					],
 					[
-						"Exp",
-						"ExperienceSerializer\tclass"
+						"fin",
+						"find"
 					],
 					[
-						"Awr",
-						"AwardSerializer\tclass"
+						"ontent",
+						"contentType"
 					],
 					[
-						"Ed",
-						"EducationListSerializer\tclass"
+						"name",
+						"namecheap_api"
 					],
 					[
-						"wir",
-						"WritableNestedModelSerializer\tclass"
+						"do",
+						"domain"
 					],
 					[
-						"edu",
-						"education_instances\tstatement"
+						"co",
+						"conf"
 					],
 					[
-						"ed",
-						"eduction_data\tstatement"
+						"searc",
+						"searching"
 					],
 					[
-						"education_",
-						"education_instance"
+						"axis",
+						"axios.post"
 					],
 					[
-						"ins",
-						"instances\tparam"
+						"preve",
+						"preventDefault"
 					],
 					[
-						"valid",
-						"validated_data\tparam"
+						"conte",
+						"context"
 					],
 					[
-						"Edi",
-						"Education"
+						"templa",
+						"templateview"
 					],
 					[
-						"Clini",
-						"ClinicSerializer\tclass"
+						"_",
+						"__class__"
 					],
 					[
-						"Add",
-						"AddressSerializer\tclass"
+						"defau",
+						"default="
+					],
+					[
+						"def",
+						"default="
 					],
 					[
 						"model",
-						"modelserializer\tModelSerializer"
+						"Model_full"
 					],
 					[
-						"Doc",
-						"DoctorSerializer\tclass"
+						"extra",
+						"extrascript"
 					],
 					[
-						"modelser",
-						"modelserializer\tModelSerializer"
+						"extras",
+						"extrascript"
 					],
 					[
-						"doct",
-						"Doctor\tclass"
+						"nam",
+						"namespace="
 					],
 					[
-						"rou",
-						"router\tstatement"
+						"send",
+						"send_email_to"
 					],
 					[
-						"App",
-						"AppointmentSerializer"
-					],
-					[
-						"Medi",
-						"MedicalRecordViewSet\tclass"
-					],
-					[
-						"view",
-						"GenericViewSet"
-					],
-					[
-						"serli",
-						"serializer_class\tstatement"
-					],
-					[
-						"Fe",
-						"FeedbackSerializerII\tclass"
-					],
-					[
-						"Feed",
-						"FeedbackSerializer\tclass"
-					],
-					[
-						"feed",
-						"FeedbackViewSet\tclass"
-					],
-					[
-						"fee",
-						"FeedbackSerializer\tclass"
-					],
-					[
-						"gener",
-						"GenericViewSet"
-					],
-					[
-						"Des",
-						"DestroyModelMixin\tclass"
-					],
-					[
-						"Ret",
-						"RetrieveModelMixin\tclass"
-					],
-					[
-						"Lis",
-						"ListModelMixin\tclass"
-					],
-					[
-						"Noti",
-						"NotificationSerializer\tclass"
-					],
-					[
-						"Not",
-						"NotificationSerializer\tclass"
-					],
-					[
-						"upda",
-						"update_date\tstatement"
-					],
-					[
-						"update",
-						"u_date_pdate\tstatement"
-					],
-					[
-						"now",
-						"now_3\tstatement"
-					],
-					[
-						"date",
-						"datetime"
-					],
-					[
-						"des",
-						"DestroyModelMixin\tclass"
+						"back",
+						"background-position"
 					],
 					[
 						"req",
 						"request"
 					],
 					[
-						"se",
-						"self\tparam"
+						"sin",
+						"signup_form"
 					],
 					[
-						"list",
-						"ListNotificationsView\tclass"
+						"login",
+						"LoginView"
 					],
 					[
-						"No",
-						"Notification"
+						"logi",
+						"login_singup"
 					],
 					[
-						"not",
-						"notification\tmodule"
+						"sing",
+						"signup_form"
 					],
 					[
-						"Fee",
-						"FeedbackRepliesSerializer\tclass"
+						"sig",
+						"signup_form"
 					],
 					[
-						"RE",
-						"RetrieveFeedbackRepliesView\tclass"
+						"si",
+						"signup_form"
 					],
 					[
-						"get",
-						"get\tfunction"
+						"ras",
+						"raise"
 					],
 					[
-						"Feedback",
-						"FeedbackReplies"
+						"cl",
+						"cleaned_data"
 					],
 					[
-						"as",
-						"as_view\tfunction"
+						"pas",
+						"password1"
 					],
 					[
-						"appo",
-						"appointment__doctor"
+						"na",
+						"name="
 					],
 					[
-						"pag",
-						"pagination_class\tstatement"
+						"att",
+						"attrs="
 					],
 					[
-						"Page",
-						"PageNumberPagination\tclass"
+						"widg",
+						"widget="
+					],
+					[
+						"is",
+						"is_authenticated"
+					],
+					[
+						"Xuser",
+						"XuserInfo"
+					],
+					[
+						"font",
+						"font-size"
 					],
 					[
 						"res",
-						"rest_framework\tmodule"
+						"result"
 					],
 					[
-						"viewset",
-						"viewsets\tmodule"
+						"oer",
+						"ordering"
 					],
 					[
-						"cu",
-						"currentText()\t⟠"
+						"Htt",
+						"HttpResponseForbidden"
 					],
 					[
-						"combo",
-						"comboBox_2\tstatement"
+						"get",
+						"get_object"
 					],
 					[
-						"com",
-						"comboBox_2\tstatement"
+						"prod",
+						"product"
 					],
 					[
-						"but",
-						"button_convert_clicked\tfunction"
+						"for",
+						"form_valid"
 					],
 					[
-						"conn",
-						"connect(self\t8★ pro ⟠"
+						"Ima",
+						"ProductImages"
 					],
 					[
-						"bt",
-						"btn1\t⟠"
+						"re",
+						"required="
 					],
 					[
-						"st",
-						"strip\tfunction"
+						"at",
+						"attrs="
 					],
 					[
-						"ob",
-						"obj\tstatement"
+						"Sele",
+						"SelectMultiple"
 					],
 					[
-						"de",
-						"decrypt"
+						"cal",
+						"class"
 					],
 					[
-						"has",
-						"hash\tstatement"
+						"cons",
+						"console_log"
 					],
 					[
-						"ha",
-						"hash\tstatement"
+						"conslo",
+						"console_log"
 					],
 					[
-						"cr",
-						"crypto\tmodule"
+						"nav",
+						"nav-link"
 					],
 					[
-						"cry",
-						"crypt\tmodule"
+						"htt",
+						"HttpResponseForbidden"
 					],
 					[
-						"send",
-						"sender_id\tstatement"
+						"Pro",
+						"Profile"
 					],
 					[
-						"typ",
-						"typing_payload\tstatement"
+						"get_use",
+						"get_user_model"
 					],
 					[
-						"send_",
-						"send_raw\tfunction"
+						"redi",
+						"redirect"
 					],
 					[
-						"py",
-						"payload\tparam"
+						"from",
+						"form_class"
 					],
 					[
-						"item",
-						"items\tstatement"
+						"Cate",
+						"CategoryForm"
 					],
 					[
-						"pro",
-						"Product\tclass"
+						"prduct",
+						"ProductForm"
 					],
 					[
-						"admin",
-						"adminview\tModel Admin View"
+						"produp",
+						"ProductUpdateView"
 					],
 					[
-						"wel",
-						"welcome_key_words\tstatement"
+						"produc",
+						"ProductCreateView"
 					],
 					[
-						"mo",
-						"models import\t8★ pro ⟠"
+						"listvi",
+						"listview"
 					],
 					[
-						"djan",
-						"django\tmodule ⟠"
+						"cre",
+						"createview"
 					],
 					[
-						"dic",
-						"difference_in_years\tstatement"
+						"hel",
+						"help_text_p"
 					],
 					[
-						"da",
-						"days=\tparam"
+						"he",
+						"help_text"
 					],
 					[
-						"time",
-						"timedelta\tclass"
+						"sen",
+						"send_button_message"
 					],
 					[
-						"xp",
-						"xp_start_date\tstatement"
+						"produ",
+						"Products"
 					],
 					[
-						"__",
-						"__class__\tfunction"
+						"chan",
+						"change"
 					],
 					[
-						"List",
-						"ListMedicalRecordsView\tclass"
-					],
-					[
-						"medi",
-						"medicalrecord\tmodule"
-					],
-					[
-						"ser",
-						"serializer_class\tstatement"
-					],
-					[
-						"USer",
-						"UserSerializer\tclass"
-					],
-					[
-						"User",
-						"UserSerializer\tclass"
-					],
-					[
-						"qur",
-						"queryset\tstatement"
-					],
-					[
-						"Rel",
-						"RelativeSerializer\tclass"
-					],
-					[
-						"rel",
-						"relatives\tstatement"
-					],
-					[
-						"PAti",
-						"PatientSerializer\tclass"
-					],
-					[
-						"My",
-						"RetrieveMyPatientDetailView\tclass"
-					],
-					[
-						"Patien",
-						"PatientSerializer\tclass"
-					],
-					[
-						"try",
-						"try\tTry/Except"
-					],
-					[
-						"bloo",
-						"blood_group"
-					],
-					[
-						"blo",
-						"blood_group"
-					],
-					[
-						"ret",
-						"retrieveapiview\tRetrieveAPIView"
-					],
-					[
-						"red",
-						"read_only_fields"
-					],
-					[
-						"ir",
-						"itertools"
-					],
-					[
-						"my",
-						"my_patients\tstatement"
-					],
-					[
-						"q",
-						"queryset\tstatement"
-					],
-					[
-						"listapi",
-						"listapiview\tListAPIView"
-					],
-					[
-						"validate",
-						"validated_data"
-					],
-					[
-						"cond",
-						"condition_threaded_data\tstatement"
-					],
-					[
-						"condition",
-						"condition_threaded"
-					],
-					[
-						"sup",
-						"super\tclass"
-					],
-					[
-						"dyn",
-						"dynamic_fields\tfunction"
-					],
-					[
-						"dy",
-						"dynamic_fields\tfunction"
-					],
-					[
-						"REla",
-						"RelativeSerializer\tclass"
+						"get_form",
+						"get_form_kwargs"
 					],
 					[
 						"init",
-						"initial"
+						"__init__"
 					],
 					[
-						"user",
-						"UserSerializer\tclass"
+						"S",
+						"SubCategory"
 					],
 					[
-						"Relati",
-						"Relative\tclass"
+						"url",
+						"URLInput"
 					],
 					[
-						"Re",
-						"RetrieveUpdateDestroyAPIView\tclass"
+						"image",
+						"image_url"
 					],
 					[
-						"get_query",
-						"get_queryset"
+						"sub",
+						"subcategory"
 					],
 					[
-						"reter",
-						"retrieveupdateapiview\tRetrieveUpdateAPIView"
+						"Text",
+						"TextInput"
 					],
 					[
-						"def",
-						"defs\tMethod"
+						"form",
+						"form_class"
 					],
 					[
-						"Appt",
-						"ApptStatus\tclass"
+						"fiel",
+						"fields"
 					],
 					[
-						"dadh",
-						"DashboardApiView\tclass"
+						"Prod",
+						"ProductDeleteView"
 					],
 					[
-						"app",
-						"appointment\tmodule"
+						"Pr",
+						"ProductUpdateView"
 					],
 					[
-						"wid",
-						"width\tAttr"
+						"Tel",
+						"TemplateView"
 					],
 					[
-						"wi",
-						"width\tAttr"
+						"create",
+						"createview"
 					],
 					[
-						"load",
-						"load\t.load()"
+						"nm",
+						"name="
 					],
 					[
-						"Con",
-						"Continent\tclass"
+						"Da",
+						"Dashboard"
 					],
 					[
-						"Co",
-						"Coverage\tclass"
+						"te",
+						"TemplateView"
+					],
+					[
+						"typ",
+						"typing_off"
+					],
+					[
+						"cate",
+						"category__owner"
+					],
+					[
+						"lo",
+						"lower"
+					],
+					[
+						"subca",
+						"subcats"
+					],
+					[
+						"cat",
+						"category__owner"
+					],
+					[
+						"Tr",
+						"True"
+					],
+					[
+						"send_te",
+						"send_text_message"
+					],
+					[
+						"cont",
+						"contact"
+					],
+					[
+						"bu",
+						"buttons="
+					],
+					[
+						"ca",
+						"category"
+					],
+					[
+						"ow",
+						"owner_company"
+					],
+					[
+						"pro",
+						"property"
+					],
+					[
+						"typing_",
+						"typing_off"
+					],
+					[
+						"se",
+						"send_text_message"
+					],
+					[
+						"wel",
+						"welcome_key_words"
+					],
+					[
+						"bt",
+						"bt_customer"
+					],
+					[
+						"cu",
+						"customer_create"
+					],
+					[
+						"web",
+						"webhook_notification"
+					],
+					[
+						"pad",
+						"padding-top"
+					],
+					[
+						"Ba",
+						"BASE_DIR"
+					],
+					[
+						"con",
+						"conf"
+					],
+					[
+						"str",
+						"stripe_webhook"
+					],
+					[
+						"templ",
+						"templateview"
+					],
+					[
+						"Http",
+						"HttpResponse"
+					],
+					[
+						"Produc",
+						"Product"
+					],
+					[
+						"as",
+						"as_view"
+					],
+					[
+						"time",
+						"timedelta"
+					],
+					[
+						"Model",
+						"ModelAdmin"
+					],
+					[
+						"subc",
+						"subcats"
+					],
+					[
+						"subcate",
+						"subcategory"
+					],
+					[
+						"langau",
+						"Language"
+					],
+					[
+						"onde",
+						"on_delete="
+					],
+					[
+						"Keyw",
+						"keywordInline"
+					],
+					[
+						"Tran",
+						"Translator"
+					],
+					[
+						"icon-",
+						"icon-heart-o"
+					],
+					[
+						"Te",
+						"templateview"
+					],
+					[
+						"sf",
+						"sf-with-ul"
+					],
+					[
+						"ne",
+						"next"
+					],
+					[
+						"nul",
+						"null="
+					],
+					[
+						"bla",
+						"blank="
 					]
 				]
 			},
@@ -600,32 +628,64 @@
 				"selected_items":
 				[
 					[
-						"op",
-						"Terminal View: Open Bash Terminal"
-					],
-					[
-						"Django:new",
-						"Django: New Project"
-					],
-					[
 						"menu",
 						"View: Toggle Menu"
 					],
 					[
-						"Django:inter",
-						"Django: Set Project Interpreter"
+						"op",
+						"Terminal View: Open Bash Terminal"
 					],
 					[
-						"Django:new ",
-						"Django: New Project"
+						"remove",
+						"Package Control: Remove Package"
 					],
 					[
-						"Django:pro",
-						"Django: New Project"
+						"ui",
+						"UI: Select Theme"
+					],
+					[
+						"dj",
+						"Set Syntax: HTML (Django)"
+					],
+					[
+						"color",
+						"UI: Select Color Scheme"
+					],
+					[
+						"browse",
+						"Browse Mode: Left Sidebar"
+					],
+					[
+						"brow",
+						"Browse Mode: Right Sidebar"
 					],
 					[
 						"package",
 						"Package Control: List Packages"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"open",
+						"Terminal View: Open Bash Terminal"
+					],
+					[
+						"oper",
+						"Terminal View: Open Bash Terminal"
+					],
+					[
+						"Django:run",
+						"Django: Run Server"
+					],
+					[
+						"Django:new ",
+						"Django: New App"
+					],
+					[
+						"save",
+						"File: Save All"
 					],
 					[
 						"Django:migrate",
@@ -636,183 +696,247 @@
 						"Django: Make Migration"
 					],
 					[
-						"show",
-						"Anaconda: Show error list"
-					],
-					[
-						"ui",
-						"UI: Select Theme"
-					],
-					[
-						"color",
-						"UI: Select Color Scheme"
-					],
-					[
-						"wo",
-						"Word Wrap: Toggle"
-					],
-					[
-						"low",
-						"Convert Case: Lower Case"
-					],
-					[
-						"active",
-						"Activate Materialize Theme"
-					],
-					[
-						"Django:migra",
+						"Django:migrt",
 						"Django: Migrate Database"
 					],
 					[
-						"Django:ma",
-						"Django: Make Migration"
+						"Django:new",
+						"Django: New App"
 					],
 					[
-						"Django:",
-						"Django: Other Command"
-					],
-					[
-						"Django:cre",
-						"Django: Run Custom Server"
-					],
-					[
-						"Django:mi",
-						"Django: Migrate Database"
-					],
-					[
-						"Django:migr",
-						"Django: Migrate App"
-					],
-					[
-						"lower",
-						"Convert Case: Lower Case"
-					],
-					[
-						"cus",
-						"Django: Custom Command"
-					],
-					[
-						"Django:mig",
-						"Django: Migrate Database"
-					],
-					[
-						"Django:run",
-						"Django: Run Server"
-					],
-					[
-						"acti",
-						"Activate Materialize Theme"
-					],
-					[
-						"activate",
-						"ayu: Activate theme"
-					],
-					[
-						"colo",
-						"UI: Select Color Scheme"
-					],
-					[
-						"men",
-						"View: Toggle Menu"
-					],
-					[
-						"Django:ru",
-						"Django: Run Server"
-					],
-					[
-						"mneu",
-						"View: Toggle Menu"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"Django:r",
-						"Django: Run Server"
-					],
-					[
-						"dj",
-						"Set Syntax: HTML (Django)"
-					],
-					[
-						"Django:cus",
-						"Django: Custom Command"
-					],
-					[
-						"titl",
-						"Convert Case: Title Case"
-					],
-					[
-						"title",
-						"Convert Case: Title Case"
-					],
-					[
-						"til",
-						"Snippet: Tabular Inline"
-					],
-					[
-						"tit",
-						"Convert Case: Title Case"
+						"html",
+						"Set Syntax: HTML"
 					],
 					[
 						"Django:app",
 						"Django: New App"
 					],
 					[
-						"Django:u",
+						"Django:c",
 						"Django: Custom Command"
+					],
+					[
+						"Django:cre",
+						"Django: Run Custom Server"
+					],
+					[
+						"to spa",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"Django:migr",
+						"Django: Migrate Database"
+					],
+					[
+						"to sap",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"Django:cus",
+						"Django: Custom Command"
+					],
+					[
+						"Django:shell",
+						"Django: Shell"
+					],
+					[
+						"Django:new app",
+						"Django: New App"
+					],
+					[
+						"Django:mi",
+						"Django: Migrate Database"
+					],
+					[
+						"Django:runs",
+						"Django: Run Server"
+					],
+					[
+						"con",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"cov spa",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"low",
+						"Convert Case: Lower Case"
+					],
+					[
+						"acitve",
+						"Activate Materialize Theme"
+					],
+					[
+						"title",
+						"Convert Case: Title Case"
+					],
+					[
+						"conv sp",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"tit",
+						"Convert Case: Title Case"
+					],
+					[
+						"lower",
+						"Convert Case: Lower Case"
+					],
+					[
+						"active ",
+						"Material Theme: Activate theme"
+					],
+					[
+						"toggle tab",
+						"View: Toggle Tabs"
+					],
+					[
+						"men",
+						"View: Toggle Menu"
+					],
+					[
+						"tabs",
+						"View: Toggle Tabs"
+					],
+					[
+						"Django:othe",
+						"Django: Other Command"
+					],
+					[
+						"Django:cu",
+						"Django: Custom Command"
+					],
+					[
+						"Django:",
+						"Django: Custom Command"
+					],
+					[
+						"Django:runse",
+						"Django: Run Server"
+					],
+					[
+						"black",
+						"Sublack: Format file"
 					],
 					[
 						"Django:runser",
 						"Django: Run Server"
 					],
 					[
-						"json",
-						"Set Syntax: JSON"
+						"active",
+						"Activate Materialize Theme"
 					],
 					[
-						"Django:makemi",
+						"Django:ru",
+						"Django: Run Server"
+					],
+					[
+						"titl",
+						"Convert Case: Title Case"
+					],
+					[
+						"close",
+						"File: Close All"
+					],
+					[
+						"savell",
+						"File: Save All"
+					],
+					[
+						"Django:runserver",
+						"Django: Run Server"
+					],
+					[
+						"Django:cr",
+						"Django: Other Command"
+					],
+					[
+						"active theme",
+						"Material Theme: Activate theme"
+					],
+					[
+						"colorsublime",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"mig",
+						"Django: Migrate Database"
+					],
+					[
+						"migrate",
+						"Django: Migrate Database"
+					],
+					[
+						"make",
 						"Django: Make Migration"
 					],
 					[
-						"jdson",
-						"Snippet: JSONField (sjson)"
+						"Django:other",
+						"Django: Other Command"
+					],
+					[
+						"sehll",
+						"Django: Shell"
+					],
+					[
+						"Django:shel",
+						"Django: DB Shell"
+					],
+					[
+						"json",
+						"Set Syntax: Bower JSON"
 					],
 					[
 						"Django:mak",
 						"Django: Make Migration"
 					],
 					[
-						"save",
+						"colo",
+						"UI: Select Color Scheme"
+					],
+					[
+						"DJANGO",
+						"Set Syntax: HTML (Django)"
+					],
+					[
+						"setsyn html",
+						"Set Syntax: HTML"
+					],
+					[
+						"python",
+						"Set Syntax: Python (Django)"
+					],
+					[
+						"Django:migrta",
+						"Django: Migrate Database"
+					],
+					[
+						"savel",
 						"File: Save All"
 					],
 					[
-						"ope",
-						"Terminal View: Open Bash Terminal"
+						"sort",
+						"Sort Lines"
 					],
 					[
-						"active ",
+						"Django:ne",
+						"Django: New App"
+					],
+					[
+						"acti",
 						"Activate Materialize Theme"
 					],
 					[
-						"reind",
-						"Indentation: Reindent Lines"
+						"titi",
+						"Selection: Expand to Indentation"
 					],
 					[
-						"active ay",
-						"ayu: Activate theme"
+						"lo",
+						"Convert Case: Lower Case"
 					],
 					[
-						"them",
-						"UI: Select Theme"
-					],
-					[
-						"active m",
-						"Activate Materialize Theme"
-					],
-					[
-						"active me",
+						"activ",
 						"Activate Materialize Theme"
 					],
 					[
@@ -820,296 +944,200 @@
 						"View: Toggle Status Bar"
 					],
 					[
-						"package remove",
-						"Package Control: Remove Package"
-					],
-					[
-						"active ma",
-						"Activate Materialize Theme"
-					],
-					[
-						"mig",
-						"Django: Migrate Database"
-					],
-					[
-						"toggle tabs",
-						"View: Toggle Tabs"
-					],
-					[
-						"toggle stats",
-						"View: Toggle Status Bar"
-					],
-					[
-						"make",
-						"Django: Make Migration"
-					],
-					[
-						"material",
-						"Material Theme: Advanced configuration"
-					],
-					[
-						"toggle tab",
-						"View: Toggle Tabs"
-					],
-					[
-						"tabs",
-						"Terminal View: Open Bash Terminal"
-					],
-					[
-						"open",
-						"Terminal View: Open Bash Terminal"
-					],
-					[
-						"toabs",
-						"View: Toggle Tabs"
-					],
-					[
-						"toggl tab",
-						"View: Toggle Tabs"
-					],
-					[
-						"material ac",
-						"Material Theme: Advanced configuration"
-					],
-					[
-						"remove pakc",
-						"Package Control: Remove Package"
-					],
-					[
-						"active mat",
-						"Activate Materialize Theme"
-					],
-					[
-						"active mati",
-						"Material Theme: Activate theme"
-					],
-					[
-						"materializ",
-						"Activate Materialize Theme"
-					],
-					[
-						"wrap",
-						"Word Wrap: Toggle"
-					],
-					[
-						"material ",
-						"Material Theme: Configuration"
-					],
-					[
-						"ctags",
-						"CTags: Show Symbols (file)"
-					],
-					[
-						"o",
-						"Terminal View: Open Bash Terminal"
-					],
-					[
-						"coloe",
-						"UI: Select Color Scheme"
-					],
-					[
-						"theme",
-						"UI: Select Color Scheme"
-					],
-					[
-						"view ope",
-						"View: Toggle Open Files in Side Bar"
-					],
-					[
-						"toggle",
-						"Bookmarks: Toggle"
-					],
-					[
-						"booke",
-						"Bookmarks: Toggle"
-					],
-					[
-						"view app",
-						"JavaScript Enhancements Flow: Previous Error"
-					],
-					[
-						"opent terin",
-						"Terminal View: Open Bash Terminal"
-					],
-					[
-						"html",
-						"HTMLPrettify"
-					],
-					[
-						"dja",
-						"Set Syntax: HTML (Django)"
-					],
-					[
-						"xml",
-						"Set Syntax: XML"
-					],
-					[
-						"java",
-						"Set Syntax: Java"
-					],
-					[
-						"runser",
-						"Django: Run Server"
-					],
-					[
-						"custom",
-						"Django: Custom Command"
-					],
-					[
-						"reinde",
-						"Indentation: Reindent Lines"
-					],
-					[
-						"djan",
-						"Set Syntax: HTML (Django)"
-					],
-					[
-						"path",
-						"File: Copy Path"
-					],
-					[
-						"djn",
-						"Set Syntax: HTML (Django)"
-					],
-					[
-						"Django:custom",
-						"Django: Custom Command"
-					],
-					[
-						"django run",
-						"Django: Run Server"
-					],
-					[
-						"Django:server",
-						"Django: Run Server"
-					],
-					[
-						"open ba",
-						"Terminal View: Open Bash Terminal"
-					],
-					[
-						"open bas",
-						"Terminal View: Open Bash Terminal"
-					],
-					[
-						"opene",
-						"Sublime Merge: Open Repository"
-					],
-					[
-						"run",
-						"Django: Run Server"
-					],
-					[
-						"Django:runs",
-						"Django: Run Server"
-					],
-					[
 						"stat",
 						"View: Toggle Status Bar"
 					],
 					[
-						"merger",
-						"Sublime Merge: Open Repository"
+						"package contorl en",
+						"Package Control: Enable Package"
 					],
 					[
-						"merge",
-						"Sublime Merge: Blame File"
+						"statu",
+						"View: Toggle Status Bar"
 					],
 					[
-						"runs",
-						"Django: Run Server"
+						"css",
+						"Set Syntax: CSS"
 					],
 					[
-						"term",
-						"Terminal View: Open Bash Terminal"
+						"actv",
+						"Activate Materialize Theme"
 					],
 					[
-						"django:help",
-						"Django: Help"
+						"lowre",
+						"Convert Case: Lower Case"
 					],
 					[
-						"makem",
-						"Django: Make Migration"
+						"dis",
+						"Package Control: Disable Package"
 					],
 					[
-						"migrate",
-						"Django: Migrate Database"
-					],
-					[
-						"terminal",
-						"Terminal View: Open Bash Terminal"
-					],
-					[
-						"re",
-						"Permute Lines: Reverse"
-					],
-					[
-						"terminsl",
-						"Terminal View: Open Bash Terminal"
-					],
-					[
-						"remove",
-						"Package Control: Remove Package"
+						"instaa",
+						"Package Control: Install Package"
 					],
 					[
 						"remove ",
 						"Package Control: Remove Package"
 					],
 					[
-						"djang",
-						"Set Syntax: HTML (Django)"
+						"snippet ",
+						"Snippet: function"
 					],
 					[
-						"package re",
-						"Package Control: Remove Package"
+						"Django:maek",
+						"Django: Make Migration"
 					],
 					[
-						"packa",
-						"Package Control: Remove Package"
+						"activr",
+						"Activate Materialize Theme"
 					],
 					[
-						"djnago",
-						"Set Syntax: HTML (Django)"
+						"Django:new a",
+						"Django: New App"
 					],
 					[
-						"coloer",
-						"UI: Select Color Scheme"
+						"ti",
+						"Convert Case: Title Case"
 					],
 					[
-						"gutter",
-						"GitGutter: Show Diff Popup"
+						"Django:migrT",
+						"Django: Migrate Database"
 					],
 					[
-						"git ",
-						"Preferences: GitGutter Key Bindings"
+						"cop",
+						"File: Copy Path"
 					],
 					[
-						"git",
-						"Material Theme: Configuration"
+						"acite",
+						"ayu: Activate theme"
 					],
 					[
-						"django",
-						"Set Syntax: HTML (Django)"
+						"Django:migrte",
+						"Django: Migrate Database"
 					],
 					[
-						"git ba",
-						"Set Syntax: Git Rebase Todo"
+						"Django:mig",
+						"Django: Migrate Database"
 					],
 					[
-						"savel",
+						"Django:migrAT",
+						"Django: Migrate Database"
+					],
+					[
+						"wrap",
+						"Word Wrap: Toggle"
+					],
+					[
+						"package list",
+						"Package Control: List Packages"
+					],
+					[
+						"acit",
+						"Activate Materialize Theme"
+					],
+					[
+						"Django:migra",
+						"Django: Migrate Database"
+					],
+					[
+						"Django:mie",
+						"Django: Migrate Database"
+					],
+					[
+						"new snippe",
+						"Snippet: now"
+					],
+					[
+						"Django:mkae",
+						"Django: Make Migration"
+					],
+					[
+						"Django:oteh",
+						"Django: Other Command"
+					],
+					[
+						"path",
+						"File: Copy Path"
+					],
+					[
+						"ope",
+						"Terminal View: Open Bash Terminal"
+					],
+					[
+						"Lowe",
+						"Convert Case: Lower Case"
+					],
+					[
+						"Django:makemi",
+						"Django: Make Migration"
+					],
+					[
+						"saveall",
 						"File: Save All"
 					],
 					[
-						"snippet pass",
-						"Snippet: New Class"
+						"select ui ",
+						"UI: Select Theme"
 					],
 					[
-						"model acc",
-						"HTML: Encode Special Characters"
+						"lowe",
+						"Convert Case: Lower Case"
 					],
 					[
-						"wroa",
+						"todo",
+						"Set Syntax: ToDone"
+					],
+					[
+						"list pack",
+						"Package Control: List Packages"
+					],
+					[
+						"toggle",
+						"View: Toggle Distraction Free"
+					],
+					[
+						"toggle di",
+						"View: Toggle Distraction Free"
+					],
+					[
+						"todone",
+						"View: Toggle Distraction Free"
+					],
+					[
+						"list packa",
+						"Package Control: List Packages"
+					],
+					[
+						"menyu",
+						"Emmet: Decrement Number by 1"
+					],
+					[
+						"sublime",
+						"Sublime Merge: Blame File"
+					],
+					[
+						"meu",
+						"View: Toggle Menu"
+					],
+					[
+						"Django:inter",
+						"Django: Set Project Interpreter"
+					],
+					[
+						"Django:pro",
+						"Django: New Project"
+					],
+					[
+						"show",
+						"Anaconda: Show error list"
+					],
+					[
+						"wo",
 						"Word Wrap: Toggle"
+					],
+					[
+						"Django:ma",
+						"Django: Make Migration"
 					]
 				],
 				"width": 0.0
@@ -1139,134 +1167,134 @@
 			},
 			"file_history":
 			[
-				"/home/ali/mobile app/Sublime Python IDE/Arsa.tmTheme",
-				"/home/ali/mobile app/Sublime Python IDE/material-theme.sublime-settings",
-				"/home/ali/mobile app/Sublime Python IDE/sublack.sublime-settings",
-				"/home/ali/mobile app/Sublime Python IDE/Anaconda.sublime-settings",
-				"/home/ali/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
-				"/home/ali/.config/sublime-text-3/Packages/User/HTML (Django).sublime-settings",
-				"/home/ali/.config/sublime-text-3/Packages/User/Python (Django).sublime-settings",
-				"/home/ali/DoctorPlus/doctor/api/urls.py",
-				"/home/ali/DoctorPlus/doctor/api/views.py",
-				"/home/ali/DoctorPlus/doctor/models.py",
-				"/home/ali/DoctorPlus/doctor/api/serializers.py",
-				"/home/ali/DoctorPlus/appointment/models.py",
-				"/home/ali/DoctorPlus/patient/api/serializers.py",
-				"/home/ali/DoctorPlus/home/templates/home/homepage.html",
-				"/home/ali/DoctorPlus/templates/base.html",
-				"/home/ali/DoctorPlus/notification/models.py",
-				"/home/ali/DoctorPlus/account/tests.py",
-				"/home/ali/Ali/ali/ngrok/smartbot/del.py",
-				"/home/ali/Desktop/algo.py",
-				"/home/ali/Ali/ali/ngrok/smartbot/bot/ai.py",
-				"/home/ali/Ali/ali/ngrok/smartbot/products/admin.py",
-				"/home/ali/Ali/ali/ngrok/smartbot/bot/payload_responses.py",
-				"/home/ali/Ali/ali/ngrok/smartbot/products/models.py",
-				"/home/ali/Desktop/new.",
-				"/home/ali/Ali/ali/ngrok/smartbot/db.sqlite3",
-				"/home/ali/Ali/ali/ngrok/smartbot/smartbot/settings.py",
-				"/home/ali/Ali/ali/ngrok/smartbot/bot/admin.py",
-				"/home/ali/DoctorPlus/doctor/views.py",
-				"/home/ali/DoctorPlus/account/models.py",
-				"/home/ali/DoctorPlus/medicalrecord/models.py",
-				"/home/ali/DoctorPlus/patient/api/views.py",
-				"/home/ali/DoctorPlus/adminplus/graphs.py",
-				"/home/ali/DoctorPlus/adminplus/views.py",
-				"/home/ali/DoctorPlus/patient/api/README.md",
-				"/home/ali/DoctorPlus/doctor/urls.py",
-				"/home/ali/DoctorPlus/doctor/templates/doctor/doctor_dashboard.html",
-				"/home/ali/DoctorPlus/doctor/static/doctor/js/doctor_dashboard.js",
-				"/home/ali/DoctorPlus/doctor/api/permissions.py",
-				"/home/ali/DoctorPlus/DoctorPlus/settings.py",
-				"/home/ali/DoctorPlus/patient/api/permissions.py",
-				"/home/ali/DoctorPlus/account/api/urls.py",
-				"/home/ali/DoctorPlus/account/urls.py",
-				"/home/ali/parabola/parabola/settings.py",
-				"/home/ali/parabola/parabola/urls.py",
-				"/home/ali/parabola/home/templates/home/contact.html",
-				"/home/ali/parabola/templates/base.html",
-				"/home/ali/parabola/home/urls.py",
-				"/home/ali/parabola/home/templates/home/faq.html",
-				"/home/ali/parabola/home/templates/home/index.html",
-				"/home/ali/parabola/templates/navbar.html",
-				"/home/ali/parabola/home/templates/home/coverage.html",
-				"/home/ali/parabola/home/templates/home/products.html",
-				"/home/ali/parabola/home/views.py",
-				"/home/ali/parabola/static/css/styles.css",
-				"/home/ali/parabola/templates/footer.html",
-				"/home/ali/parabola/home/templates/home/solutions.html",
-				"/home/ali/parabola/home/templates/home/terms_conditions.html",
-				"/home/ali/parabola/home/templates/home/continent.html",
-				"/home/ali/parabola/home/static/phone.codes.js",
-				"/home/ali/Desktop/International mobile dial codes _ Sprint Support.htm",
-				"/home/ali/parabola/home/templates/home/privacy-policy.html",
-				"/home/ali/parabola/settings/settings.py",
-				"/home/ali/parabola/templates/header.html",
-				"/home/ali/telecom/telecom/settings.py",
-				"/home/ali/telecom/templates/base.html",
-				"/home/ali/telecom/home/views.py",
-				"/home/ali/telecom/home/templates/home/index.html",
-				"/home/ali/telecom/telecom/urls.py",
-				"/home/ali/telecom/templates/header.html",
-				"/home/ali/telecom/home/urls.py",
-				"/home/ali/DoctorPlus/doctor/templates/doctor/dropdowns/conditions_dropdown.html",
-				"/home/ali/DoctorPlus/doctor/static/doctor/js/profile-settings.js",
-				"/home/ali/DoctorPlus/adminplus/templates/adminplus/pages/doctor/review_requests.html",
-				"/home/ali/DoctorPlus/home/models.py",
-				"/home/ali/DoctorPlus/adminplus/forms.py",
-				"/home/ali/DoctorPlus/patient/views.py",
-				"/home/ali/DoctorPlus/doctor/templates/doctor/doctor_profile.html",
-				"/home/ali/DoctorPlus/account/admin.py",
-				"/home/ali/DoctorPlus/adminplus/templates/adminplus/pages/speciality/services.html",
-				"/home/ali/DoctorPlus/adminplus/urls.py",
-				"/home/ali/DoctorPlus/adminplus/templates/adminplus/adminp_sidebar.html",
-				"/home/ali/DoctorPlus/adminplus/templates/adminplus/pages/speciality/edit_speciality.html",
-				"/tmp/kite_tutorial.py",
-				"/home/ali/.config/sublime-text-3/Packages/User/KiteSublime.sublime-settings",
-				"/home/ali/.config/sublime-text-3/Packages/KiteSublime/KiteSublime.sublime-settings",
-				"/home/ali/DoctorPlus/adminplus/templates/adminplus/pages/speciality/specialities.html",
-				"/home/ali/DoctorPlus/account/validators.py",
-				"/home/ali/DoctorPlus/account/api/serializers.py",
-				"/home/ali/DoctorPlus/account/api/views.py",
-				"/home/ali/DoctorPlus/DoctorPlus/urls.py",
-				"/home/ali/DoctorPlus/account/views.py",
-				"/home/ali/DoctorPlus/patient/api/urls.py",
-				"/home/ali/DoctorPlus/patient/models.py",
-				"/home/ali/DoctorPlus/account/api/__init__.py",
-				"/home/ali/DoctorPlus/chat/validators.py",
-				"/home/ali/DoctorPlus/chat/models.py",
-				"/home/ali/DoctorPlus/relative/forms.py",
-				"/home/ali/DoctorPlus/patient/urls.py",
-				"/home/ali/DoctorPlus/patient/api/__init__.py",
-				"/home/ali/DoctorPlus/doctor/templatetags/doctor_tags.py",
-				"/home/ali/DoctorPlus/home/static/home/js/home.js",
-				"/home/ali/DoctorPlus/home/views.py",
-				"/home/ali/DoctorPlus/home/urls.py",
-				"/home/ali/DoctorPlus/adminplus/templates/adminplus/components/doctor_rating.html",
-				"/home/ali/DoctorPlus/appointment/urls.py",
-				"/home/ali/DoctorPlus/doctor/templates/doctor/templatetag_files/doctor_rating.html",
-				"/home/ali/DoctorPlus/adminplus/templates/adminplus/pages/doctor/doctors.html",
-				"/home/ali/DoctorPlus/adminplus/static/adminplus/js/dashboard.js",
-				"/home/ali/DoctorPlus/adminplus/static/adminplus/js/doctors.js",
-				"/home/ali/DoctorPlus/adminplus/templates/adminplus/pages/speciality/conditions.html",
-				"/home/ali/DoctorPlus/adminplus/static/adminplus/js/all_feedbacks.js",
-				"/home/ali/DoctorPlus/adminplus/templates/adminplus/pages/feedback/all_feedbacks.html",
-				"/home/ali/DoctorPlus/adminplus/templates/adminplus/pages/feedback/feedbacks.html",
-				"/home/ali/DoctorPlus/adminplus/templates/adminplus/pages/speciality/edit_service.html",
-				"/home/ali/DoctorPlus/adminplus/templates/adminplus/pages/speciality/edit_conditions.html",
-				"/home/ali/DoctorPlus/relative/templates/relative/family_member_detail.html",
-				"/home/ali/DoctorPlus/adminplus/templates/adminplus/adminp_base.html",
-				"/home/ali/DoctorPlus/adminplus/templates/adminplus/components/components.main.html",
-				"/home/ali/DoctorPlus/adminplus/templates/adminplus/adminp_dashboard.html",
-				"/home/ali/DoctorPlus/account/__init__.py",
-				"/home/ali/DoctorPlus/home/templates/home/search.html",
-				"/home/ali/DoctorPlus/doctor/forms.py",
-				"/home/ali/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
-				"/home/ali/.config/sublime-text-3/Packages/User/CTags.sublime-settings",
-				"/home/ali/.config/sublime-text-3/Packages/CTags/CTags.sublime-settings",
-				"/home/ali/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
-				"/home/ali/.config/sublime-text-3/Packages/User/Python Django.sublime-settings",
-				"/home/ali/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap"
+				"/home/ali/.config/sublime-text-3/Packages/Material Theme/Preferences.sublime-settings",
+				"/home/ali/FocusWeb/domain/views.py",
+				"/home/ali/FocusWeb/FocusWeb/settings.py",
+				"/home/ali/FocusWeb/domain/templates/domain/domain.html",
+				"/home/ali/FocusWeb/home/tests.py",
+				"/home/ali/FocusWeb/domain/urls.py",
+				"/home/ali/FocusWeb/FocusWeb/urls.py",
+				"/home/ali/FocusWeb/pricing/tests.py",
+				"/home/ali/FocusWeb/templates/base.html",
+				"/home/ali/Desktop/hostwhmcs/version-1/domain.html",
+				"/home/ali/FocusWeb/home/views.py",
+				"/home/ali/Desktop/hostwhmcs/version-1/testimonial.html",
+				"/home/ali/FocusWeb/home/urls.py",
+				"/home/ali/FocusWeb/manage.py",
+				"/home/ali/FocusWeb/FocusWeb/asgi.py",
+				"/home/ali/FocusWeb/FocusWeb/wsgi.py",
+				"/home/ali/ICTHOST/templates/header.html",
+				"/home/ali/ICTHOST/ICTHOST/context_processors.py",
+				"/home/ali/ICTHOST/todo",
+				"/home/ali/ICTHOST/pricing/tests.py",
+				"/home/ali/ICTHOST/home/views.py",
+				"/home/ali/ICTHOST/home/templates/home/domain.html",
+				"/home/ali/ICTHOST/templates/main.html",
+				"/home/ali/ICTHOST/templates/base.html",
+				"/home/ali/ICTHOST/home/templates/home/home.html",
+				"/home/ali/ICTHOST/home/urls.py",
+				"/home/ali/ICTHOST/home/templates/home/pricing.html",
+				"/home/ali/ICTHOST/pricing/models.py",
+				"/home/ali/ICTHOST/static/css/style.css",
+				"/home/ali/ICTHOST/plan/models.py",
+				"/home/ali/ICTHOST/pricing/admin.py",
+				"/home/ali/ICTHOST/ICTHOST/settings.py",
+				"/home/ali/ICTHOST/static/phpmailer/extras/htmlfilter.php",
+				"/home/ali/ICTHOST/templates/footer.html",
+				"/home/ali/Desktop/hostwhmcs/version-1/index.html",
+				"/home/ali/ICTHOST/ICTHOST/urls.py",
+				"/home/ali/WoClothingStore/client/views.py",
+				"/home/ali/WoClothingStore/cart/views.py",
+				"/home/ali/WoClothingStore/whitelist/views.py",
+				"/home/ali/WoClothingStore/product/views.py",
+				"/home/ali/WoClothingStore/adminplus/views.py",
+				"/home/ali/WoClothingStore/user/models.py",
+				"/home/ali/WoClothingStore/user/urls.py",
+				"/home/ali/WoClothingStore/user/views.py",
+				"/home/ali/WoClothingStore/user/templates/user/verification.html",
+				"/home/ali/WoClothingStore/adminplus/tests.py",
+				"/home/ali/WoClothingStore/user/templates/user/login.html",
+				"/home/ali/WoClothingStore/WoClothingStore/settings.py",
+				"/home/ali/WoClothingStore/product/templates/product/product_list.html",
+				"/home/ali/WoClothingStore/adminplus/templates/admin/admin_sidebar.html",
+				"/home/ali/Ali/Documents/web_temps/Ecom/molla-eCommerce-html-template__django/login.html",
+				"/home/ali/WoClothingStore/home/templates/home/login.html",
+				"/home/ali/WoClothingStore/templates/main.html",
+				"/home/ali/WoClothingStore/home/templates/home/home.html",
+				"/home/ali/WoClothingStore/templates/header.html",
+				"/home/ali/WoClothingStore/adminplus/urls.py",
+				"/home/ali/WoClothingStore/WoClothingStore/urls.py",
+				"/home/ali/WoClothingStore/home/templatetags/home_tags.py",
+				"/home/ali/WoClothingStore/payment/urls.py",
+				"/home/ali/WoClothingStore/home/views.py",
+				"/home/ali/WoClothingStore/user/templates/user/signup.html",
+				"/home/ali/WoClothingStore/user/forms.py",
+				"/home/ali/WoClothingStore/payment/views.py",
+				"/home/ali/WoClothingStore/user/admin.py",
+				"/home/ali/WoClothingStore/adminplus/templates/admin/admin_navbar.html",
+				"/home/ali/PyGetWays/payment/tests.py",
+				"/home/ali/PyGetWays/payment/urls.py",
+				"/home/ali/WoClothingStore/product/models.py",
+				"/home/ali/WoClothingStore/payment/templates/payment/cancel.html",
+				"/home/ali/WoClothingStore/payment/templates/payment/done.html",
+				"/home/ali/WoClothingStore/payment/models.py",
+				"/home/ali/WoClothingStore/payment/templates/payment/checkout.html",
+				"/home/ali/WoClothingStore/whitelist/models.py",
+				"/home/ali/WoClothingStore/home/templatetags/__init__.py",
+				"/home/ali/WoClothingStore/product/urls.py",
+				"/home/ali/WoClothingStore/product/templates/product/report.html",
+				"/home/ali/WoClothingStore/product/templates/product/category_form.html",
+				"/home/ali/WoClothingStore/product/templates/product/product_form.html",
+				"/home/ali/WoClothingStore/product/templates/product/category_list.html",
+				"/home/ali/WoClothingStore/product/admin.py",
+				"/home/ali/WoClothingStore/product/forms.py",
+				"/home/ali/WoClothingStore/adminplus/templates/admin/change_password.html",
+				"/home/ali/WoClothingStore/adminplus/templates/admin/admin_base.html",
+				"/home/ali/WoClothingStore/adminplus/templates/admin/admin_main.html",
+				"/home/ali/WoClothingStore/adminplus/templates/admin/profile.html",
+				"/home/ali/WoClothingStore/adminplus/templates/admin/admin_footer.html",
+				"/home/ali/WoClothingStore/adminplus/templates/admin/message.html",
+				"/home/ali/WoClothingStore/adminplus/forms.py",
+				"/home/ali/SmartBot/page/payloads.py",
+				"/home/ali/SmartBot/product/urls.py",
+				"/home/ali/SmartBot/SmartBot/urls.py",
+				"/home/ali/SmartBot/product/templates/product/product_list.html",
+				"/home/ali/SmartBot/product/templates/product/product_form.html",
+				"/home/ali/SmartBot/product/models.py",
+				"/home/ali/SmartBot/product/forms.py",
+				"/home/ali/SmartBot/message/models.py",
+				"/home/ali/SmartBot/page/ai.py",
+				"/home/ali/SmartBot/product/views.py",
+				"/home/ali/SmartBot/adminplus/templates/admin/admin_sidebar.html",
+				"/home/ali/SmartBot/adminplus/templates/admin/admin_main.html",
+				"/home/ali/SmartBot/adminplus/templates/admin/products/report.html",
+				"/home/ali/SmartBot/adminplus/templates/admin/products/list.html",
+				"/home/ali/SmartBot/adminplus/templates/admin/admin_base.html",
+				"/home/ali/SmartBot/adminplus/views.py",
+				"/home/ali/SmartBot/product/templates/product/product_create.html",
+				"/home/ali/SmartBot/adminplus/templates/admin/products/update.html",
+				"/home/ali/SmartBot/adminplus/urls.py",
+				"/home/ali/SmartBot/SmartBot/settings.py",
+				"/home/ali/SmartBot/adminplus/templates/admin/products/create.html",
+				"/home/ali/SmartBot/page/views.py",
+				"/home/ali/SmartBot/todo",
+				"/home/ali/SmartBot/submit-review.txt",
+				"/home/ali/SmartBot/page/urls.py",
+				"/home/ali/SmartBot/adminplus/templates/admin/admin_navbar.html",
+				"/home/ali/SmartBot/adminplus/templates/admin/main_del.html",
+				"/home/ali/SmartBot/adminplus/templates/admin/message.html",
+				"/home/ali/SmartBot/requirments.txt",
+				"/home/ali/SmartBot/.gitignore",
+				"/home/ali/SmartBot/page/tests.py",
+				"/home/ali/SmartBot/product/admin.py",
+				"/home/ali/SmartBot/SmartBot/translate.py",
+				"/home/ali/SmartBot/SmartBot/ctx_processor.py",
+				"/home/ali/SmartBot/data.txt",
+				"/home/ali/braintree/BT/home/templates/home/ch.html",
+				"/home/ali/braintree/BT/BT/urls.py",
+				"/home/ali/braintree/BT/home/views.py",
+				"/home/ali/braintree/BT/BT/settings.py",
+				"/home/ali/braintree/BT/requirements.txt"
 			],
 			"find":
 			{
@@ -1274,7 +1302,7 @@
 			},
 			"find_in_files":
 			{
-				"height": 136.0,
+				"height": 140.0,
 				"where_history":
 				[
 				]
@@ -1293,8 +1321,10 @@
 				[
 				],
 				"reverse": false,
+				"scrollbar_highlights": true,
 				"show_context": true,
 				"use_buffer2": true,
+				"use_gitignore": true,
 				"whole_word": false,
 				"wrap": false
 			},
@@ -1309,11 +1339,11 @@
 			"menu_visible": true,
 			"output.exec":
 			{
-				"height": 318.0
+				"height": 212.0
 			},
 			"output.find_results":
 			{
-				"height": 0.0
+				"height": 108.0
 			},
 			"output.mdpopups":
 			{
@@ -1332,516 +1362,516 @@
 				"selected_items":
 				[
 					[
-						"model app",
-						"appointment/models.py"
+						"setting",
+						"FocusWeb/settings.py"
 					],
 					[
-						"app model",
-						"appointment/models.py"
-					],
-					[
-						"home",
-						"home/templates/home/homepage.html"
-					],
-					[
-						"html",
-						"templates/base.html"
-					],
-					[
-						"serial",
-						"patient/api/serializers.py"
+						"domain",
+						"FocusWeb/domain/templates/domain/domain.html"
 					],
 					[
 						"test",
-						"account/tests.py"
+						"FocusWeb/pricing/tests.py"
 					],
 					[
-						"tes",
-						"account/tests.py"
+						"views ",
+						"FocusWeb/domain/views.py"
 					],
 					[
-						"settin",
-						"smartbot/settings.py"
+						"setin",
+						"FocusWeb/FocusWeb/settings.py"
 					],
 					[
-						"model cod",
-						"doctor/models.py"
-					],
-					[
-						"view doc",
-						"doctor/views.py"
-					],
-					[
-						"urls doc",
-						"doctor/api/urls.py"
-					],
-					[
-						"graph",
-						"adminplus/graphs.py"
-					],
-					[
-						"models app",
-						"appointment/models.py"
-					],
-					[
-						"rea",
-						"patient/api/README.md"
-					],
-					[
-						"pat seria",
-						"patient/api/serializers.py"
-					],
-					[
-						"seria",
-						"doctor/api/serializers.py"
-					],
-					[
-						"doctor_dashboard",
-						"doctor/static/doctor/js/doctor_dashboard.js"
-					],
-					[
-						"doctor dash",
-						"doctor/templates/doctor/doctor_dashboard.html"
-					],
-					[
-						"serli pati",
-						"patient/api/serializers.py"
-					],
-					[
-						"view patient",
-						"patient/api/views.py"
-					],
-					[
-						"serli",
-						"patient/api/serializers.py"
-					],
-					[
-						"view patien",
-						"patient/api/views.py"
-					],
-					[
-						"setting",
-						"DoctorPlus/settings.py"
-					],
-					[
-						"view doct",
-						"doctor/views.py"
-					],
-					[
-						"per",
-						"patient/api/permissions.py"
-					],
-					[
-						"permin",
-						"doctor/api/permissions.py"
-					],
-					[
-						"urls acc",
-						"account/urls.py"
-					],
-					[
-						"url acc",
-						"account/api/urls.py"
-					],
-					[
-						"conta",
-						"home/templates/home/contact.html"
-					],
-					[
-						"index",
-						"home/templates/home/index.html"
+						"test home",
+						"FocusWeb/home/tests.py"
 					],
 					[
 						"base",
-						"templates/base.html"
+						"FocusWeb/templates/base.html"
 					],
 					[
-						"nav",
-						"templates/navbar.html"
+						"doamin",
+						"hostwhmcs/version-1/domain.html"
+					],
+					[
+						"test.",
+						"FocusWeb/home/tests.py"
 					],
 					[
 						"urls",
-						"home/urls.py"
+						"FocusWeb/FocusWeb/urls.py"
 					],
 					[
-						"footer",
-						"templates/footer.html"
+						"settin",
+						"FocusWeb/FocusWeb/settings.py"
 					],
 					[
-						"navbar",
-						"templates/navbar.html"
+						"urls ",
+						"FocusWeb/home/urls.py"
 					],
 					[
 						"header",
-						"templates/header.html"
+						"ICTHOST/templates/header.html"
 					],
 					[
-						"home model",
-						"home/models.py"
+						"contex",
+						"ICTHOST/ICTHOST/context_processors.py"
 					],
 					[
-						"adminpside",
-						"adminplus/templates/adminplus/adminp_sidebar.html"
+						"todo",
+						"ICTHOST/todo"
 					],
 					[
-						"admin acc",
-						"account/admin.py"
-					],
-					[
-						"view",
-						"doctor/views.py"
-					],
-					[
-						"view admin ",
-						"adminplus/views.py"
-					],
-					[
-						"urls Doctor",
-						"DoctorPlus/urls.py"
-					],
-					[
-						"models patient",
-						"patient/models.py"
-					],
-					[
-						"rel form",
-						"relative/forms.py"
-					],
-					[
-						"settings",
-						"DoctorPlus/settings.py"
-					],
-					[
-						"doctor_ta",
-						"doctor/templatetags/doctor_tags.py"
+						"todi",
+						"ICTHOST/home/templates/home/domain.html"
 					],
 					[
 						"view home",
-						"home/views.py"
+						"ICTHOST/home/views.py"
 					],
 					[
-						"home.js",
-						"home/static/home/js/home.js"
+						"main",
+						"ICTHOST/templates/main.html"
 					],
 					[
-						"urls app",
-						"appointment/urls.py"
+						"home",
+						"ICTHOST/home/templates/home/home.html"
 					],
 					[
-						"model home",
-						"home/models.py"
+						"testimonial.html",
+						"hostwhmcs/version-1/testimonial.html"
 					],
 					[
-						"doctor_tain",
-						"adminplus/templates/adminplus/components/doctor_rating.html"
+						"conte",
+						"ICTHOST/ICTHOST/context_processors.py"
 					],
 					[
-						"url home",
-						"home/urls.py"
+						"do",
+						"hostwhmcs/version-1/domain.html"
 					],
 					[
-						"urls docto",
-						"doctor/urls.py"
+						"se",
+						"ICTHOST/ICTHOST/settings.py"
 					],
 					[
-						"models acc",
-						"account/models.py"
+						"html",
+						"ICTHOST/static/phpmailer/extras/htmlfilter.php"
 					],
 					[
-						"doctors",
-						"adminplus/static/adminplus/js/doctors.js"
+						"view",
+						"ICTHOST/home/views.py"
 					],
 					[
-						"view adminp",
-						"adminplus/views.py"
+						"index",
+						"hostwhmcs/version-1/index.html"
 					],
 					[
-						"all_",
-						"adminplus/static/adminplus/js/all_feedbacks.js"
+						"urls IC",
+						"ICTHOST/home/urls.py"
 					],
 					[
-						"addminp_side",
-						"adminplus/templates/adminplus/adminp_sidebar.html"
+						"verifi",
+						"WoClothingStore/user/templates/user/verification.html"
 					],
 					[
-						"famil",
-						"relative/templates/relative/family_member_detail.html"
+						"view user",
+						"WoClothingStore/user/views.py"
 					],
 					[
-						"urls amdinp",
-						"adminplus/urls.py"
+						"white view",
+						"WoClothingStore/whitelist/views.py"
 					],
 					[
-						"adminp_base",
-						"adminplus/templates/adminplus/adminp_base.html"
-					],
-					[
-						"amdinp_side",
-						"adminplus/templates/adminplus/adminp_sidebar.html"
-					],
-					[
-						"adminp_side",
-						"adminplus/templates/adminplus/adminp_sidebar.html"
-					],
-					[
-						"urls amdin",
-						"adminplus/urls.py"
-					],
-					[
-						"urls Doc",
-						"DoctorPlus/urls.py"
-					],
-					[
-						"acc admin",
-						"account/admin.py"
-					],
-					[
-						"edit_spec",
-						"adminplus/templates/adminplus/pages/speciality/edit_speciality.html"
-					],
-					[
-						"homr",
-						"home/templates/home/search.html"
-					],
-					[
-						"vie",
-						"doctor/views.py"
-					],
-					[
-						"app view",
-						"appointment/views.py"
-					],
-					[
-						"patient dash",
-						"patient/templates/patient/dashboard/patient_appoinment.html"
-					],
-					[
-						"model acc",
-						"account/models.py"
-					],
-					[
-						"book",
-						"appointment/templates/appointment/booked_success.html"
-					],
-					[
-						"public",
-						"appointment/templates/appointment/public_time_slot.html"
-					],
-					[
-						"public_time_slot_script",
-						"appointment/templates/appointment/scripts/public_time_slot_script.html"
-					],
-					[
-						"appointment vie",
-						"appointment/views.py"
-					],
-					[
-						"relative de",
-						"relative/templates/relative/family_member_detail.html"
-					],
-					[
-						"rela view",
-						"relative/views.py"
-					],
-					[
-						"publi",
-						"appointment/templates/appointment/public_time_slot.html"
-					],
-					[
-						"adminplus grap",
-						"adminplus/graphs.py"
-					],
-					[
-						"urls appointmen",
-						"appointment/urls.py"
-					],
-					[
-						"view appoint",
-						"appointment/views.py"
-					],
-					[
-						"url patie",
-						"patient/urls.py"
-					],
-					[
-						"booked_success.html",
-						"appointment/templates/appointment/booked_success.html"
-					],
-					[
-						"public_time_slot_script.html",
-						"appointment/templates/appointment/scripts/public_time_slot_script.html"
-					],
-					[
-						"doctoe",
-						"templates/doctor_sidebar.html"
-					],
-					[
-						"appointment",
-						"notification/appointment_notifications.py"
-					],
-					[
-						"patient n",
-						"notification/patient_notifications.py"
-					],
-					[
-						"relative view",
-						"relative/views.py"
-					],
-					[
-						"urls appin",
-						"appointment/urls.py"
-					],
-					[
-						"view app",
-						"appointment/views.py"
-					],
-					[
-						"view doctor",
-						"doctor/views.py"
-					],
-					[
-						"appointemtn admi",
-						"appointment/admin.py"
-					],
-					[
-						"appointmen ",
-						"notification/appointment_notifications.py"
-					],
-					[
-						"today_booked_appt_patient_list",
-						"appointment/templates/appointment/today_booked_appt_patient_list.html"
-					],
-					[
-						"app ta",
-						"appointment/templatetags/appt_custom_filter.py"
-					],
-					[
-						"schu",
-						"appointment/templates/appointment/schedule_time.html"
-					],
-					[
-						"app url",
-						"appointment/urls.py"
-					],
-					[
-						"models",
-						"account/models.py"
-					],
-					[
-						"view docto",
-						"doctor/views.py"
-					],
-					[
-						"doctor view",
-						"doctor/views.py"
-					],
-					[
-						"urls doctor",
-						"doctor/urls.py"
-					],
-					[
-						"exportable",
-						"doctor/templates/doctor/today_exportable_appointments.html"
-					],
-					[
-						"doctor_dash",
-						"doctor/templates/doctor/doctor_dashboard.html"
-					],
-					[
-						"doctor_",
-						"doctor/templates/doctor/templatetag_files/doctor_appointments_by_clinic.html"
-					],
-					[
-						"doctr",
-						"account/templates/account/doctor_register.html"
-					],
-					[
-						"doctor profil",
-						"doctor/templates/doctor/doctor_profile.html"
-					],
-					[
-						"forms",
-						"doctor/forms.py"
-					],
-					[
-						"dashboard.js",
-						"adminplus/static/adminplus/js/dashboard.js"
-					],
-					[
-						"doctor.js",
-						"adminplus/static/adminplus/js/doctors.js"
-					],
-					[
-						"urls smar",
-						"smartbot/urls.py"
-					],
-					[
-						"fmail",
-						"DoctorPlus/relative/templates/relative/family_member_detail.html"
-					],
-					[
-						"models doctor",
-						"DoctorPlus/doctor/models.py"
+						"cart view",
+						"WoClothingStore/cart/views.py"
 					],
 					[
 						"view adminplus",
-						"DoctorPlus/adminplus/views.py"
+						"WoClothingStore/adminplus/views.py"
 					],
 					[
-						"patients",
-						"DoctorPlus/adminplus/templates/adminplus/pages/patient/patients.html"
+						"prod view",
+						"WoClothingStore/product/views.py"
 					],
 					[
-						"admin_side",
-						"DoctorPlus/adminplus/templates/adminplus/adminp_sidebar.html"
+						"product list",
+						"WoClothingStore/product/templates/product/product_list.html"
 					],
 					[
-						"models home",
-						"DoctorPlus/home/models.py"
+						"admin side",
+						"WoClothingStore/adminplus/templates/admin/admin_sidebar.html"
 					],
 					[
-						"all",
-						"DoctorPlus/adminplus/static/adminplus/js/all_feedbacks.js"
+						"login",
+						"molla-eCommerce-html-template__django/login.html"
 					],
 					[
-						"doctors.js",
-						"DoctorPlus/adminplus/static/adminplus/js/doctors.js"
+						"urls user",
+						"WoClothingStore/user/urls.py"
 					],
 					[
-						"models appointme",
-						"DoctorPlus/appointment/models.py"
+						"urls admin",
+						"WoClothingStore/adminplus/urls.py"
 					],
 					[
-						"side",
-						"DoctorPlus/templates/sidebar.html"
+						"view admin",
+						"WoClothingStore/adminplus/views.py"
 					],
 					[
-						"doctor_ra",
-						"DoctorPlus/adminplus/templates/adminplus/components/doctor_rating.html"
+						"urls woclothingStore",
+						"WoClothingStore/WoClothingStore/urls.py"
 					],
 					[
-						"doctor_rating",
-						"DoctorPlus/adminplus/templates/adminplus/components/doctor_rating.html"
+						"urls woc",
+						"WoClothingStore/payment/urls.py"
 					],
 					[
-						"doctor_rating.html",
-						"DoctorPlus/adminplus/templates/adminplus/components/doctor_rating.html"
+						"urls woclo",
+						"WoClothingStore/adminplus/urls.py"
 					],
 					[
-						"adminplus",
-						"DoctorPlus/adminplus/templatetags/adminplus_tags.py"
+						"urls wo",
+						"WoClothingStore/urls.py"
 					],
 					[
-						"doctor",
-						"DoctorPlus/doctor/templatetags/doctor_tags.py"
+						"view ad",
+						"adminplus/views.py"
 					],
 					[
-						"main.",
-						"DoctorPlus/chat/static/chat/js/main.js"
+						"view payem",
+						"payment/views.py"
 					],
 					[
-						"doctor_tags",
-						"DoctorPlus/doctor/templatetags/doctor_tags.py"
+						"side admin",
+						"adminplus/templates/admin/admin_sidebar.html"
+					],
+					[
+						"urls prod",
+						"product/urls.py"
+					],
+					[
+						"adminside",
+						"adminplus/templates/admin/admin_sidebar.html"
+					],
+					[
+						"produ",
+						"product/templates/product/product_form.html"
+					],
+					[
+						"produc",
+						"product/templates/product/product_form.html"
+					],
+					[
+						"change",
+						"adminplus/templates/admin/change_password.html"
+					],
+					[
+						"admin produ",
+						"product/admin.py"
+					],
+					[
+						"admin view",
+						"adminplus/views.py"
+					],
+					[
+						"view prod",
+						"product/views.py"
+					],
+					[
+						"footer admin",
+						"adminplus/templates/admin/admin_footer.html"
+					],
+					[
+						"admin_base",
+						"adminplus/templates/admin/admin_base.html"
+					],
+					[
+						"urls pro",
+						"product/urls.py"
+					],
+					[
+						"settings",
+						"WoClothingStore/settings.py"
+					],
+					[
+						"urls wocl",
+						"WoClothingStore/urls.py"
+					],
+					[
+						"s",
+						"WoClothingStore/settings.py"
+					],
+					[
+						"config",
+						"wp-config.php"
+					],
+					[
+						"ai",
+						"page/ai.py"
+					],
+					[
+						"payload",
+						"page/payloads.py"
+					],
+					[
+						"urls smar",
+						"SmartBot/urls.py"
+					],
+					[
+						"sett",
+						"SmartBot/settings.py"
+					],
+					[
+						"subm",
+						"page/submit-review.txt"
+					],
+					[
+						"view page",
+						"page/views.py"
+					],
+					[
+						"urls page",
+						"page/urls.py"
+					],
+					[
+						"set",
+						"SmartBot/settings.py"
+					],
+					[
+						"pay",
+						"page/payloads.py"
+					],
+					[
+						"view ",
+						"product/views.py"
+					],
+					[
+						"view pa",
+						"page/views.py"
+					],
+					[
+						"admin ",
+						"product/admin.py"
+					],
+					[
+						"data",
+						"SmartBot/data.txt"
+					],
+					[
+						"urls pyget",
+						"PyGetWays/urls.py"
+					],
+					[
+						"admin prod",
+						"product/admin.py"
+					],
+					[
+						"model ",
+						"product/models.py"
+					],
+					[
+						"admin mess",
+						"message/admin.py"
+					],
+					[
+						"inde",
+						"templates/index.html"
+					],
+					[
+						"urls smart",
+						"SmartBot/urls.py"
+					],
+					[
+						"urls produ",
+						"product/urls.py"
+					],
+					[
+						"trans",
+						"SmartBot/translate.py"
+					],
+					[
+						"style",
+						"molla-eCommerce-html-template__django/assets/css/style.css"
+					],
+					[
+						"header ",
+						"WoClothingStore/templates/header.html"
+					],
+					[
+						"skindemo5",
+						"WoClothingStore/static/assets/css/skins/skin-demo-5.css"
+					],
+					[
+						"demo5",
+						"WoClothingStore/static/assets/js/demos/demo-5.js"
+					],
+					[
+						"category.html",
+						"molla-eCommerce-html-template__django/category.html"
+					],
+					[
+						"forms ",
+						"adminplus/forms.py"
+					],
+					[
+						"prod cre",
+						"adminplus/templates/admin/products/create.html"
+					],
+					[
+						"form amdin",
+						"adminplus/forms.py"
+					],
+					[
+						"model produc",
+						"product/models.py"
+					],
+					[
+						"footer",
+						"WoClothingStore/templates/footer.html"
+					],
+					[
+						"ctx",
+						"WoClothingStore/WoClothingStore/ctx_processor.py"
+					],
+					[
+						"demo-5.css",
+						"molla-eCommerce-html-template__django/assets/css/demos/demo-5.css"
+					],
+					[
+						"index22",
+						"molla-eCommerce-html-template__django/index-22.html"
+					],
+					[
+						"index 5",
+						"molla-eCommerce-html-template__django/index-5.html"
+					],
+					[
+						"admin",
+						"product/admin.py"
+					],
+					[
+						"elements-tabs.html",
+						"molla-eCommerce-html-template__django/elements-tabs.html"
+					],
+					[
+						"model prod",
+						"Ecommercey/product/models.py"
+					],
+					[
+						"models pro",
+						"Ecommercey/product/models.py"
+					],
+					[
+						"model produ",
+						"Ecommercey/product/models.py"
+					],
+					[
+						"model",
+						"Ecommercey/cart/models.py"
+					],
+					[
+						"index3",
+						"molla-eCommerce-html-template__django/index-3.html"
+					],
+					[
+						"index 13",
+						"molla-eCommerce-html-template__django/index-13.html"
+					],
+					[
+						"conat",
+						"home/templates/home/contact.html"
+					],
+					[
+						"about",
+						"home/templates/home/about.html"
+					],
+					[
+						"cona",
+						"home/templates/home/contact.html"
+					],
+					[
+						"contact",
+						"home/templates/home/contact.html"
+					],
+					[
+						"urls home",
+						"home/urls.py"
+					],
+					[
+						"index 22",
+						"molla-eCommerce-html-template__django/index-22.html"
+					],
+					[
+						"model product",
+						"product/models.py"
+					],
+					[
+						"view payment",
+						"digitalstore/payment/views.py"
+					],
+					[
+						"checkout",
+						"digitalstore/home/templates/home/checkout.html"
+					],
+					[
+						"url home",
+						"digitalstore/home/urls.py"
+					],
+					[
+						"admin footer",
+						"digitalstore/adminplus/templates/admin/admin_footer.html"
+					],
+					[
+						"adminpls view",
+						"digitalstore/adminplus/views.py"
+					],
+					[
+						"modle pro",
+						"digitalstore/product/models.py"
+					],
+					[
+						"view client",
+						"digitalstore/client/views.py"
+					],
+					[
+						"view cart",
+						"digitalstore/cart/views.py"
+					],
+					[
+						"client",
+						"digitalstore/client/templates/client/client.html"
+					],
+					[
+						"cancl",
+						"digitalstore/payment/templates/payment/cancel.html"
+					],
+					[
+						"done",
+						"digitalstore/payment/templates/payment/done.html"
+					],
+					[
+						"payment view",
+						"digitalstore/payment/views.py"
+					],
+					[
+						"model paymen",
+						"digitalstore/payment/models.py"
+					],
+					[
+						"model payem",
+						"digitalstore/payment/models.py"
+					],
+					[
+						"view pay",
+						"digitalstore/payment/views.py"
+					],
+					[
+						"report",
+						"digitalstore/adminplus/templates/admin/products/report.html"
+					],
+					[
+						"list prod",
+						"digitalstore/adminplus/templates/admin/products/list.html"
 					]
 				],
 				"width": 0.0
@@ -1857,10 +1887,306 @@
 			},
 			"select_symbol":
 			{
-				"height": 354.0,
-				"last_filter": "Doctor",
+				"height": 243.0,
+				"last_filter": "xuser",
 				"selected_items":
 				[
+					[
+						"xuser",
+						"XuserInfo"
+					],
+					[
+						"xinfo",
+						"XuserInfo"
+					],
+					[
+						"Xuser",
+						"XuserInfo"
+					],
+					[
+						"produc",
+						"Product"
+					],
+					[
+						"categ",
+						"Category"
+					],
+					[
+						"product",
+						"Product"
+					],
+					[
+						"subcar",
+						"SubCategory"
+					],
+					[
+						"prod",
+						"Product"
+					],
+					[
+						"cate",
+						"Category"
+					],
+					[
+						"conta",
+						"Contact"
+					],
+					[
+						"mess",
+						"Message"
+					],
+					[
+						"produ",
+						"Product"
+					],
+					[
+						"sub",
+						"SubCategory"
+					],
+					[
+						"key",
+						"keyword"
+					],
+					[
+						"mes",
+						"Message"
+					],
+					[
+						"catego",
+						"Category"
+					],
+					[
+						"pro",
+						"Product"
+					],
+					[
+						"brand",
+						"Brand"
+					],
+					[
+						"subs",
+						"Subscribe"
+					],
+					[
+						"cart",
+						"Cart"
+					],
+					[
+						"billing",
+						"Billing"
+					],
+					[
+						"subcate",
+						"SubCategory"
+					],
+					[
+						"userad",
+						"UserAddon"
+					],
+					[
+						"usera",
+						"UserAddon"
+					],
+					[
+						"useradd",
+						"UserAddon"
+					],
+					[
+						"subcat",
+						"SubCategory"
+					],
+					[
+						"topic",
+						"Topic"
+					],
+					[
+						"contact",
+						"Contact"
+					],
+					[
+						"redi",
+						"redirect_user"
+					],
+					[
+						"redire",
+						"redirect_user"
+					],
+					[
+						"red",
+						"redirect_user"
+					],
+					[
+						"bradn",
+						"Brand"
+					],
+					[
+						"day",
+						"DaySchedulePattern"
+					],
+					[
+						"user",
+						"User"
+					],
+					[
+						"days",
+						"DaySchedulePattern"
+					],
+					[
+						"clinic",
+						"Clinic"
+					],
+					[
+						"mypatien",
+						"ListMyPatientsView"
+					],
+					[
+						"appvie",
+						"AppointmentViewSet"
+					],
+					[
+						"appser",
+						"AppointmentSerializer"
+					],
+					[
+						"feed",
+						"Feedback"
+					],
+					[
+						"feedback",
+						"CreateFeedBackRepliesForm"
+					],
+					[
+						"good",
+						"good_count"
+					],
+					[
+						"conditionth",
+						"AppointmentConditionThread"
+					],
+					[
+						"clini",
+						"Clinic"
+					],
+					[
+						"awa",
+						"Award"
+					],
+					[
+						"doc",
+						"Doctor"
+					],
+					[
+						"award",
+						"Award"
+					],
+					[
+						"awrad",
+						"Award"
+					],
+					[
+						"dis",
+						"Disease"
+					],
+					[
+						"blogger",
+						"Blogger"
+					],
+					[
+						"doctor",
+						"Doctor"
+					],
+					[
+						"disea",
+						"Disease"
+					],
+					[
+						"symptoms",
+						"query_by_symptoms"
+					],
+					[
+						"speci",
+						"Speciality"
+					],
+					[
+						"diess",
+						"Disease"
+					],
+					[
+						"service",
+						"Service"
+					],
+					[
+						"docto",
+						"Doctor"
+					],
+					[
+						"condition",
+						"Condition"
+					],
+					[
+						"Spe",
+						"Speciality"
+					],
+					[
+						"spe",
+						"Speciality"
+					],
+					[
+						"appoi",
+						"Appointment"
+					],
+					[
+						"Feed",
+						"Feedback"
+					],
+					[
+						"addre",
+						"Address"
+					],
+					[
+						"Favor",
+						"FavoriteDoctor"
+					],
+					[
+						"rela",
+						"Relative"
+					],
+					[
+						"filesha",
+						"FileSharingPatient"
+					],
+					[
+						"fileshar",
+						"FileSharingPatient"
+					],
+					[
+						"User",
+						"User"
+					],
+					[
+						"app",
+						"Appointment"
+					],
+					[
+						"deacti",
+						"DeactivatedApptSlot"
+					],
+					[
+						"dea",
+						"DeactivatedApptSlot"
+					],
+					[
+						"deact",
+						"DeactivatedApptSlot"
+					],
+					[
+						"SocialAuthUserAdapter",
+						"SocialAuthUserAdapter"
+					],
+					[
+						"",
+						"Appointment"
+					],
 					[
 						"Doctor",
 						"Doctor"
@@ -1880,22 +2206,6 @@
 					[
 						"appointmcon",
 						"AppointmentConditionThread"
-					],
-					[
-						"condition",
-						"ConditionThreadListView"
-					],
-					[
-						"service",
-						"Service"
-					],
-					[
-						"speci",
-						"Speciality"
-					],
-					[
-						"user",
-						"User"
 					],
 					[
 						"address",
@@ -1930,16 +2240,8 @@
 						"Relative"
 					],
 					[
-						"User",
-						"User"
-					],
-					[
 						"home",
 						"home_view"
-					],
-					[
-						"app",
-						"Appointment"
 					],
 					[
 						"Speci",
@@ -1950,29 +2252,21 @@
 						"Service"
 					],
 					[
-						"spe",
-						"Speciality"
-					],
-					[
 						"spec",
 						"Specialities"
 					],
 					[
 						"clinicvie",
 						"ClinicListView"
-					],
-					[
-						"clinic",
-						"Clinic"
 					]
 				],
-				"width": 747.0
+				"width": 574.0
 			},
 			"show_minimap": true,
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 276.0,
+			"side_bar_width": 287.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
@@ -1988,529 +2282,953 @@
 				"selected_items":
 				[
 					[
-						"__",
-						"__import__\tfunction"
+						"consle",
+						"console_log"
 					],
 					[
-						"any",
-						"any\tfunction"
+						"each",
+						"each"
 					],
 					[
-						"try",
-						"try\tTry/Except/Else"
+						"findele",
+						"find_element_by_xpath"
+					],
+					[
+						"find_",
+						"find_element_by_name"
+					],
+					[
+						"axios",
+						"axios.get"
+					],
+					[
+						"fiefo",
+						"Firefox"
+					],
+					[
+						"find",
+						"find_element_by_name"
+					],
+					[
+						"fin",
+						"find"
+					],
+					[
+						"ontent",
+						"contentType"
+					],
+					[
+						"name",
+						"namecheap_api"
+					],
+					[
+						"do",
+						"domain"
+					],
+					[
+						"co",
+						"conf"
+					],
+					[
+						"searc",
+						"searching"
+					],
+					[
+						"axis",
+						"axios.post"
+					],
+					[
+						"preve",
+						"preventDefault"
+					],
+					[
+						"conte",
+						"context"
+					],
+					[
+						"templa",
+						"templateview"
+					],
+					[
+						"_",
+						"__class__"
+					],
+					[
+						"defau",
+						"default="
 					],
 					[
 						"def",
-						"def\tFunction"
-					],
-					[
-						"mip",
-						"mgip\tIPAddressField (mgip)"
+						"default="
 					],
 					[
 						"model",
-						"models\tmodule"
+						"Model_full"
 					],
 					[
-						"mdate",
-						"mdate\tDateField (mdate)"
+						"extra",
+						"extrascript"
 					],
 					[
-						"mfil",
-						"mfilepath\tFilePathField (mfilepath)"
+						"extras",
+						"extrascript"
 					],
 					[
-						"read",
-						"read_only=\tparam"
+						"nam",
+						"namespace="
 					],
 					[
-						"mu",
-						"MultipleChoiceField\tclass"
+						"send",
+						"send_email_to"
 					],
 					[
-						"ma",
-						"many"
-					],
-					[
-						"Ing",
-						"IntegerField\tclass"
-					],
-					[
-						"serial",
-						"serializers\tmodule"
-					],
-					[
-						"clini",
-						"clinics_data"
-					],
-					[
-						"clin",
-						"clinic_set_data\tstatement"
-					],
-					[
-						"Exp",
-						"ExperienceSerializer\tclass"
-					],
-					[
-						"Awr",
-						"AwardSerializer\tclass"
-					],
-					[
-						"Ed",
-						"EducationListSerializer\tclass"
-					],
-					[
-						"wir",
-						"WritableNestedModelSerializer\tclass"
-					],
-					[
-						"edu",
-						"education_instances\tstatement"
-					],
-					[
-						"ed",
-						"eduction_data\tstatement"
-					],
-					[
-						"education_",
-						"education_instance"
-					],
-					[
-						"ins",
-						"instances\tparam"
-					],
-					[
-						"valid",
-						"validated_data\tparam"
-					],
-					[
-						"Edi",
-						"Education"
-					],
-					[
-						"Clini",
-						"ClinicSerializer\tclass"
-					],
-					[
-						"Add",
-						"AddressSerializer\tclass"
-					],
-					[
-						"Doc",
-						"DoctorSerializer\tclass"
-					],
-					[
-						"modelser",
-						"modelserializer\tModelSerializer"
-					],
-					[
-						"doct",
-						"Doctor\tclass"
-					],
-					[
-						"rou",
-						"router\tstatement"
-					],
-					[
-						"App",
-						"AppointmentSerializer"
-					],
-					[
-						"Medi",
-						"MedicalRecordViewSet\tclass"
-					],
-					[
-						"view",
-						"GenericViewSet"
-					],
-					[
-						"serli",
-						"serializer_class\tstatement"
-					],
-					[
-						"Fe",
-						"FeedbackSerializerII\tclass"
-					],
-					[
-						"Feed",
-						"FeedbackSerializer\tclass"
-					],
-					[
-						"feed",
-						"FeedbackViewSet\tclass"
-					],
-					[
-						"fee",
-						"FeedbackSerializer\tclass"
-					],
-					[
-						"gener",
-						"GenericViewSet"
-					],
-					[
-						"Des",
-						"DestroyModelMixin\tclass"
-					],
-					[
-						"Ret",
-						"RetrieveModelMixin\tclass"
-					],
-					[
-						"Lis",
-						"ListModelMixin\tclass"
-					],
-					[
-						"Noti",
-						"NotificationSerializer\tclass"
-					],
-					[
-						"Not",
-						"NotificationSerializer\tclass"
-					],
-					[
-						"upda",
-						"update_date\tstatement"
-					],
-					[
-						"update",
-						"u_date_pdate\tstatement"
-					],
-					[
-						"now",
-						"now_3\tstatement"
-					],
-					[
-						"date",
-						"datetime"
-					],
-					[
-						"des",
-						"DestroyModelMixin\tclass"
+						"back",
+						"background-position"
 					],
 					[
 						"req",
 						"request"
 					],
 					[
-						"se",
-						"self\tparam"
+						"sin",
+						"signup_form"
 					],
 					[
-						"list",
-						"ListNotificationsView\tclass"
+						"login",
+						"LoginView"
 					],
 					[
-						"No",
-						"Notification"
+						"logi",
+						"login_singup"
 					],
 					[
-						"not",
-						"notification\tmodule"
+						"sing",
+						"signup_form"
 					],
 					[
-						"Fee",
-						"FeedbackRepliesSerializer\tclass"
+						"sig",
+						"signup_form"
 					],
 					[
-						"RE",
-						"RetrieveFeedbackRepliesView\tclass"
+						"si",
+						"signup_form"
 					],
 					[
-						"get",
-						"get\tfunction"
+						"ras",
+						"raise"
 					],
 					[
-						"Feedback",
-						"FeedbackReplies"
+						"cl",
+						"cleaned_data"
 					],
 					[
-						"as",
-						"as_view\tfunction"
+						"pas",
+						"password1"
 					],
 					[
-						"appo",
-						"appointment__doctor"
+						"na",
+						"name="
 					],
 					[
-						"pag",
-						"pagination_class\tstatement"
+						"att",
+						"attrs="
 					],
 					[
-						"Page",
-						"PageNumberPagination\tclass"
+						"widg",
+						"widget="
+					],
+					[
+						"is",
+						"is_authenticated"
+					],
+					[
+						"Xuser",
+						"XuserInfo"
+					],
+					[
+						"font",
+						"font-size"
 					],
 					[
 						"res",
-						"rest_framework\tmodule"
+						"result"
 					],
 					[
-						"viewset",
-						"viewsets\tmodule"
+						"oer",
+						"ordering"
 					],
 					[
-						"cu",
-						"currentText()\t⟠"
+						"Htt",
+						"HttpResponseForbidden"
 					],
 					[
-						"combo",
-						"comboBox_2\tstatement"
+						"get",
+						"get_object"
 					],
 					[
-						"com",
-						"comboBox_2\tstatement"
+						"prod",
+						"product"
 					],
 					[
-						"but",
-						"button_convert_clicked\tfunction"
+						"for",
+						"form_valid"
 					],
 					[
-						"conn",
-						"connect(self\t8★ pro ⟠"
+						"Ima",
+						"ProductImages"
 					],
 					[
-						"bt",
-						"btn1\t⟠"
+						"re",
+						"required="
 					],
 					[
-						"st",
-						"strip\tfunction"
+						"at",
+						"attrs="
 					],
 					[
-						"ob",
-						"obj\tstatement"
+						"Sele",
+						"SelectMultiple"
 					],
 					[
-						"de",
-						"decrypt"
+						"cal",
+						"class"
 					],
 					[
-						"has",
-						"hash\tstatement"
+						"cons",
+						"console_log"
 					],
 					[
-						"ha",
-						"hash\tstatement"
+						"conslo",
+						"console_log"
 					],
 					[
-						"cr",
-						"crypto\tmodule"
+						"nav",
+						"nav-link"
 					],
 					[
-						"cry",
-						"crypt\tmodule"
+						"htt",
+						"HttpResponseForbidden"
 					],
 					[
-						"send",
-						"sender_id\tstatement"
+						"Pro",
+						"Profile"
 					],
 					[
-						"typ",
-						"typing_payload\tstatement"
+						"get_use",
+						"get_user_model"
 					],
 					[
-						"send_",
-						"send_raw\tfunction"
+						"redi",
+						"redirect"
 					],
 					[
-						"py",
-						"payload\tparam"
+						"from",
+						"form_class"
 					],
 					[
-						"item",
-						"items\tstatement"
+						"Cate",
+						"CategoryForm"
 					],
 					[
-						"pro",
-						"Product\tclass"
+						"prduct",
+						"ProductForm"
 					],
 					[
-						"admin",
-						"adminview\tModel Admin View"
+						"produp",
+						"ProductUpdateView"
 					],
 					[
-						"wel",
-						"welcome_key_words\tstatement"
+						"produc",
+						"ProductCreateView"
 					],
 					[
-						"mo",
-						"models import\t8★ pro ⟠"
+						"listvi",
+						"listview"
 					],
 					[
-						"djan",
-						"django\tmodule ⟠"
+						"cre",
+						"createview"
 					],
 					[
-						"dic",
-						"difference_in_years\tstatement"
+						"hel",
+						"help_text_p"
 					],
 					[
-						"da",
-						"days=\tparam"
+						"he",
+						"help_text"
 					],
 					[
-						"time",
-						"timedelta\tclass"
+						"sen",
+						"send_button_message"
 					],
 					[
-						"xp",
-						"xp_start_date\tstatement"
+						"produ",
+						"Products"
 					],
 					[
-						"List",
-						"ListMedicalRecordsView\tclass"
+						"chan",
+						"change"
 					],
 					[
-						"medi",
-						"medicalrecord\tmodule"
-					],
-					[
-						"ser",
-						"serializer_class\tstatement"
-					],
-					[
-						"USer",
-						"UserSerializer\tclass"
-					],
-					[
-						"User",
-						"UserSerializer\tclass"
-					],
-					[
-						"qur",
-						"queryset\tstatement"
-					],
-					[
-						"Rel",
-						"RelativeSerializer\tclass"
-					],
-					[
-						"rel",
-						"relatives\tstatement"
-					],
-					[
-						"PAti",
-						"PatientSerializer\tclass"
-					],
-					[
-						"My",
-						"RetrieveMyPatientDetailView\tclass"
-					],
-					[
-						"Patien",
-						"PatientSerializer\tclass"
-					],
-					[
-						"bloo",
-						"blood_group"
-					],
-					[
-						"blo",
-						"blood_group"
-					],
-					[
-						"ret",
-						"retrieveapiview\tRetrieveAPIView"
-					],
-					[
-						"red",
-						"read_only_fields"
-					],
-					[
-						"ir",
-						"itertools"
-					],
-					[
-						"my",
-						"my_patients\tstatement"
-					],
-					[
-						"q",
-						"queryset\tstatement"
-					],
-					[
-						"listapi",
-						"listapiview\tListAPIView"
-					],
-					[
-						"validate",
-						"validated_data"
-					],
-					[
-						"cond",
-						"condition_threaded_data\tstatement"
-					],
-					[
-						"condition",
-						"condition_threaded"
-					],
-					[
-						"sup",
-						"super\tclass"
-					],
-					[
-						"dyn",
-						"dynamic_fields\tfunction"
-					],
-					[
-						"dy",
-						"dynamic_fields\tfunction"
-					],
-					[
-						"REla",
-						"RelativeSerializer\tclass"
+						"get_form",
+						"get_form_kwargs"
 					],
 					[
 						"init",
-						"initial"
+						"__init__"
 					],
 					[
-						"user",
-						"UserSerializer\tclass"
+						"S",
+						"SubCategory"
 					],
 					[
-						"Relati",
-						"Relative\tclass"
+						"url",
+						"URLInput"
 					],
 					[
-						"Re",
-						"RetrieveUpdateDestroyAPIView\tclass"
+						"image",
+						"image_url"
 					],
 					[
-						"get_query",
-						"get_queryset"
+						"sub",
+						"subcategory"
 					],
 					[
-						"reter",
-						"retrieveupdateapiview\tRetrieveUpdateAPIView"
+						"Text",
+						"TextInput"
 					],
 					[
-						"Appt",
-						"ApptStatus\tclass"
+						"form",
+						"form_class"
 					],
 					[
-						"dadh",
-						"DashboardApiView\tclass"
+						"fiel",
+						"fields"
 					],
 					[
-						"app",
-						"appointment\tmodule"
+						"Prod",
+						"ProductDeleteView"
 					],
 					[
-						"wid",
-						"width\tAttr"
+						"Pr",
+						"ProductUpdateView"
+					],
+					[
+						"Tel",
+						"TemplateView"
+					],
+					[
+						"create",
+						"createview"
+					],
+					[
+						"nm",
+						"name="
+					],
+					[
+						"Da",
+						"Dashboard"
+					],
+					[
+						"te",
+						"TemplateView"
+					],
+					[
+						"typ",
+						"typing_off"
+					],
+					[
+						"cate",
+						"category__owner"
+					],
+					[
+						"lo",
+						"lower"
+					],
+					[
+						"subca",
+						"subcats"
+					],
+					[
+						"cat",
+						"category__owner"
+					],
+					[
+						"Tr",
+						"True"
+					],
+					[
+						"send_te",
+						"send_text_message"
+					],
+					[
+						"cont",
+						"contact"
+					],
+					[
+						"bu",
+						"buttons="
+					],
+					[
+						"ca",
+						"category"
+					],
+					[
+						"ow",
+						"owner_company"
+					],
+					[
+						"pro",
+						"property"
+					],
+					[
+						"typing_",
+						"typing_off"
+					],
+					[
+						"se",
+						"send_text_message"
+					],
+					[
+						"wel",
+						"welcome_key_words"
+					],
+					[
+						"bt",
+						"bt_customer"
+					],
+					[
+						"cu",
+						"customer_create"
+					],
+					[
+						"web",
+						"webhook_notification"
+					],
+					[
+						"pad",
+						"padding-top"
+					],
+					[
+						"Ba",
+						"BASE_DIR"
+					],
+					[
+						"con",
+						"conf"
+					],
+					[
+						"str",
+						"stripe_webhook"
+					],
+					[
+						"templ",
+						"templateview"
+					],
+					[
+						"Http",
+						"HttpResponse"
+					],
+					[
+						"Produc",
+						"Product"
+					],
+					[
+						"as",
+						"as_view"
+					],
+					[
+						"time",
+						"timedelta"
+					],
+					[
+						"Model",
+						"ModelAdmin"
+					],
+					[
+						"subc",
+						"subcats"
+					],
+					[
+						"subcate",
+						"subcategory"
+					],
+					[
+						"langau",
+						"Language"
+					],
+					[
+						"onde",
+						"on_delete="
+					],
+					[
+						"Keyw",
+						"keywordInline"
+					],
+					[
+						"Tran",
+						"Translator"
+					],
+					[
+						"icon-",
+						"icon-heart-o"
+					],
+					[
+						"Te",
+						"templateview"
+					],
+					[
+						"sf",
+						"sf-with-ul"
+					],
+					[
+						"ne",
+						"next"
+					],
+					[
+						"nul",
+						"null="
+					],
+					[
+						"bla",
+						"blank="
 					]
 				]
 			},
 			"buffers":
 			[
 				{
-					"file": "/home/ali/mobile app/Be Better/mysite/manage.py",
+					"file": "/home/ali/FocusWeb/FocusWeb/settings.py",
+					"redo_stack":
+					[
+						[
+							8,
+							1,
+							"left_delete",
+							null,
+							"AQAAAI4CAAAAAAAAjwIAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAjgIAAAAAAACOAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							7,
+							1,
+							"insert",
+							{
+								"characters": "s"
+							},
+							"AQAAAI4CAAAAAAAAjgIAAAAAAAABAAAAcw",
+							"AQAAAAAAAAABAAAAjwIAAAAAAACPAgAAAAAAAAAAAAAAAPC/"
+						]
+					],
 					"settings":
 					{
-						"buffer_size": 662,
+						"buffer_size": 7308,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+					]
+				},
+				{
+					"file": "/home/ali/FocusWeb/domain/templates/domain/domain.html",
+					"settings":
+					{
+						"buffer_size": 19766,
+						"line_ending": "Unix"
 					}
+				},
+				{
+					"contents": "July 17, 2021 - 04:53:45                                                                                                          \nDjango version 3.2.5, using settings 'FocusWeb.settings'                                                                          \nStarting development server at http://127.0.0.1:8000/                                                                             \nQuit the server with CONTROL-C.                                                                                                   \n                                                                                                                                  \n                                                                                                                                  \n",
+					"settings":
+					{
+						"buffer_size": 786,
+						"line_ending": "Unix",
+						"name": "Terminal (bash)",
+						"read_only": true,
+						"scratch": true
+					},
+					"undo_stack":
+					[
+						[
+							2,
+							1,
+							"terminal_view_update",
+							null,
+							"GAAAAAAAAAAAAAAAUQAAAAAAAAAAAAAAUQAAAAAAAACiAAAAAAAAAAAAAACiAAAAAAAAAPMAAAAAAAAAAAAAAPMAAAAAAAAARAEAAAAAAAAAAAAARAEAAAAAAACVAQAAAAAAAAAAAACVAQAAAAAAAOYBAAAAAAAAAAAAAOYBAAAAAAAANwIAAAAAAAAAAAAANwIAAAAAAACIAgAAAAAAAAAAAACIAgAAAAAAANkCAAAAAAAAAAAAANkCAAAAAAAAKgMAAAAAAAAAAAAAKgMAAAAAAAB7AwAAAAAAAAAAAAB7AwAAAAAAAMwDAAAAAAAAAAAAAMwDAAAAAAAAHQQAAAAAAAAAAAAAHQQAAAAAAABuBAAAAAAAAAAAAABuBAAAAAAAAL8EAAAAAAAAAAAAAL8EAAAAAAAAEAUAAAAAAAAAAAAAEAUAAAAAAABhBQAAAAAAAAAAAABhBQAAAAAAALIFAAAAAAAAAAAAALIFAAAAAAAAAwYAAAAAAAAAAAAAAwYAAAAAAABUBgAAAAAAAAAAAABUBgAAAAAAAKUGAAAAAAAAAAAAAKUGAAAAAAAA9gYAAAAAAAAAAAAA9gYAAAAAAABHBwAAAAAAAAAAAABHBwAAAAAAAJgHAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							3,
+							1,
+							"terminal_view_clear",
+							{
+								"start": 1701
+							},
+							"AQAAAKUGAAAAAAAApQYAAAAAAADzAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							4,
+							2,
+							"terminal_view_update",
+							null,
+							"FwAAAAAAAAAAAAAAgwAAAAAAAABRAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKgwAAAAAAAAAGAQAAAAAAAFEAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAoGAQAAAAAAAIkBAAAAAAAAUQAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCokBAAAAAAAADAIAAAAAAABRAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKDAIAAAAAAACPAgAAAAAAAFEAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAqPAgAAAAAAABIDAAAAAAAAUQAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgChIDAAAAAAAAlQMAAAAAAABRAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKlQMAAAAAAAAYBAAAAAAAAFEAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAoYBAAAAAAAAJsEAAAAAAAAUQAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCpsEAAAAAAAAHgUAAAAAAABRAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKHgUAAAAAAAChBQAAAAAAAFEAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAqhBQAAAAAAACQGAAAAAAAAUQAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiQGAAAAAAAApwYAAAAAAABRAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKpwYAAAAAAAAqBwAAAAAAAFEAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAoqBwAAAAAAAK0HAAAAAAAAUQAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCq0HAAAAAAAAMAgAAAAAAABRAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKMAgAAAAAAACzCAAAAAAAAFEAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAqzCAAAAAAAADYJAAAAAAAAUQAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCjYJAAAAAAAAuQkAAAAAAABRAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKuQkAAAAAAAA8CgAAAAAAAFEAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo8CgAAAAAAAL8KAAAAAAAAUQAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCgAAAAAAAAAAgwAAAAAAAACDAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAqDAAAAAAAAAAYBAAAAAAAAgwAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							6,
+							1,
+							"terminal_view_update",
+							null,
+							"AQAAAIMAAAAAAAAABgEAAAAAAACDAAAAJCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo",
+							"AQAAAAAAAAABAAAAhQAAAAAAAACFAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							8,
+							1,
+							"terminal_view_update",
+							null,
+							"AQAAAIMAAAAAAAAABgEAAAAAAACDAAAAJCBwICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo",
+							"AQAAAAAAAAABAAAAhgAAAAAAAACGAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							10,
+							1,
+							"terminal_view_update",
+							null,
+							"AQAAAIMAAAAAAAAABgEAAAAAAACDAAAAJCBweSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo",
+							"AQAAAAAAAAABAAAAhwAAAAAAAACHAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							12,
+							1,
+							"terminal_view_update",
+							null,
+							"AQAAAIMAAAAAAAAABgEAAAAAAACDAAAAJCBweXQgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo",
+							"AQAAAAAAAAABAAAAiAAAAAAAAACIAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							14,
+							1,
+							"terminal_view_update",
+							null,
+							"AQAAAIMAAAAAAAAABgEAAAAAAACDAAAAJCBweXRoICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo",
+							"AQAAAAAAAAABAAAAiQAAAAAAAACJAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							16,
+							1,
+							"terminal_view_update",
+							null,
+							"AQAAAIMAAAAAAAAABgEAAAAAAACDAAAAJCBweXRobyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo",
+							"AQAAAAAAAAABAAAAigAAAAAAAACKAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							20,
+							1,
+							"terminal_view_update",
+							null,
+							"AQAAAIMAAAAAAAAABgEAAAAAAACDAAAAJCBweXRob24gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo",
+							"AQAAAAAAAAABAAAAjAAAAAAAAACMAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							22,
+							1,
+							"terminal_view_update",
+							null,
+							"AQAAAIMAAAAAAAAABgEAAAAAAACDAAAAJCBweXRob24gbSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo",
+							"AQAAAAAAAAABAAAAjQAAAAAAAACNAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							24,
+							1,
+							"terminal_view_update",
+							null,
+							"AQAAAIMAAAAAAAAABgEAAAAAAACDAAAAJCBweXRob24gbWEgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo",
+							"AQAAAAAAAAABAAAAjgAAAAAAAACOAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							26,
+							1,
+							"terminal_view_update",
+							null,
+							"AQAAAIMAAAAAAAAABgEAAAAAAACDAAAAJCBweXRob24gbWFuYWdlLnB5ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo",
+							"AQAAAAAAAAABAAAAlgAAAAAAAACWAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							28,
+							1,
+							"terminal_view_update",
+							null,
+							"AQAAAIMAAAAAAAAABgEAAAAAAACDAAAAJCBweXRob24gbWFuYWdlLnB5IHIgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo",
+							"AQAAAAAAAAABAAAAlwAAAAAAAACXAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							30,
+							1,
+							"terminal_view_update",
+							null,
+							"AQAAAIMAAAAAAAAABgEAAAAAAACDAAAAJCBweXRob24gbWFuYWdlLnB5IHJ1ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo",
+							"AQAAAAAAAAABAAAAmAAAAAAAAACYAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							32,
+							1,
+							"terminal_view_update",
+							null,
+							"AQAAAIMAAAAAAAAABgEAAAAAAACDAAAAJCBweXRob24gbWFuYWdlLnB5IHJ1biAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo",
+							"AQAAAAAAAAABAAAAmQAAAAAAAACZAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							34,
+							1,
+							"terminal_view_update",
+							null,
+							"AQAAAIMAAAAAAAAABgEAAAAAAACDAAAAJCBweXRob24gbWFuYWdlLnB5IHJ1bnMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo",
+							"AQAAAAAAAAABAAAAmgAAAAAAAACaAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							36,
+							1,
+							"terminal_view_update",
+							null,
+							"AQAAAIMAAAAAAAAABgEAAAAAAACDAAAAJCBweXRob24gbWFuYWdlLnB5IHJ1bnNlICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo",
+							"AQAAAAAAAAABAAAAmwAAAAAAAACbAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							38,
+							1,
+							"terminal_view_update",
+							null,
+							"AQAAAIMAAAAAAAAABgEAAAAAAACDAAAAJCBweXRob24gbWFuYWdlLnB5IHJ1bnNlciAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo",
+							"AQAAAAAAAAABAAAAnAAAAAAAAACcAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							40,
+							1,
+							"terminal_view_update",
+							null,
+							"AQAAAIMAAAAAAAAABgEAAAAAAACDAAAAJCBweXRob24gbWFuYWdlLnB5IHJ1bnNlcnYgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo",
+							"AQAAAAAAAAABAAAAnQAAAAAAAACdAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							42,
+							1,
+							"terminal_view_update",
+							null,
+							"AQAAAIMAAAAAAAAABgEAAAAAAACDAAAAJCBweXRob24gbWFuYWdlLnB5IHJ1bnNlcnZlICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo",
+							"AQAAAAAAAAABAAAAngAAAAAAAACeAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							44,
+							4,
+							"terminal_view_update",
+							null,
+							"BwAAAAYBAAAAAAAAiQEAAAAAAACDAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAqJAQAAAAAAAAwCAAAAAAAAgwAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKjwIAAAAAAAASAwAAAAAAAIMAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgChIDAAAAAAAAlQMAAAAAAACDAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAqVAwAAAAAAABgEAAAAAAAAgwAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKGAQAAAAAAACbBAAAAAAAAIMAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCpsEAAAAAAAAHgUAAAAAAACDAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo",
+							"AQAAAAAAAAABAAAAnwAAAAAAAACfAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							45,
+							1,
+							"terminal_view_clear",
+							{
+								"start": 1048
+							},
+							"AQAAABgEAAAAAAAAGAQAAAAAAACnBgAAU3RhcnRpbmcgZGV2ZWxvcG1lbnQgc2VydmVyIGF0IGh0dHA6Ly8xMjcuMC4wLjE6ODAwMC8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIApRdWl0IHRoZSBzZXJ2ZXIgd2l0aCBDT05UUk9MLUMuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo",
+							"AQAAAAAAAAABAAAAHgUAAAAAAAAeBQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							46,
+							1,
+							"terminal_view_update",
+							null,
+							"BwAAAAAAAAAAAAAAgwAAAAAAAACDAAAAQW5vbnltb3VzQFdvcmxkOn4vRm9jdXNXZWIgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAqDAAAAAAAAAAYBAAAAAAAAgwAAACQgcHl0aG9uIG1hbmFnZS5weSBydW5zZXJ2ZXIgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKBgEAAAAAAACJAQAAAAAAAIMAAABXYXRjaGluZyBmb3IgZmlsZSBjaGFuZ2VzIHdpdGggU3RhdFJlbG9hZGVyICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCokBAAAAAAAADAIAAAAAAACDAAAAUGVyZm9ybWluZyBzeXN0ZW0gY2hlY2tzLi4uICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAqPAgAAAAAAABIDAAAAAAAAgwAAAFN5c3RlbSBjaGVjayBpZGVudGlmaWVkIG5vIGlzc3VlcyAoMCBzaWxlbmNlZCkuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKEgMAAAAAAACVAwAAAAAAAIMAAABKdWx5IDE3LCAyMDIxIC0gMDQ6NDM6MTAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCpUDAAAAAAAAGAQAAAAAAACDAAAARGphbmdvIHZlcnNpb24gMy4yLjUsIHVzaW5nIHNldHRpbmdzICdGb2N1c1dlYi5zZXR0aW5ncycgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo",
+							"AQAAAAAAAAABAAAAGAQAAAAAAAAYBAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							47,
+							6,
+							"terminal_view_update",
+							null,
+							"IQAAABIDAAAAAAAAlQMAAAAAAACDAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAqJAQAAAAAAAAwCAAAAAAAAgwAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKDAIAAAAAAACPAgAAAAAAAIMAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCo8CAAAAAAAAEgMAAAAAAACDAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAoSAwAAAAAAAJUDAAAAAAAAgwAAAFsxNy9KdWwvMjAyMSAwNDo0MzoyNV0gIkdFVCAvIEhUVFAvMS4xIiAyMDAgMzA0MTcgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKAAAAAAAAAACDAAAAAAAAAIMAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCoMAAAAAAAAABgEAAAAAAACDAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAoGAQAAAAAAAIkBAAAAAAAAgwAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKiQEAAAAAAAAMAgAAAAAAAIMAAABbMTcvSnVsLzIwMjEgMDQ6NDM6MjVdICJHRVQgLyBIVFRQLzEuMSIgMjAwIDMwNDE3ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCgwCAAAAAAAAjwIAAAAAAACDAAAAWzE3L0p1bC8yMDIxIDA0OjQzOjI1XSAiR0VUIC9zdGF0aWMvanMvanF1ZXJ5LTMuMS4wLm1pbi5qcyBIVFRQLzEuMSIgMzA0IDAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAqPAgAAAAAAABIDAAAAAAAAgwAAAFsxNy9KdWwvMjAyMSAwNDo0MzoyNV0gIkdFVCAvc3RhdGljL2ltZy9zZXJ2aWNlLWltZy9pY29uLTAxLnBuZyBIVFRQLzEuMSIgMzA0IDAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKEgMAAAAAAACVAwAAAAAAAIMAAABbMTcvSnVsLzIwMjEgMDQ6NDM6MjVdICJHRVQgL3N0YXRpYy9qcy9ib290c3RyYXAubWluLmpzIEhUVFAvMS4xIiAzMDQgMCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCgAAAAAAAAAAgwAAAAAAAACDAAAAWzE3L0p1bC8yMDIxIDA0OjQzOjI1XSAiR0VUIC9zdGF0aWMvaW1nL3NlcnZpY2UtaW1nL2ljb24tMDMucG5nIEhUVFAvMS4xIiAzMDQgMCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAqDAAAAAAAAAAYBAAAAAAAAgwAAAFsxNy9KdWwvMjAyMSAwNDo0MzoyNV0gIkdFVCAvc3RhdGljL2ltZy9zZXJ2aWNlLWltZy9pY29uLTAyLnBuZyBIVFRQLzEuMSIgMzA0IDAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKBgEAAAAAAACJAQAAAAAAAIMAAABbMTcvSnVsLzIwMjEgMDQ6NDM6MjVdICJHRVQgL3N0YXRpYy9qcy9qcXVlcnkuYnhzbGlkZXIubWluLmpzIEhUVFAvMS4xIiAzMDQgMCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCokBAAAAAAAADAIAAAAAAACDAAAAWzE3L0p1bC8yMDIxIDA0OjQzOjI1XSAiR0VUIC9zdGF0aWMvaW1nL3ByaWNpbmctaW1nL2RlZGljYXRlZC5wbmcgSFRUUC8xLjEiIDMwNCAwICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAoMAgAAAAAAAI8CAAAAAAAAgwAAAFsxNy9KdWwvMjAyMSAwNDo0MzoyNV0gIkdFVCAvc3RhdGljL2ltZy9wcmljaW5nLWltZy9zaGFyZWQucG5nIEhUVFAvMS4xIiAzMDQgMCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKjwIAAAAAAAASAwAAAAAAAIMAAABbMTcvSnVsLzIwMjEgMDQ6NDM6MjVdICJHRVQgL3N0YXRpYy9pbWcvcHJpY2luZy1pbWcvY2xvdWQtdnBzLnBuZyBIVFRQLzEuMSIgMzA0IDAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgChIDAAAAAAAAlQMAAAAAAACDAAAAWzE3L0p1bC8yMDIxIDA0OjQzOjI1XSAiR0VUIC9zdGF0aWMvaW1nL2ZlZWRiYWNrLWltZy9pY29uLTAxLnBuZyBIVFRQLzEuMSIgMzA0IDAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAoAAAAAAAAAAIMAAAAAAAAAgwAAAFsxNy9KdWwvMjAyMSAwNDo0MzoyNV0gIkdFVCAvc3RhdGljL2pzL2pxdWVyeS52YWxpZGF0ZS5taW4uanMgSFRUUC8xLjEiIDMwNCAwICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKgwAAAAAAAAAGAQAAAAAAAIMAAABbMTcvSnVsLzIwMjEgMDQ6NDM6MjVdICJHRVQgL3N0YXRpYy9pbWcvZmVlZGJhY2staW1nL2ljb24tMDQucG5nIEhUVFAvMS4xIiAzMDQgMCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCgYBAAAAAAAAiQEAAAAAAACDAAAAWzE3L0p1bC8yMDIxIDA0OjQzOjI1XSAiR0VUIC9zdGF0aWMvanMvcmV0aW5hLm1pbi5qcyBIVFRQLzEuMSIgMzA0IDAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAqJAQAAAAAAAAwCAAAAAAAAgwAAAFsxNy9KdWwvMjAyMSAwNDo0MzoyNV0gIkdFVCAvc3RhdGljL2ltZy9mZWF0dXJlLWltZy9pY29uLTAxLnBuZyBIVFRQLzEuMSIgMzA0IDAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKDAIAAAAAAACPAgAAAAAAAIMAAABbMTcvSnVsLzIwMjEgMDQ6NDM6MjVdICJHRVQgL3N0YXRpYy9pbWcvZmVhdHVyZS1pbWcvaWNvbi0wMi5wbmcgSFRUUC8xLjEiIDMwNCAwICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCo8CAAAAAAAAEgMAAAAAAACDAAAAWzE3L0p1bC8yMDIxIDA0OjQzOjI1XSAiR0VUIC9zdGF0aWMvaW1nL2ZlYXR1cmUtaW1nL2ljb24tMDMucG5nIEhUVFAvMS4xIiAzMDQgMCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAoSAwAAAAAAAJUDAAAAAAAAgwAAAFsxNy9KdWwvMjAyMSAwNDo0MzoyNV0gIkdFVCAvc3RhdGljL2pzL21haW4uanMgSFRUUC8xLjEiIDMwNCAwICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKAAAAAAAAAACDAAAAAAAAAIMAAABbMTcvSnVsLzIwMjEgMDQ6NDM6MjVdICJHRVQgL3N0YXRpYy9pbWcvZmVlZGJhY2staW1nL2ljb24tMDQucG5nIEhUVFAvMS4xIiAzMDQgMCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCoMAAAAAAAAABgEAAAAAAACDAAAAWzE3L0p1bC8yMDIxIDA0OjQzOjI1XSAiR0VUIC9zdGF0aWMvanMvcmV0aW5hLm1pbi5qcyBIVFRQLzEuMSIgMzA0IDAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAoGAQAAAAAAAIkBAAAAAAAAgwAAAFsxNy9KdWwvMjAyMSAwNDo0MzoyNV0gIkdFVCAvc3RhdGljL2ltZy9mZWF0dXJlLWltZy9pY29uLTAxLnBuZyBIVFRQLzEuMSIgMzA0IDAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKiQEAAAAAAAAMAgAAAAAAAIMAAABbMTcvSnVsLzIwMjEgMDQ6NDM6MjVdICJHRVQgL3N0YXRpYy9pbWcvZmVhdHVyZS1pbWcvaWNvbi0wMi5wbmcgSFRUUC8xLjEiIDMwNCAwICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCgwCAAAAAAAAjwIAAAAAAACDAAAAWzE3L0p1bC8yMDIxIDA0OjQzOjI1XSAiR0VUIC9zdGF0aWMvaW1nL2ZlYXR1cmUtaW1nL2ljb24tMDMucG5nIEhUVFAvMS4xIiAzMDQgMCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAqPAgAAAAAAABIDAAAAAAAAgwAAAFsxNy9KdWwvMjAyMSAwNDo0MzoyNV0gIkdFVCAvc3RhdGljL2pzL21haW4uanMgSFRUUC8xLjEiIDMwNCAwICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKEgMAAAAAAACVAwAAAAAAAIMAAABbMTcvSnVsLzIwMjEgMDQ6NDM6MjZdICJHRVQgL3N0YXRpYy9pbWcvZmF2aWNvbi5wbmcgSFRUUC8xLjEiIDIwMCA0MDk2ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg",
+							"AQAAAAAAAAABAAAAlQMAAAAAAACVAwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							48,
+							1,
+							"terminal_view_clear",
+							{
+								"start": 917
+							},
+							"AQAAAJUDAAAAAAAAlQMAAAAAAACDAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo",
+							"AQAAAAAAAAABAAAAlQMAAAAAAACVAwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							50,
+							4,
+							"terminal_view_update",
+							null,
+							"GQAAAAAAAAAAAAAAgwAAAAAAAACDAAAAWzE3L0p1bC8yMDIxIDA0OjQzOjI1XSAiR0VUIC9zdGF0aWMvaW1nL2ZlYXR1cmUtaW1nL2ljb24tMDIucG5nIEhUVFAvMS4xIiAzMDQgMCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAqDAAAAAAAAAAYBAAAAAAAAgwAAAFsxNy9KdWwvMjAyMSAwNDo0MzoyNV0gIkdFVCAvc3RhdGljL2ltZy9mZWF0dXJlLWltZy9pY29uLTAzLnBuZyBIVFRQLzEuMSIgMzA0IDAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKBgEAAAAAAACJAQAAAAAAAIMAAABbMTcvSnVsLzIwMjEgMDQ6NDM6MjVdICJHRVQgL3N0YXRpYy9qcy9tYWluLmpzIEhUVFAvMS4xIiAzMDQgMCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCokBAAAAAAAADAIAAAAAAACDAAAAWzE3L0p1bC8yMDIxIDA0OjQzOjI2XSAiR0VUIC9zdGF0aWMvaW1nL2Zhdmljb24ucG5nIEhUVFAvMS4xIiAyMDAgNDA5NiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAoMAgAAAAAAAI8CAAAAAAAAgwAAAFsxNy9KdWwvMjAyMSAwNDo0MzoyN10gIkdFVCAvc3RhdGljL2ltZy9iYW5uZXItc2xpZGVyLWltZy9yb2NrZXQucG5nIEhUVFAvMS4xIiAzMDQgMCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKjwIAAAAAAAASAwAAAAAAAIMAAABbMTcvSnVsLzIwMjEgMDQ6NDM6MjddICJHRVQgL3N0YXRpYy9pbWcvZm9vdGVyLWltZy9iZy5wbmcgSFRUUC8xLjEiIDMwNCAwICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgChIDAAAAAAAAlQMAAAAAAACDAAAAWzE3L0p1bC8yMDIxIDA0OjQzOjI3XSAiR0VUIC9zdGF0aWMvaW1nL3N1YnNjcmliZS1pbWcvYmcucG5nIEhUVFAvMS4xIiAzMDQgMCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAoAAAAAAAAAAIMAAAAAAAAAgwAAAFsxNy9KdWwvMjAyMSAwNDo0MzoyNV0gIkdFVCAvc3RhdGljL2ltZy9mZWF0dXJlLWltZy9pY29uLTAzLnBuZyBIVFRQLzEuMSIgMzA0IDAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKgwAAAAAAAAAGAQAAAAAAAIMAAABbMTcvSnVsLzIwMjEgMDQ6NDM6MjVdICJHRVQgL3N0YXRpYy9qcy9tYWluLmpzIEhUVFAvMS4xIiAzMDQgMCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCgYBAAAAAAAAiQEAAAAAAACDAAAAWzE3L0p1bC8yMDIxIDA0OjQzOjI2XSAiR0VUIC9zdGF0aWMvaW1nL2Zhdmljb24ucG5nIEhUVFAvMS4xIiAyMDAgNDA5NiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAqJAQAAAAAAAAwCAAAAAAAAgwAAAFsxNy9KdWwvMjAyMSAwNDo0MzoyN10gIkdFVCAvc3RhdGljL2ltZy9iYW5uZXItc2xpZGVyLWltZy9yb2NrZXQucG5nIEhUVFAvMS4xIiAzMDQgMCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKDAIAAAAAAACPAgAAAAAAAIMAAABbMTcvSnVsLzIwMjEgMDQ6NDM6MjddICJHRVQgL3N0YXRpYy9pbWcvZm9vdGVyLWltZy9iZy5wbmcgSFRUUC8xLjEiIDMwNCAwICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCo8CAAAAAAAAEgMAAAAAAACDAAAAL2hvbWUvYWxpL0ZvY3VzV2ViL0ZvY3VzV2ViL3NldHRpbmdzLnB5IGNoYW5nZWQsIHJlbG9hZGluZy5nIEhUVFAvMS4xIiAzMDQgMCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAoAAAAAAAAAAIMAAAAAAAAAgwAAAFsxNy9KdWwvMjAyMSAwNDo0MzoyN10gIkdFVCAvc3RhdGljL2ltZy9iYW5uZXItc2xpZGVyLWltZy9yb2NrZXQucG5nIEhUVFAvMS4xIiAzMDQgMCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKgwAAAAAAAAAGAQAAAAAAAIMAAABbMTcvSnVsLzIwMjEgMDQ6NDM6MjddICJHRVQgL3N0YXRpYy9pbWcvZm9vdGVyLWltZy9iZy5wbmcgSFRUUC8xLjEiIDMwNCAwICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCgYBAAAAAAAAiQEAAAAAAACDAAAAL2hvbWUvYWxpL0ZvY3VzV2ViL0ZvY3VzV2ViL3NldHRpbmdzLnB5IGNoYW5nZWQsIHJlbG9hZGluZy5nIEhUVFAvMS4xIiAzMDQgMCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAqJAQAAAAAAAAwCAAAAAAAAgwAAAFdhdGNoaW5nIGZvciBmaWxlIGNoYW5nZXMgd2l0aCBTdGF0UmVsb2FkZXIgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKDAIAAAAAAACPAgAAAAAAAIMAAABQZXJmb3JtaW5nIHN5c3RlbSBjaGVja3MuLi4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCo8CAAAAAAAAEgMAAAAAAACDAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAoAAAAAAAAAAIMAAAAAAAAAgwAAAFsxNy9KdWwvMjAyMSAwNDo0MzoyN10gIkdFVCAvc3RhdGljL2ltZy9mb290ZXItaW1nL2JnLnBuZyBIVFRQLzEuMSIgMzA0IDAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKgwAAAAAAAAAGAQAAAAAAAIMAAAAvaG9tZS9hbGkvRm9jdXNXZWIvRm9jdXNXZWIvc2V0dGluZ3MucHkgY2hhbmdlZCwgcmVsb2FkaW5nLmcgSFRUUC8xLjEiIDMwNCAwICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCgYBAAAAAAAAiQEAAAAAAACDAAAAV2F0Y2hpbmcgZm9yIGZpbGUgY2hhbmdlcyB3aXRoIFN0YXRSZWxvYWRlciAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAqJAQAAAAAAAAwCAAAAAAAAgwAAAFBlcmZvcm1pbmcgc3lzdGVtIGNoZWNrcy4uLiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKDAIAAAAAAACPAgAAAAAAAIMAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCo8CAAAAAAAAEgMAAAAAAACDAAAAU3lzdGVtIGNoZWNrIGlkZW50aWZpZWQgbm8gaXNzdWVzICgwIHNpbGVuY2VkKS4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo",
+							"AQAAAAAAAAABAAAAEgMAAAAAAAASAwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							51,
+							1,
+							"terminal_view_clear",
+							{
+								"start": 655
+							},
+							"AQAAAI8CAAAAAAAAjwIAAAAAAAAGAQAAUXVpdCB0aGUgc2VydmVyIHdpdGggQ09OVFJPTC1DLiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg",
+							"AQAAAAAAAAABAAAAEgMAAAAAAAASAwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							52,
+							1,
+							"terminal_view_update",
+							null,
+							"BQAAAAAAAAAAAAAAgwAAAAAAAACDAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAqDAAAAAAAAAAYBAAAAAAAAgwAAAFN5c3RlbSBjaGVjayBpZGVudGlmaWVkIG5vIGlzc3VlcyAoMCBzaWxlbmNlZCkuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKBgEAAAAAAACJAQAAAAAAAIMAAABKdWx5IDE3LCAyMDIxIC0gMDQ6NTM6NDUgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCokBAAAAAAAADAIAAAAAAACDAAAARGphbmdvIHZlcnNpb24gMy4yLjUsIHVzaW5nIHNldHRpbmdzICdGb2N1c1dlYi5zZXR0aW5ncycgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAoMAgAAAAAAAI8CAAAAAAAAgwAAAFN0YXJ0aW5nIGRldmVsb3BtZW50IHNlcnZlciBhdCBodHRwOi8vMTI3LjAuMC4xOjgwMDAvICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK",
+							"AQAAAAAAAAABAAAAjwIAAAAAAACPAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							53,
+							1,
+							"terminal_view_update",
+							null,
+							"AQAAAI8CAAAAAAAAEgMAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAADAIAAAAAAAAMAgAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				},
+				{
+					"contents": "Anonymous@World:~/FocusWeb                                                                                                        \n$                                                                                                                                 \n                                                                                                                                  \n                                                                                                                                  \n                                                                                                                                  \n                                                                                                                                  \n                                                                                                                                  \n                                                                                                                                  \n",
+					"settings":
+					{
+						"buffer_size": 1048,
+						"line_ending": "Unix",
+						"name": "Terminal (bash)",
+						"read_only": true,
+						"scratch": true
+					},
+					"undo_stack":
+					[
+						[
+							2,
+							1,
+							"terminal_view_update",
+							null,
+							"GAAAAAAAAAAAAAAAUQAAAAAAAAAAAAAAUQAAAAAAAACiAAAAAAAAAAAAAACiAAAAAAAAAPMAAAAAAAAAAAAAAPMAAAAAAAAARAEAAAAAAAAAAAAARAEAAAAAAACVAQAAAAAAAAAAAACVAQAAAAAAAOYBAAAAAAAAAAAAAOYBAAAAAAAANwIAAAAAAAAAAAAANwIAAAAAAACIAgAAAAAAAAAAAACIAgAAAAAAANkCAAAAAAAAAAAAANkCAAAAAAAAKgMAAAAAAAAAAAAAKgMAAAAAAAB7AwAAAAAAAAAAAAB7AwAAAAAAAMwDAAAAAAAAAAAAAMwDAAAAAAAAHQQAAAAAAAAAAAAAHQQAAAAAAABuBAAAAAAAAAAAAABuBAAAAAAAAL8EAAAAAAAAAAAAAL8EAAAAAAAAEAUAAAAAAAAAAAAAEAUAAAAAAABhBQAAAAAAAAAAAABhBQAAAAAAALIFAAAAAAAAAAAAALIFAAAAAAAAAwYAAAAAAAAAAAAAAwYAAAAAAABUBgAAAAAAAAAAAABUBgAAAAAAAKUGAAAAAAAAAAAAAKUGAAAAAAAA9gYAAAAAAAAAAAAA9gYAAAAAAABHBwAAAAAAAAAAAABHBwAAAAAAAJgHAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							3,
+							1,
+							"terminal_view_clear",
+							{
+								"start": 1701
+							},
+							"AQAAAKUGAAAAAAAApQYAAAAAAADzAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							4,
+							2,
+							"terminal_view_update",
+							null,
+							"FwAAAAAAAAAAAAAAgwAAAAAAAABRAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKgwAAAAAAAAAGAQAAAAAAAFEAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAoGAQAAAAAAAIkBAAAAAAAAUQAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCokBAAAAAAAADAIAAAAAAABRAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKDAIAAAAAAACPAgAAAAAAAFEAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAqPAgAAAAAAABIDAAAAAAAAUQAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgChIDAAAAAAAAlQMAAAAAAABRAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKlQMAAAAAAAAYBAAAAAAAAFEAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAoYBAAAAAAAAJsEAAAAAAAAUQAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCpsEAAAAAAAAHgUAAAAAAABRAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKHgUAAAAAAAChBQAAAAAAAFEAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAqhBQAAAAAAACQGAAAAAAAAUQAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiQGAAAAAAAApwYAAAAAAABRAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKpwYAAAAAAAAqBwAAAAAAAFEAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAoqBwAAAAAAAK0HAAAAAAAAUQAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCq0HAAAAAAAAMAgAAAAAAABRAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKMAgAAAAAAACzCAAAAAAAAFEAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAqzCAAAAAAAADYJAAAAAAAAUQAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCjYJAAAAAAAAuQkAAAAAAABRAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKuQkAAAAAAAA8CgAAAAAAAFEAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo8CgAAAAAAAL8KAAAAAAAAUQAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCgAAAAAAAAAAgwAAAAAAAACDAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAqDAAAAAAAAAAYBAAAAAAAAgwAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							5,
+							1,
+							"terminal_view_clear",
+							{
+								"start": 2620
+							},
+							"AQAAADwKAAAAAAAAPAoAAAAAAACDAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo",
+							"AQAAAAAAAAABAAAAhQAAAAAAAACFAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							7,
+							1,
+							"terminal_view_clear",
+							{
+								"start": 2358
+							},
+							"AQAAADYJAAAAAAAANgkAAAAAAAAGAQAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg",
+							"AQAAAAAAAAABAAAAhQAAAAAAAACFAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							9,
+							1,
+							"terminal_view_clear",
+							{
+								"start": 2227
+							},
+							"AQAAALMIAAAAAAAAswgAAAAAAACDAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo",
+							"AQAAAAAAAAABAAAAhQAAAAAAAACFAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							11,
+							1,
+							"terminal_view_clear",
+							{
+								"start": 1703
+							},
+							"AQAAAKcGAAAAAAAApwYAAAAAAAAMAgAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo",
+							"AQAAAAAAAAABAAAAhQAAAAAAAACFAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							13,
+							1,
+							"terminal_view_clear",
+							{
+								"start": 1572
+							},
+							"AQAAACQGAAAAAAAAJAYAAAAAAACDAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo",
+							"AQAAAAAAAAABAAAAhQAAAAAAAACFAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							15,
+							1,
+							"terminal_view_clear",
+							{
+								"start": 1441
+							},
+							"AQAAAKEFAAAAAAAAoQUAAAAAAACDAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo",
+							"AQAAAAAAAAABAAAAhQAAAAAAAACFAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							17,
+							1,
+							"terminal_view_clear",
+							{
+								"start": 1310
+							},
+							"AQAAAB4FAAAAAAAAHgUAAAAAAACDAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo",
+							"AQAAAAAAAAABAAAAhQAAAAAAAACFAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							19,
+							1,
+							"terminal_view_clear",
+							{
+								"start": 1179
+							},
+							"AQAAAJsEAAAAAAAAmwQAAAAAAACDAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo",
+							"AQAAAAAAAAABAAAAhQAAAAAAAACFAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							21,
+							1,
+							"terminal_view_clear",
+							{
+								"start": 1048
+							},
+							"AQAAABgEAAAAAAAAGAQAAAAAAACDAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo",
+							"AQAAAAAAAAABAAAAhQAAAAAAAACFAAAAAAAAAAAAAAAAAPC/"
+						]
+					]
 				}
 			],
 			"build_system": "",
@@ -2545,15 +3263,27 @@
 				"selected_items":
 				[
 					[
+						"ui",
+						"UI: Select Theme"
+					],
+					[
+						"color",
+						"UI: Select Color Scheme"
+					],
+					[
+						"active ",
+						"Material Theme: Activate theme"
+					],
+					[
+						"active them",
+						"Activate Materialize Theme"
+					],
+					[
+						"dj",
+						"Set Syntax: HTML (Django)"
+					],
+					[
 						"menu",
-						"View: Toggle Menu"
-					],
-					[
-						"Django:new",
-						"Django: New App"
-					],
-					[
-						"meu",
 						"View: Toggle Menu"
 					],
 					[
@@ -2561,20 +3291,44 @@
 						"Terminal View: Open Bash Terminal"
 					],
 					[
-						"Django:inter",
-						"Django: Set Project Interpreter"
+						"remove",
+						"Package Control: Remove Package"
 					],
 					[
-						"Django:new ",
-						"Django: New Project"
+						"browse",
+						"Browse Mode: Left Sidebar"
 					],
 					[
-						"Django:pro",
-						"Django: New Project"
+						"brow",
+						"Browse Mode: Right Sidebar"
 					],
 					[
 						"package",
 						"Package Control: List Packages"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"open",
+						"Terminal View: Open Bash Terminal"
+					],
+					[
+						"oper",
+						"Terminal View: Open Bash Terminal"
+					],
+					[
+						"Django:run",
+						"Django: Run Server"
+					],
+					[
+						"Django:new ",
+						"Django: New App"
+					],
+					[
+						"save",
+						"File: Save All"
 					],
 					[
 						"Django:migrate",
@@ -2585,183 +3339,243 @@
 						"Django: Make Migration"
 					],
 					[
-						"show",
-						"Anaconda: Show error list"
-					],
-					[
-						"ui",
-						"UI: Select Theme"
-					],
-					[
-						"color",
-						"UI: Select Color Scheme"
-					],
-					[
-						"wo",
-						"Word Wrap: Toggle"
-					],
-					[
-						"low",
-						"Convert Case: Lower Case"
-					],
-					[
-						"active",
-						"Activate Materialize Theme"
-					],
-					[
-						"Django:migra",
+						"Django:migrt",
 						"Django: Migrate Database"
 					],
 					[
-						"Django:ma",
-						"Django: Make Migration"
+						"Django:new",
+						"Django: New App"
 					],
 					[
-						"Django:",
-						"Django: Other Command"
-					],
-					[
-						"Django:cre",
-						"Django: Run Custom Server"
-					],
-					[
-						"Django:mi",
-						"Django: Migrate Database"
-					],
-					[
-						"Django:migr",
-						"Django: Migrate App"
-					],
-					[
-						"lower",
-						"Convert Case: Lower Case"
-					],
-					[
-						"cus",
-						"Django: Custom Command"
-					],
-					[
-						"Django:mig",
-						"Django: Migrate Database"
-					],
-					[
-						"Django:run",
-						"Django: Run Server"
-					],
-					[
-						"acti",
-						"Activate Materialize Theme"
-					],
-					[
-						"activate",
-						"ayu: Activate theme"
-					],
-					[
-						"colo",
-						"UI: Select Color Scheme"
-					],
-					[
-						"men",
-						"View: Toggle Menu"
-					],
-					[
-						"Django:ru",
-						"Django: Run Server"
-					],
-					[
-						"mneu",
-						"View: Toggle Menu"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"Django:r",
-						"Django: Run Server"
-					],
-					[
-						"dj",
-						"Set Syntax: HTML (Django)"
-					],
-					[
-						"Django:cus",
-						"Django: Custom Command"
-					],
-					[
-						"titl",
-						"Convert Case: Title Case"
-					],
-					[
-						"title",
-						"Convert Case: Title Case"
-					],
-					[
-						"til",
-						"Snippet: Tabular Inline"
-					],
-					[
-						"tit",
-						"Convert Case: Title Case"
+						"html",
+						"Set Syntax: HTML"
 					],
 					[
 						"Django:app",
 						"Django: New App"
 					],
 					[
-						"Django:u",
+						"Django:c",
 						"Django: Custom Command"
+					],
+					[
+						"Django:cre",
+						"Django: Run Custom Server"
+					],
+					[
+						"to spa",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"Django:migr",
+						"Django: Migrate Database"
+					],
+					[
+						"to sap",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"Django:cus",
+						"Django: Custom Command"
+					],
+					[
+						"Django:shell",
+						"Django: Shell"
+					],
+					[
+						"Django:new app",
+						"Django: New App"
+					],
+					[
+						"Django:mi",
+						"Django: Migrate Database"
+					],
+					[
+						"Django:runs",
+						"Django: Run Server"
+					],
+					[
+						"con",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"cov spa",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"low",
+						"Convert Case: Lower Case"
+					],
+					[
+						"acitve",
+						"Activate Materialize Theme"
+					],
+					[
+						"title",
+						"Convert Case: Title Case"
+					],
+					[
+						"conv sp",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"tit",
+						"Convert Case: Title Case"
+					],
+					[
+						"lower",
+						"Convert Case: Lower Case"
+					],
+					[
+						"toggle tab",
+						"View: Toggle Tabs"
+					],
+					[
+						"men",
+						"View: Toggle Menu"
+					],
+					[
+						"tabs",
+						"View: Toggle Tabs"
+					],
+					[
+						"Django:othe",
+						"Django: Other Command"
+					],
+					[
+						"Django:cu",
+						"Django: Custom Command"
+					],
+					[
+						"Django:",
+						"Django: Custom Command"
+					],
+					[
+						"Django:runse",
+						"Django: Run Server"
+					],
+					[
+						"black",
+						"Sublack: Format file"
 					],
 					[
 						"Django:runser",
 						"Django: Run Server"
 					],
 					[
-						"json",
-						"Set Syntax: JSON"
+						"active",
+						"Activate Materialize Theme"
 					],
 					[
-						"Django:makemi",
+						"Django:ru",
+						"Django: Run Server"
+					],
+					[
+						"titl",
+						"Convert Case: Title Case"
+					],
+					[
+						"close",
+						"File: Close All"
+					],
+					[
+						"savell",
+						"File: Save All"
+					],
+					[
+						"Django:runserver",
+						"Django: Run Server"
+					],
+					[
+						"Django:cr",
+						"Django: Other Command"
+					],
+					[
+						"active theme",
+						"Material Theme: Activate theme"
+					],
+					[
+						"colorsublime",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"mig",
+						"Django: Migrate Database"
+					],
+					[
+						"migrate",
+						"Django: Migrate Database"
+					],
+					[
+						"make",
 						"Django: Make Migration"
 					],
 					[
-						"jdson",
-						"Snippet: JSONField (sjson)"
+						"Django:other",
+						"Django: Other Command"
+					],
+					[
+						"sehll",
+						"Django: Shell"
+					],
+					[
+						"Django:shel",
+						"Django: DB Shell"
+					],
+					[
+						"json",
+						"Set Syntax: Bower JSON"
 					],
 					[
 						"Django:mak",
 						"Django: Make Migration"
 					],
 					[
-						"save",
+						"colo",
+						"UI: Select Color Scheme"
+					],
+					[
+						"DJANGO",
+						"Set Syntax: HTML (Django)"
+					],
+					[
+						"setsyn html",
+						"Set Syntax: HTML"
+					],
+					[
+						"python",
+						"Set Syntax: Python (Django)"
+					],
+					[
+						"Django:migrta",
+						"Django: Migrate Database"
+					],
+					[
+						"savel",
 						"File: Save All"
 					],
 					[
-						"ope",
-						"Terminal View: Open Bash Terminal"
+						"sort",
+						"Sort Lines"
 					],
 					[
-						"active ",
+						"Django:ne",
+						"Django: New App"
+					],
+					[
+						"acti",
 						"Activate Materialize Theme"
 					],
 					[
-						"reind",
-						"Indentation: Reindent Lines"
+						"titi",
+						"Selection: Expand to Indentation"
 					],
 					[
-						"active ay",
-						"ayu: Activate theme"
+						"lo",
+						"Convert Case: Lower Case"
 					],
 					[
-						"them",
-						"UI: Select Theme"
-					],
-					[
-						"active m",
-						"Activate Materialize Theme"
-					],
-					[
-						"active me",
+						"activ",
 						"Activate Materialize Theme"
 					],
 					[
@@ -2769,292 +3583,196 @@
 						"View: Toggle Status Bar"
 					],
 					[
-						"package remove",
-						"Package Control: Remove Package"
-					],
-					[
-						"active ma",
-						"Activate Materialize Theme"
-					],
-					[
-						"mig",
-						"Django: Migrate Database"
-					],
-					[
-						"toggle tabs",
-						"View: Toggle Tabs"
-					],
-					[
-						"toggle stats",
-						"View: Toggle Status Bar"
-					],
-					[
-						"make",
-						"Django: Make Migration"
-					],
-					[
-						"material",
-						"Material Theme: Advanced configuration"
-					],
-					[
-						"toggle tab",
-						"View: Toggle Tabs"
-					],
-					[
-						"tabs",
-						"Terminal View: Open Bash Terminal"
-					],
-					[
-						"open",
-						"Terminal View: Open Bash Terminal"
-					],
-					[
-						"toabs",
-						"View: Toggle Tabs"
-					],
-					[
-						"toggl tab",
-						"View: Toggle Tabs"
-					],
-					[
-						"material ac",
-						"Material Theme: Advanced configuration"
-					],
-					[
-						"remove pakc",
-						"Package Control: Remove Package"
-					],
-					[
-						"active mat",
-						"Activate Materialize Theme"
-					],
-					[
-						"active mati",
-						"Material Theme: Activate theme"
-					],
-					[
-						"materializ",
-						"Activate Materialize Theme"
-					],
-					[
-						"wrap",
-						"Word Wrap: Toggle"
-					],
-					[
-						"material ",
-						"Material Theme: Configuration"
-					],
-					[
-						"ctags",
-						"CTags: Show Symbols (file)"
-					],
-					[
-						"o",
-						"Terminal View: Open Bash Terminal"
-					],
-					[
-						"coloe",
-						"UI: Select Color Scheme"
-					],
-					[
-						"theme",
-						"UI: Select Color Scheme"
-					],
-					[
-						"view ope",
-						"View: Toggle Open Files in Side Bar"
-					],
-					[
-						"toggle",
-						"Bookmarks: Toggle"
-					],
-					[
-						"booke",
-						"Bookmarks: Toggle"
-					],
-					[
-						"view app",
-						"JavaScript Enhancements Flow: Previous Error"
-					],
-					[
-						"opent terin",
-						"Terminal View: Open Bash Terminal"
-					],
-					[
-						"html",
-						"HTMLPrettify"
-					],
-					[
-						"dja",
-						"Set Syntax: HTML (Django)"
-					],
-					[
-						"xml",
-						"Set Syntax: XML"
-					],
-					[
-						"java",
-						"Set Syntax: Java"
-					],
-					[
-						"runser",
-						"Django: Run Server"
-					],
-					[
-						"custom",
-						"Django: Custom Command"
-					],
-					[
-						"reinde",
-						"Indentation: Reindent Lines"
-					],
-					[
-						"djan",
-						"Set Syntax: HTML (Django)"
-					],
-					[
-						"path",
-						"File: Copy Path"
-					],
-					[
-						"djn",
-						"Set Syntax: HTML (Django)"
-					],
-					[
-						"Django:custom",
-						"Django: Custom Command"
-					],
-					[
-						"django run",
-						"Django: Run Server"
-					],
-					[
-						"Django:server",
-						"Django: Run Server"
-					],
-					[
-						"open ba",
-						"Terminal View: Open Bash Terminal"
-					],
-					[
-						"open bas",
-						"Terminal View: Open Bash Terminal"
-					],
-					[
-						"opene",
-						"Sublime Merge: Open Repository"
-					],
-					[
-						"run",
-						"Django: Run Server"
-					],
-					[
-						"Django:runs",
-						"Django: Run Server"
-					],
-					[
 						"stat",
 						"View: Toggle Status Bar"
 					],
 					[
-						"merger",
-						"Sublime Merge: Open Repository"
+						"package contorl en",
+						"Package Control: Enable Package"
 					],
 					[
-						"merge",
-						"Sublime Merge: Blame File"
+						"statu",
+						"View: Toggle Status Bar"
 					],
 					[
-						"runs",
-						"Django: Run Server"
+						"css",
+						"Set Syntax: CSS"
 					],
 					[
-						"term",
-						"Terminal View: Open Bash Terminal"
+						"actv",
+						"Activate Materialize Theme"
 					],
 					[
-						"django:help",
-						"Django: Help"
+						"lowre",
+						"Convert Case: Lower Case"
 					],
 					[
-						"makem",
-						"Django: Make Migration"
+						"dis",
+						"Package Control: Disable Package"
 					],
 					[
-						"migrate",
-						"Django: Migrate Database"
-					],
-					[
-						"terminal",
-						"Terminal View: Open Bash Terminal"
-					],
-					[
-						"re",
-						"Permute Lines: Reverse"
-					],
-					[
-						"terminsl",
-						"Terminal View: Open Bash Terminal"
-					],
-					[
-						"remove",
-						"Package Control: Remove Package"
+						"instaa",
+						"Package Control: Install Package"
 					],
 					[
 						"remove ",
 						"Package Control: Remove Package"
 					],
 					[
-						"djang",
-						"Set Syntax: HTML (Django)"
+						"snippet ",
+						"Snippet: function"
 					],
 					[
-						"package re",
-						"Package Control: Remove Package"
+						"Django:maek",
+						"Django: Make Migration"
 					],
 					[
-						"packa",
-						"Package Control: Remove Package"
+						"activr",
+						"Activate Materialize Theme"
 					],
 					[
-						"djnago",
-						"Set Syntax: HTML (Django)"
+						"Django:new a",
+						"Django: New App"
 					],
 					[
-						"coloer",
-						"UI: Select Color Scheme"
+						"ti",
+						"Convert Case: Title Case"
 					],
 					[
-						"gutter",
-						"GitGutter: Show Diff Popup"
+						"Django:migrT",
+						"Django: Migrate Database"
 					],
 					[
-						"git ",
-						"Preferences: GitGutter Key Bindings"
+						"cop",
+						"File: Copy Path"
 					],
 					[
-						"git",
-						"Material Theme: Configuration"
+						"acite",
+						"ayu: Activate theme"
 					],
 					[
-						"django",
-						"Set Syntax: HTML (Django)"
+						"Django:migrte",
+						"Django: Migrate Database"
 					],
 					[
-						"git ba",
-						"Set Syntax: Git Rebase Todo"
+						"Django:mig",
+						"Django: Migrate Database"
 					],
 					[
-						"savel",
+						"Django:migrAT",
+						"Django: Migrate Database"
+					],
+					[
+						"wrap",
+						"Word Wrap: Toggle"
+					],
+					[
+						"package list",
+						"Package Control: List Packages"
+					],
+					[
+						"acit",
+						"Activate Materialize Theme"
+					],
+					[
+						"Django:migra",
+						"Django: Migrate Database"
+					],
+					[
+						"Django:mie",
+						"Django: Migrate Database"
+					],
+					[
+						"new snippe",
+						"Snippet: now"
+					],
+					[
+						"Django:mkae",
+						"Django: Make Migration"
+					],
+					[
+						"Django:oteh",
+						"Django: Other Command"
+					],
+					[
+						"path",
+						"File: Copy Path"
+					],
+					[
+						"ope",
+						"Terminal View: Open Bash Terminal"
+					],
+					[
+						"Lowe",
+						"Convert Case: Lower Case"
+					],
+					[
+						"Django:makemi",
+						"Django: Make Migration"
+					],
+					[
+						"saveall",
 						"File: Save All"
 					],
 					[
-						"snippet pass",
-						"Snippet: New Class"
+						"select ui ",
+						"UI: Select Theme"
 					],
 					[
-						"model acc",
-						"HTML: Encode Special Characters"
+						"lowe",
+						"Convert Case: Lower Case"
+					],
+					[
+						"todo",
+						"Set Syntax: ToDone"
+					],
+					[
+						"list pack",
+						"Package Control: List Packages"
+					],
+					[
+						"toggle",
+						"View: Toggle Distraction Free"
+					],
+					[
+						"toggle di",
+						"View: Toggle Distraction Free"
+					],
+					[
+						"todone",
+						"View: Toggle Distraction Free"
+					],
+					[
+						"list packa",
+						"Package Control: List Packages"
+					],
+					[
+						"menyu",
+						"Emmet: Decrement Number by 1"
+					],
+					[
+						"sublime",
+						"Sublime Merge: Blame File"
+					],
+					[
+						"meu",
+						"View: Toggle Menu"
+					],
+					[
+						"Django:inter",
+						"Django: Set Project Interpreter"
+					],
+					[
+						"Django:pro",
+						"Django: New Project"
+					],
+					[
+						"show",
+						"Anaconda: Show error list"
+					],
+					[
+						"wo",
+						"Word Wrap: Toggle"
 					]
 				],
 				"width": 0.0
@@ -3064,6 +3782,7 @@
 				"height": 178.0,
 				"history":
 				[
+					"sublime.packages_path()",
 					"sublime.log_commands(True)",
 					"sublime.log_commands(False)",
 					"sublime.log_commands(True)",
@@ -3084,138 +3803,140 @@
 			},
 			"expanded_folders":
 			[
-				"/home/ali/mobile app/Be Better/mysite"
+				"/home/ali/FocusWeb",
+				"/home/ali/FocusWeb/FocusWeb",
+				"/home/ali/FocusWeb/home"
 			],
 			"file_history":
 			[
-				"/home/ali/mobile app/Be Better/mysite/products/models.py",
-				"/home/ali/mobile app/Be Better/mysite/products/tests.py",
-				"/home/ali/mobile app/Sublime Python IDE/Arsa.tmTheme",
-				"/home/ali/mobile app/Sublime Python IDE/material-theme.sublime-settings",
-				"/home/ali/mobile app/Sublime Python IDE/sublack.sublime-settings",
-				"/home/ali/mobile app/Sublime Python IDE/Anaconda.sublime-settings",
-				"/home/ali/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
-				"/home/ali/.config/sublime-text-3/Packages/User/HTML (Django).sublime-settings",
-				"/home/ali/.config/sublime-text-3/Packages/User/Python (Django).sublime-settings",
-				"/home/ali/DoctorPlus/doctor/api/urls.py",
-				"/home/ali/DoctorPlus/doctor/api/views.py",
-				"/home/ali/DoctorPlus/doctor/models.py",
-				"/home/ali/DoctorPlus/doctor/api/serializers.py",
-				"/home/ali/DoctorPlus/appointment/models.py",
-				"/home/ali/DoctorPlus/patient/api/serializers.py",
-				"/home/ali/DoctorPlus/home/templates/home/homepage.html",
-				"/home/ali/DoctorPlus/templates/base.html",
-				"/home/ali/DoctorPlus/notification/models.py",
-				"/home/ali/DoctorPlus/account/tests.py",
-				"/home/ali/Ali/ali/ngrok/smartbot/del.py",
-				"/home/ali/Desktop/algo.py",
-				"/home/ali/Ali/ali/ngrok/smartbot/bot/ai.py",
-				"/home/ali/Ali/ali/ngrok/smartbot/products/admin.py",
-				"/home/ali/Ali/ali/ngrok/smartbot/bot/payload_responses.py",
-				"/home/ali/Ali/ali/ngrok/smartbot/products/models.py",
-				"/home/ali/Desktop/new.",
-				"/home/ali/Ali/ali/ngrok/smartbot/db.sqlite3",
-				"/home/ali/Ali/ali/ngrok/smartbot/smartbot/settings.py",
-				"/home/ali/Ali/ali/ngrok/smartbot/bot/admin.py",
-				"/home/ali/DoctorPlus/doctor/views.py",
-				"/home/ali/DoctorPlus/account/models.py",
-				"/home/ali/DoctorPlus/medicalrecord/models.py",
-				"/home/ali/DoctorPlus/patient/api/views.py",
-				"/home/ali/DoctorPlus/adminplus/graphs.py",
-				"/home/ali/DoctorPlus/adminplus/views.py",
-				"/home/ali/DoctorPlus/patient/api/README.md",
-				"/home/ali/DoctorPlus/doctor/urls.py",
-				"/home/ali/DoctorPlus/doctor/templates/doctor/doctor_dashboard.html",
-				"/home/ali/DoctorPlus/doctor/static/doctor/js/doctor_dashboard.js",
-				"/home/ali/DoctorPlus/doctor/api/permissions.py",
-				"/home/ali/DoctorPlus/DoctorPlus/settings.py",
-				"/home/ali/DoctorPlus/patient/api/permissions.py",
-				"/home/ali/DoctorPlus/account/api/urls.py",
-				"/home/ali/DoctorPlus/account/urls.py",
-				"/home/ali/parabola/parabola/settings.py",
-				"/home/ali/parabola/parabola/urls.py",
-				"/home/ali/parabola/home/templates/home/contact.html",
-				"/home/ali/parabola/templates/base.html",
-				"/home/ali/parabola/home/urls.py",
-				"/home/ali/parabola/home/templates/home/faq.html",
-				"/home/ali/parabola/home/templates/home/index.html",
-				"/home/ali/parabola/templates/navbar.html",
-				"/home/ali/parabola/home/templates/home/coverage.html",
-				"/home/ali/parabola/home/templates/home/products.html",
-				"/home/ali/parabola/home/views.py",
-				"/home/ali/parabola/static/css/styles.css",
-				"/home/ali/parabola/templates/footer.html",
-				"/home/ali/parabola/home/templates/home/solutions.html",
-				"/home/ali/parabola/home/templates/home/terms_conditions.html",
-				"/home/ali/parabola/home/templates/home/continent.html",
-				"/home/ali/parabola/home/static/phone.codes.js",
-				"/home/ali/Desktop/International mobile dial codes _ Sprint Support.htm",
-				"/home/ali/parabola/home/templates/home/privacy-policy.html",
-				"/home/ali/parabola/settings/settings.py",
-				"/home/ali/parabola/templates/header.html",
-				"/home/ali/telecom/telecom/settings.py",
-				"/home/ali/telecom/templates/base.html",
-				"/home/ali/telecom/home/views.py",
-				"/home/ali/telecom/home/templates/home/index.html",
-				"/home/ali/telecom/telecom/urls.py",
-				"/home/ali/telecom/templates/header.html",
-				"/home/ali/telecom/home/urls.py",
-				"/home/ali/DoctorPlus/doctor/templates/doctor/dropdowns/conditions_dropdown.html",
-				"/home/ali/DoctorPlus/doctor/static/doctor/js/profile-settings.js",
-				"/home/ali/DoctorPlus/adminplus/templates/adminplus/pages/doctor/review_requests.html",
-				"/home/ali/DoctorPlus/home/models.py",
-				"/home/ali/DoctorPlus/adminplus/forms.py",
-				"/home/ali/DoctorPlus/patient/views.py",
-				"/home/ali/DoctorPlus/doctor/templates/doctor/doctor_profile.html",
-				"/home/ali/DoctorPlus/account/admin.py",
-				"/home/ali/DoctorPlus/adminplus/templates/adminplus/pages/speciality/services.html",
-				"/home/ali/DoctorPlus/adminplus/urls.py",
-				"/home/ali/DoctorPlus/adminplus/templates/adminplus/adminp_sidebar.html",
-				"/home/ali/DoctorPlus/adminplus/templates/adminplus/pages/speciality/edit_speciality.html",
-				"/tmp/kite_tutorial.py",
-				"/home/ali/.config/sublime-text-3/Packages/User/KiteSublime.sublime-settings",
-				"/home/ali/.config/sublime-text-3/Packages/KiteSublime/KiteSublime.sublime-settings",
-				"/home/ali/DoctorPlus/adminplus/templates/adminplus/pages/speciality/specialities.html",
-				"/home/ali/DoctorPlus/account/validators.py",
-				"/home/ali/DoctorPlus/account/api/serializers.py",
-				"/home/ali/DoctorPlus/account/api/views.py",
-				"/home/ali/DoctorPlus/DoctorPlus/urls.py",
-				"/home/ali/DoctorPlus/account/views.py",
-				"/home/ali/DoctorPlus/patient/api/urls.py",
-				"/home/ali/DoctorPlus/patient/models.py",
-				"/home/ali/DoctorPlus/account/api/__init__.py",
-				"/home/ali/DoctorPlus/chat/validators.py",
-				"/home/ali/DoctorPlus/chat/models.py",
-				"/home/ali/DoctorPlus/relative/forms.py",
-				"/home/ali/DoctorPlus/patient/urls.py",
-				"/home/ali/DoctorPlus/patient/api/__init__.py",
-				"/home/ali/DoctorPlus/doctor/templatetags/doctor_tags.py",
-				"/home/ali/DoctorPlus/home/static/home/js/home.js",
-				"/home/ali/DoctorPlus/home/views.py",
-				"/home/ali/DoctorPlus/home/urls.py",
-				"/home/ali/DoctorPlus/adminplus/templates/adminplus/components/doctor_rating.html",
-				"/home/ali/DoctorPlus/appointment/urls.py",
-				"/home/ali/DoctorPlus/doctor/templates/doctor/templatetag_files/doctor_rating.html",
-				"/home/ali/DoctorPlus/adminplus/templates/adminplus/pages/doctor/doctors.html",
-				"/home/ali/DoctorPlus/adminplus/static/adminplus/js/dashboard.js",
-				"/home/ali/DoctorPlus/adminplus/static/adminplus/js/doctors.js",
-				"/home/ali/DoctorPlus/adminplus/templates/adminplus/pages/speciality/conditions.html",
-				"/home/ali/DoctorPlus/adminplus/static/adminplus/js/all_feedbacks.js",
-				"/home/ali/DoctorPlus/adminplus/templates/adminplus/pages/feedback/all_feedbacks.html",
-				"/home/ali/DoctorPlus/adminplus/templates/adminplus/pages/feedback/feedbacks.html",
-				"/home/ali/DoctorPlus/adminplus/templates/adminplus/pages/speciality/edit_service.html",
-				"/home/ali/DoctorPlus/adminplus/templates/adminplus/pages/speciality/edit_conditions.html",
-				"/home/ali/DoctorPlus/relative/templates/relative/family_member_detail.html",
-				"/home/ali/DoctorPlus/adminplus/templates/adminplus/adminp_base.html",
-				"/home/ali/DoctorPlus/adminplus/templates/adminplus/components/components.main.html",
-				"/home/ali/DoctorPlus/adminplus/templates/adminplus/adminp_dashboard.html",
-				"/home/ali/DoctorPlus/account/__init__.py",
-				"/home/ali/DoctorPlus/home/templates/home/search.html",
-				"/home/ali/DoctorPlus/doctor/forms.py",
-				"/home/ali/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
-				"/home/ali/.config/sublime-text-3/Packages/User/CTags.sublime-settings",
-				"/home/ali/.config/sublime-text-3/Packages/CTags/CTags.sublime-settings",
-				"/home/ali/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap"
+				"/home/ali/.config/sublime-text-3/Packages/Material Theme/Preferences.sublime-settings",
+				"/home/ali/FocusWeb/domain/views.py",
+				"/home/ali/FocusWeb/FocusWeb/settings.py",
+				"/home/ali/FocusWeb/domain/templates/domain/domain.html",
+				"/home/ali/FocusWeb/home/tests.py",
+				"/home/ali/FocusWeb/domain/urls.py",
+				"/home/ali/FocusWeb/FocusWeb/urls.py",
+				"/home/ali/FocusWeb/pricing/tests.py",
+				"/home/ali/FocusWeb/templates/base.html",
+				"/home/ali/Desktop/hostwhmcs/version-1/domain.html",
+				"/home/ali/FocusWeb/home/views.py",
+				"/home/ali/Desktop/hostwhmcs/version-1/testimonial.html",
+				"/home/ali/FocusWeb/home/urls.py",
+				"/home/ali/FocusWeb/manage.py",
+				"/home/ali/FocusWeb/FocusWeb/asgi.py",
+				"/home/ali/FocusWeb/FocusWeb/wsgi.py",
+				"/home/ali/ICTHOST/templates/header.html",
+				"/home/ali/ICTHOST/ICTHOST/context_processors.py",
+				"/home/ali/ICTHOST/todo",
+				"/home/ali/ICTHOST/pricing/tests.py",
+				"/home/ali/ICTHOST/home/views.py",
+				"/home/ali/ICTHOST/home/templates/home/domain.html",
+				"/home/ali/ICTHOST/templates/main.html",
+				"/home/ali/ICTHOST/templates/base.html",
+				"/home/ali/ICTHOST/home/templates/home/home.html",
+				"/home/ali/ICTHOST/home/urls.py",
+				"/home/ali/ICTHOST/home/templates/home/pricing.html",
+				"/home/ali/ICTHOST/pricing/models.py",
+				"/home/ali/ICTHOST/static/css/style.css",
+				"/home/ali/ICTHOST/plan/models.py",
+				"/home/ali/ICTHOST/pricing/admin.py",
+				"/home/ali/ICTHOST/ICTHOST/settings.py",
+				"/home/ali/ICTHOST/static/phpmailer/extras/htmlfilter.php",
+				"/home/ali/ICTHOST/templates/footer.html",
+				"/home/ali/Desktop/hostwhmcs/version-1/index.html",
+				"/home/ali/ICTHOST/ICTHOST/urls.py",
+				"/home/ali/WoClothingStore/client/views.py",
+				"/home/ali/WoClothingStore/cart/views.py",
+				"/home/ali/WoClothingStore/whitelist/views.py",
+				"/home/ali/WoClothingStore/product/views.py",
+				"/home/ali/WoClothingStore/adminplus/views.py",
+				"/home/ali/WoClothingStore/user/models.py",
+				"/home/ali/WoClothingStore/user/urls.py",
+				"/home/ali/WoClothingStore/user/views.py",
+				"/home/ali/WoClothingStore/user/templates/user/verification.html",
+				"/home/ali/WoClothingStore/adminplus/tests.py",
+				"/home/ali/WoClothingStore/user/templates/user/login.html",
+				"/home/ali/WoClothingStore/WoClothingStore/settings.py",
+				"/home/ali/WoClothingStore/product/templates/product/product_list.html",
+				"/home/ali/WoClothingStore/adminplus/templates/admin/admin_sidebar.html",
+				"/home/ali/Ali/Documents/web_temps/Ecom/molla-eCommerce-html-template__django/login.html",
+				"/home/ali/WoClothingStore/home/templates/home/login.html",
+				"/home/ali/WoClothingStore/templates/main.html",
+				"/home/ali/WoClothingStore/home/templates/home/home.html",
+				"/home/ali/WoClothingStore/templates/header.html",
+				"/home/ali/WoClothingStore/adminplus/urls.py",
+				"/home/ali/WoClothingStore/WoClothingStore/urls.py",
+				"/home/ali/WoClothingStore/home/templatetags/home_tags.py",
+				"/home/ali/WoClothingStore/payment/urls.py",
+				"/home/ali/WoClothingStore/home/views.py",
+				"/home/ali/WoClothingStore/user/templates/user/signup.html",
+				"/home/ali/WoClothingStore/user/forms.py",
+				"/home/ali/WoClothingStore/payment/views.py",
+				"/home/ali/WoClothingStore/user/admin.py",
+				"/home/ali/WoClothingStore/adminplus/templates/admin/admin_navbar.html",
+				"/home/ali/PyGetWays/payment/tests.py",
+				"/home/ali/PyGetWays/payment/urls.py",
+				"/home/ali/WoClothingStore/product/models.py",
+				"/home/ali/WoClothingStore/payment/templates/payment/cancel.html",
+				"/home/ali/WoClothingStore/payment/templates/payment/done.html",
+				"/home/ali/WoClothingStore/payment/models.py",
+				"/home/ali/WoClothingStore/payment/templates/payment/checkout.html",
+				"/home/ali/WoClothingStore/whitelist/models.py",
+				"/home/ali/WoClothingStore/home/templatetags/__init__.py",
+				"/home/ali/WoClothingStore/product/urls.py",
+				"/home/ali/WoClothingStore/product/templates/product/report.html",
+				"/home/ali/WoClothingStore/product/templates/product/category_form.html",
+				"/home/ali/WoClothingStore/product/templates/product/product_form.html",
+				"/home/ali/WoClothingStore/product/templates/product/category_list.html",
+				"/home/ali/WoClothingStore/product/admin.py",
+				"/home/ali/WoClothingStore/product/forms.py",
+				"/home/ali/WoClothingStore/adminplus/templates/admin/change_password.html",
+				"/home/ali/WoClothingStore/adminplus/templates/admin/admin_base.html",
+				"/home/ali/WoClothingStore/adminplus/templates/admin/admin_main.html",
+				"/home/ali/WoClothingStore/adminplus/templates/admin/profile.html",
+				"/home/ali/WoClothingStore/adminplus/templates/admin/admin_footer.html",
+				"/home/ali/WoClothingStore/adminplus/templates/admin/message.html",
+				"/home/ali/WoClothingStore/adminplus/forms.py",
+				"/home/ali/SmartBot/page/payloads.py",
+				"/home/ali/SmartBot/product/urls.py",
+				"/home/ali/SmartBot/SmartBot/urls.py",
+				"/home/ali/SmartBot/product/templates/product/product_list.html",
+				"/home/ali/SmartBot/product/templates/product/product_form.html",
+				"/home/ali/SmartBot/product/models.py",
+				"/home/ali/SmartBot/product/forms.py",
+				"/home/ali/SmartBot/message/models.py",
+				"/home/ali/SmartBot/page/ai.py",
+				"/home/ali/SmartBot/product/views.py",
+				"/home/ali/SmartBot/adminplus/templates/admin/admin_sidebar.html",
+				"/home/ali/SmartBot/adminplus/templates/admin/admin_main.html",
+				"/home/ali/SmartBot/adminplus/templates/admin/products/report.html",
+				"/home/ali/SmartBot/adminplus/templates/admin/products/list.html",
+				"/home/ali/SmartBot/adminplus/templates/admin/admin_base.html",
+				"/home/ali/SmartBot/adminplus/views.py",
+				"/home/ali/SmartBot/product/templates/product/product_create.html",
+				"/home/ali/SmartBot/adminplus/templates/admin/products/update.html",
+				"/home/ali/SmartBot/adminplus/urls.py",
+				"/home/ali/SmartBot/SmartBot/settings.py",
+				"/home/ali/SmartBot/adminplus/templates/admin/products/create.html",
+				"/home/ali/SmartBot/page/views.py",
+				"/home/ali/SmartBot/todo",
+				"/home/ali/SmartBot/submit-review.txt",
+				"/home/ali/SmartBot/page/urls.py",
+				"/home/ali/SmartBot/adminplus/templates/admin/admin_navbar.html",
+				"/home/ali/SmartBot/adminplus/templates/admin/main_del.html",
+				"/home/ali/SmartBot/adminplus/templates/admin/message.html",
+				"/home/ali/SmartBot/requirments.txt",
+				"/home/ali/SmartBot/.gitignore",
+				"/home/ali/SmartBot/page/tests.py",
+				"/home/ali/SmartBot/product/admin.py",
+				"/home/ali/SmartBot/SmartBot/translate.py",
+				"/home/ali/SmartBot/SmartBot/ctx_processor.py",
+				"/home/ali/SmartBot/data.txt",
+				"/home/ali/braintree/BT/home/templates/home/ch.html",
+				"/home/ali/braintree/BT/BT/urls.py",
+				"/home/ali/braintree/BT/home/views.py",
+				"/home/ali/braintree/BT/BT/settings.py",
+				"/home/ali/braintree/BT/requirements.txt"
 			],
 			"find":
 			{
@@ -3223,7 +3944,7 @@
 			},
 			"find_in_files":
 			{
-				"height": 136.0,
+				"height": 140.0,
 				"where_history":
 				[
 				]
@@ -3242,38 +3963,40 @@
 				[
 				],
 				"reverse": false,
+				"scrollbar_highlights": true,
 				"show_context": true,
 				"use_buffer2": true,
+				"use_gitignore": true,
 				"whole_word": false,
 				"wrap": false
 			},
 			"folders":
 			[
 				{
-					"path": "/home/ali/mobile app/Be Better/mysite"
+					"path": "/home/ali/FocusWeb"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 0,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/home/ali/mobile app/Be Better/mysite/manage.py",
+							"file": "/home/ali/FocusWeb/FocusWeb/settings.py",
+							"selected": true,
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 662,
+								"buffer_size": 7308,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										662,
-										662
+										840,
+										840
 									]
 								],
 								"settings":
@@ -3296,71 +4019,437 @@
 									},
 									"bracket_highlighter.regions":
 									[
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
 										"bh_regex",
 										"bh_regex_center",
 										"bh_regex_open",
 										"bh_regex_close",
 										"bh_regex_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
 										"bh_c_define",
 										"bh_c_define_center",
 										"bh_c_define_open",
 										"bh_c_define_close",
 										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
 										"bh_single_quote_close",
 										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
 										"bh_round",
 										"bh_round_center",
 										"bh_round_open",
 										"bh_round_close",
 										"bh_round_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
 										"bh_unmatched",
 										"bh_unmatched_center",
 										"bh_unmatched_open",
 										"bh_unmatched_close",
 										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
 										"bh_default",
 										"bh_default_center",
 										"bh_default_open",
 										"bh_default_close",
-										"bh_default_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content"
+										"bh_default_content"
 									],
-									"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
+									"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/ali/FocusWeb/domain/templates/domain/domain.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 19766,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												24,
+												25
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"region.purplish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												0,
+												1
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content"
+									],
+									"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"sheets":
+					[
+						{
+							"buffer": 2,
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 786,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										524,
+										524
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"auto_complete_commit_on_tab": false,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content"
+									],
+									"caret_style": "blink",
+									"color_scheme": "Packages/TerminalView/TerminalView.hidden-tmTheme",
+									"default_dir": "/home/ali/FocusWeb/FocusWeb",
+									"draw_centered": false,
+									"draw_indent_guides": false,
+									"draw_white_space": "none",
+									"gutter": false,
+									"highlight_line": false,
+									"scroll_past_end": false,
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"terminal_view": true,
+									"terminal_view_activate_args":
+									{
+										"cmd": "/bin/bash -l",
+										"cwd": "/home/ali/FocusWeb",
+										"keep_open": false,
+										"syntax": null,
+										"title": "Terminal (bash)"
+									},
+									"terminal_view_last_cursor_pos":
+									[
+										4,
+										0
+									],
+									"word_wrap": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1048,
+								"regions":
+								{
+									"0,0":
+									{
+										"flags": 272,
+										"regions":
+										[
+											[
+												0,
+												9
+											]
+										],
+										"scope": "terminalview.black_magenta"
+									},
+									"0,10":
+									{
+										"flags": 272,
+										"regions":
+										[
+											[
+												10,
+												15
+											]
+										],
+										"scope": "terminalview.black_cyan"
+									},
+									"0,16":
+									{
+										"flags": 272,
+										"regions":
+										[
+											[
+												16,
+												26
+											]
+										],
+										"scope": "terminalview.black_green"
+									},
+									"0,9":
+									{
+										"flags": 272,
+										"regions":
+										[
+											[
+												9,
+												10
+											]
+										],
+										"scope": "terminalview.black_brown"
+									},
+									"1,0":
+									{
+										"flags": 272,
+										"regions":
+										[
+											[
+												131,
+												132
+											]
+										],
+										"scope": "terminalview.black_green"
+									}
+								},
+								"selection":
+								[
+									[
+										328,
+										328
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"auto_complete_commit_on_tab": false,
+									"bracket_highlighter.busy": false,
+									"caret_style": "blink",
+									"color_scheme": "Packages/TerminalView/TerminalView.hidden-tmTheme",
+									"default_dir": "/home/ali/FocusWeb/FocusWeb",
+									"draw_centered": false,
+									"draw_indent_guides": false,
+									"draw_white_space": "none",
+									"gutter": false,
+									"highlight_line": false,
+									"scroll_past_end": false,
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"terminal_view": true,
+									"terminal_view_activate_args":
+									{
+										"cmd": "/bin/bash -l",
+										"cwd": "/home/ali/FocusWeb",
+										"keep_open": false,
+										"syntax": null,
+										"title": "Terminal (bash)"
+									},
+									"terminal_view_last_cursor_pos":
+									[
+										1,
+										2
+									],
+									"word_wrap": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"stack_multiselect": false,
 							"type": "text"
 						}
 					]
@@ -3383,6 +4472,12 @@
 						0,
 						1,
 						1
+					],
+					[
+						0,
+						1,
+						1,
+						2
 					]
 				],
 				"cols":
@@ -3393,24 +4488,25 @@
 				"rows":
 				[
 					0.0,
+					0.796649804686,
 					1.0
 				]
 			},
 			"menu_visible": false,
 			"output.exec":
 			{
-				"height": 318.0
+				"height": 212.0
 			},
 			"output.find_results":
 			{
-				"height": 0.0
+				"height": 108.0
 			},
 			"output.mdpopups":
 			{
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,1,0,0,0,0,18,640,498,1366,768",
+			"position": "0,1,0,0,0,0,0,0,0,1366,768,2",
 			"project": "",
 			"replace":
 			{
@@ -3424,516 +4520,516 @@
 				"selected_items":
 				[
 					[
-						"test",
-						"products/tests.py"
-					],
-					[
-						"model ",
-						"products/models.py"
-					],
-					[
-						"model app",
-						"appointment/models.py"
-					],
-					[
-						"app model",
-						"appointment/models.py"
-					],
-					[
-						"home",
-						"home/templates/home/homepage.html"
-					],
-					[
-						"html",
-						"templates/base.html"
-					],
-					[
-						"serial",
-						"patient/api/serializers.py"
-					],
-					[
-						"tes",
-						"account/tests.py"
-					],
-					[
-						"settin",
-						"smartbot/settings.py"
-					],
-					[
-						"model cod",
-						"doctor/models.py"
-					],
-					[
-						"view doc",
-						"doctor/views.py"
-					],
-					[
-						"urls doc",
-						"doctor/api/urls.py"
-					],
-					[
-						"graph",
-						"adminplus/graphs.py"
-					],
-					[
-						"models app",
-						"appointment/models.py"
-					],
-					[
-						"rea",
-						"patient/api/README.md"
-					],
-					[
-						"pat seria",
-						"patient/api/serializers.py"
-					],
-					[
-						"seria",
-						"doctor/api/serializers.py"
-					],
-					[
-						"doctor_dashboard",
-						"doctor/static/doctor/js/doctor_dashboard.js"
-					],
-					[
-						"doctor dash",
-						"doctor/templates/doctor/doctor_dashboard.html"
-					],
-					[
-						"serli pati",
-						"patient/api/serializers.py"
-					],
-					[
-						"view patient",
-						"patient/api/views.py"
-					],
-					[
-						"serli",
-						"patient/api/serializers.py"
-					],
-					[
-						"view patien",
-						"patient/api/views.py"
+						"domain",
+						"domain/templates/domain/domain.html"
 					],
 					[
 						"setting",
-						"DoctorPlus/settings.py"
+						"FocusWeb/settings.py"
 					],
 					[
-						"view doct",
-						"doctor/views.py"
+						"test",
+						"FocusWeb/pricing/tests.py"
 					],
 					[
-						"per",
-						"patient/api/permissions.py"
+						"views ",
+						"FocusWeb/domain/views.py"
 					],
 					[
-						"permin",
-						"doctor/api/permissions.py"
+						"setin",
+						"FocusWeb/FocusWeb/settings.py"
 					],
 					[
-						"urls acc",
-						"account/urls.py"
-					],
-					[
-						"url acc",
-						"account/api/urls.py"
-					],
-					[
-						"conta",
-						"home/templates/home/contact.html"
-					],
-					[
-						"index",
-						"home/templates/home/index.html"
+						"test home",
+						"FocusWeb/home/tests.py"
 					],
 					[
 						"base",
-						"templates/base.html"
+						"FocusWeb/templates/base.html"
 					],
 					[
-						"nav",
-						"templates/navbar.html"
+						"doamin",
+						"hostwhmcs/version-1/domain.html"
+					],
+					[
+						"test.",
+						"FocusWeb/home/tests.py"
 					],
 					[
 						"urls",
-						"home/urls.py"
+						"FocusWeb/FocusWeb/urls.py"
 					],
 					[
-						"footer",
-						"templates/footer.html"
+						"settin",
+						"FocusWeb/FocusWeb/settings.py"
 					],
 					[
-						"navbar",
-						"templates/navbar.html"
+						"urls ",
+						"FocusWeb/home/urls.py"
 					],
 					[
 						"header",
-						"templates/header.html"
+						"ICTHOST/templates/header.html"
 					],
 					[
-						"home model",
-						"home/models.py"
+						"contex",
+						"ICTHOST/ICTHOST/context_processors.py"
 					],
 					[
-						"adminpside",
-						"adminplus/templates/adminplus/adminp_sidebar.html"
+						"todo",
+						"ICTHOST/todo"
 					],
 					[
-						"admin acc",
-						"account/admin.py"
-					],
-					[
-						"view",
-						"doctor/views.py"
-					],
-					[
-						"view admin ",
-						"adminplus/views.py"
-					],
-					[
-						"urls Doctor",
-						"DoctorPlus/urls.py"
-					],
-					[
-						"models patient",
-						"patient/models.py"
-					],
-					[
-						"rel form",
-						"relative/forms.py"
-					],
-					[
-						"settings",
-						"DoctorPlus/settings.py"
-					],
-					[
-						"doctor_ta",
-						"doctor/templatetags/doctor_tags.py"
+						"todi",
+						"ICTHOST/home/templates/home/domain.html"
 					],
 					[
 						"view home",
-						"home/views.py"
+						"ICTHOST/home/views.py"
 					],
 					[
-						"home.js",
-						"home/static/home/js/home.js"
+						"main",
+						"ICTHOST/templates/main.html"
 					],
 					[
-						"urls app",
-						"appointment/urls.py"
+						"home",
+						"ICTHOST/home/templates/home/home.html"
 					],
 					[
-						"model home",
-						"home/models.py"
+						"testimonial.html",
+						"hostwhmcs/version-1/testimonial.html"
 					],
 					[
-						"doctor_tain",
-						"adminplus/templates/adminplus/components/doctor_rating.html"
+						"conte",
+						"ICTHOST/ICTHOST/context_processors.py"
 					],
 					[
-						"url home",
-						"home/urls.py"
+						"do",
+						"hostwhmcs/version-1/domain.html"
 					],
 					[
-						"urls docto",
-						"doctor/urls.py"
+						"se",
+						"ICTHOST/ICTHOST/settings.py"
 					],
 					[
-						"models acc",
-						"account/models.py"
+						"html",
+						"ICTHOST/static/phpmailer/extras/htmlfilter.php"
 					],
 					[
-						"doctors",
-						"adminplus/static/adminplus/js/doctors.js"
+						"view",
+						"ICTHOST/home/views.py"
 					],
 					[
-						"view adminp",
-						"adminplus/views.py"
+						"index",
+						"hostwhmcs/version-1/index.html"
 					],
 					[
-						"all_",
-						"adminplus/static/adminplus/js/all_feedbacks.js"
+						"urls IC",
+						"ICTHOST/home/urls.py"
 					],
 					[
-						"addminp_side",
-						"adminplus/templates/adminplus/adminp_sidebar.html"
+						"verifi",
+						"WoClothingStore/user/templates/user/verification.html"
 					],
 					[
-						"famil",
-						"relative/templates/relative/family_member_detail.html"
+						"view user",
+						"WoClothingStore/user/views.py"
 					],
 					[
-						"urls amdinp",
-						"adminplus/urls.py"
+						"white view",
+						"WoClothingStore/whitelist/views.py"
 					],
 					[
-						"adminp_base",
-						"adminplus/templates/adminplus/adminp_base.html"
-					],
-					[
-						"amdinp_side",
-						"adminplus/templates/adminplus/adminp_sidebar.html"
-					],
-					[
-						"adminp_side",
-						"adminplus/templates/adminplus/adminp_sidebar.html"
-					],
-					[
-						"urls amdin",
-						"adminplus/urls.py"
-					],
-					[
-						"urls Doc",
-						"DoctorPlus/urls.py"
-					],
-					[
-						"acc admin",
-						"account/admin.py"
-					],
-					[
-						"edit_spec",
-						"adminplus/templates/adminplus/pages/speciality/edit_speciality.html"
-					],
-					[
-						"homr",
-						"home/templates/home/search.html"
-					],
-					[
-						"vie",
-						"doctor/views.py"
-					],
-					[
-						"app view",
-						"appointment/views.py"
-					],
-					[
-						"patient dash",
-						"patient/templates/patient/dashboard/patient_appoinment.html"
-					],
-					[
-						"model acc",
-						"account/models.py"
-					],
-					[
-						"book",
-						"appointment/templates/appointment/booked_success.html"
-					],
-					[
-						"public",
-						"appointment/templates/appointment/public_time_slot.html"
-					],
-					[
-						"public_time_slot_script",
-						"appointment/templates/appointment/scripts/public_time_slot_script.html"
-					],
-					[
-						"appointment vie",
-						"appointment/views.py"
-					],
-					[
-						"relative de",
-						"relative/templates/relative/family_member_detail.html"
-					],
-					[
-						"rela view",
-						"relative/views.py"
-					],
-					[
-						"publi",
-						"appointment/templates/appointment/public_time_slot.html"
-					],
-					[
-						"adminplus grap",
-						"adminplus/graphs.py"
-					],
-					[
-						"urls appointmen",
-						"appointment/urls.py"
-					],
-					[
-						"view appoint",
-						"appointment/views.py"
-					],
-					[
-						"url patie",
-						"patient/urls.py"
-					],
-					[
-						"booked_success.html",
-						"appointment/templates/appointment/booked_success.html"
-					],
-					[
-						"public_time_slot_script.html",
-						"appointment/templates/appointment/scripts/public_time_slot_script.html"
-					],
-					[
-						"doctoe",
-						"templates/doctor_sidebar.html"
-					],
-					[
-						"appointment",
-						"notification/appointment_notifications.py"
-					],
-					[
-						"patient n",
-						"notification/patient_notifications.py"
-					],
-					[
-						"relative view",
-						"relative/views.py"
-					],
-					[
-						"urls appin",
-						"appointment/urls.py"
-					],
-					[
-						"view app",
-						"appointment/views.py"
-					],
-					[
-						"view doctor",
-						"doctor/views.py"
-					],
-					[
-						"appointemtn admi",
-						"appointment/admin.py"
-					],
-					[
-						"appointmen ",
-						"notification/appointment_notifications.py"
-					],
-					[
-						"today_booked_appt_patient_list",
-						"appointment/templates/appointment/today_booked_appt_patient_list.html"
-					],
-					[
-						"app ta",
-						"appointment/templatetags/appt_custom_filter.py"
-					],
-					[
-						"schu",
-						"appointment/templates/appointment/schedule_time.html"
-					],
-					[
-						"app url",
-						"appointment/urls.py"
-					],
-					[
-						"models",
-						"account/models.py"
-					],
-					[
-						"view docto",
-						"doctor/views.py"
-					],
-					[
-						"doctor view",
-						"doctor/views.py"
-					],
-					[
-						"urls doctor",
-						"doctor/urls.py"
-					],
-					[
-						"exportable",
-						"doctor/templates/doctor/today_exportable_appointments.html"
-					],
-					[
-						"doctor_dash",
-						"doctor/templates/doctor/doctor_dashboard.html"
-					],
-					[
-						"doctor_",
-						"doctor/templates/doctor/templatetag_files/doctor_appointments_by_clinic.html"
-					],
-					[
-						"doctr",
-						"account/templates/account/doctor_register.html"
-					],
-					[
-						"doctor profil",
-						"doctor/templates/doctor/doctor_profile.html"
-					],
-					[
-						"forms",
-						"doctor/forms.py"
-					],
-					[
-						"dashboard.js",
-						"adminplus/static/adminplus/js/dashboard.js"
-					],
-					[
-						"doctor.js",
-						"adminplus/static/adminplus/js/doctors.js"
-					],
-					[
-						"urls smar",
-						"smartbot/urls.py"
-					],
-					[
-						"fmail",
-						"DoctorPlus/relative/templates/relative/family_member_detail.html"
-					],
-					[
-						"models doctor",
-						"DoctorPlus/doctor/models.py"
+						"cart view",
+						"WoClothingStore/cart/views.py"
 					],
 					[
 						"view adminplus",
-						"DoctorPlus/adminplus/views.py"
+						"WoClothingStore/adminplus/views.py"
 					],
 					[
-						"patients",
-						"DoctorPlus/adminplus/templates/adminplus/pages/patient/patients.html"
+						"prod view",
+						"WoClothingStore/product/views.py"
 					],
 					[
-						"admin_side",
-						"DoctorPlus/adminplus/templates/adminplus/adminp_sidebar.html"
+						"product list",
+						"WoClothingStore/product/templates/product/product_list.html"
 					],
 					[
-						"models home",
-						"DoctorPlus/home/models.py"
+						"admin side",
+						"WoClothingStore/adminplus/templates/admin/admin_sidebar.html"
 					],
 					[
-						"all",
-						"DoctorPlus/adminplus/static/adminplus/js/all_feedbacks.js"
+						"login",
+						"molla-eCommerce-html-template__django/login.html"
 					],
 					[
-						"doctors.js",
-						"DoctorPlus/adminplus/static/adminplus/js/doctors.js"
+						"urls user",
+						"WoClothingStore/user/urls.py"
 					],
 					[
-						"models appointme",
-						"DoctorPlus/appointment/models.py"
+						"urls admin",
+						"WoClothingStore/adminplus/urls.py"
 					],
 					[
-						"side",
-						"DoctorPlus/templates/sidebar.html"
+						"view admin",
+						"WoClothingStore/adminplus/views.py"
 					],
 					[
-						"doctor_ra",
-						"DoctorPlus/adminplus/templates/adminplus/components/doctor_rating.html"
+						"urls woclothingStore",
+						"WoClothingStore/WoClothingStore/urls.py"
 					],
 					[
-						"doctor_rating",
-						"DoctorPlus/adminplus/templates/adminplus/components/doctor_rating.html"
+						"urls woc",
+						"WoClothingStore/payment/urls.py"
 					],
 					[
-						"doctor_rating.html",
-						"DoctorPlus/adminplus/templates/adminplus/components/doctor_rating.html"
+						"urls woclo",
+						"WoClothingStore/adminplus/urls.py"
 					],
 					[
-						"adminplus",
-						"DoctorPlus/adminplus/templatetags/adminplus_tags.py"
+						"urls wo",
+						"WoClothingStore/urls.py"
 					],
 					[
-						"doctor",
-						"DoctorPlus/doctor/templatetags/doctor_tags.py"
+						"view ad",
+						"adminplus/views.py"
 					],
 					[
-						"main.",
-						"DoctorPlus/chat/static/chat/js/main.js"
+						"view payem",
+						"payment/views.py"
+					],
+					[
+						"side admin",
+						"adminplus/templates/admin/admin_sidebar.html"
+					],
+					[
+						"urls prod",
+						"product/urls.py"
+					],
+					[
+						"adminside",
+						"adminplus/templates/admin/admin_sidebar.html"
+					],
+					[
+						"produ",
+						"product/templates/product/product_form.html"
+					],
+					[
+						"produc",
+						"product/templates/product/product_form.html"
+					],
+					[
+						"change",
+						"adminplus/templates/admin/change_password.html"
+					],
+					[
+						"admin produ",
+						"product/admin.py"
+					],
+					[
+						"admin view",
+						"adminplus/views.py"
+					],
+					[
+						"view prod",
+						"product/views.py"
+					],
+					[
+						"footer admin",
+						"adminplus/templates/admin/admin_footer.html"
+					],
+					[
+						"admin_base",
+						"adminplus/templates/admin/admin_base.html"
+					],
+					[
+						"urls pro",
+						"product/urls.py"
+					],
+					[
+						"settings",
+						"WoClothingStore/settings.py"
+					],
+					[
+						"urls wocl",
+						"WoClothingStore/urls.py"
+					],
+					[
+						"s",
+						"WoClothingStore/settings.py"
+					],
+					[
+						"config",
+						"wp-config.php"
+					],
+					[
+						"ai",
+						"page/ai.py"
+					],
+					[
+						"payload",
+						"page/payloads.py"
+					],
+					[
+						"urls smar",
+						"SmartBot/urls.py"
+					],
+					[
+						"sett",
+						"SmartBot/settings.py"
+					],
+					[
+						"subm",
+						"page/submit-review.txt"
+					],
+					[
+						"view page",
+						"page/views.py"
+					],
+					[
+						"urls page",
+						"page/urls.py"
+					],
+					[
+						"set",
+						"SmartBot/settings.py"
+					],
+					[
+						"pay",
+						"page/payloads.py"
+					],
+					[
+						"view ",
+						"product/views.py"
+					],
+					[
+						"view pa",
+						"page/views.py"
+					],
+					[
+						"admin ",
+						"product/admin.py"
+					],
+					[
+						"data",
+						"SmartBot/data.txt"
+					],
+					[
+						"urls pyget",
+						"PyGetWays/urls.py"
+					],
+					[
+						"admin prod",
+						"product/admin.py"
+					],
+					[
+						"model ",
+						"product/models.py"
+					],
+					[
+						"admin mess",
+						"message/admin.py"
+					],
+					[
+						"inde",
+						"templates/index.html"
+					],
+					[
+						"urls smart",
+						"SmartBot/urls.py"
+					],
+					[
+						"urls produ",
+						"product/urls.py"
+					],
+					[
+						"trans",
+						"SmartBot/translate.py"
+					],
+					[
+						"style",
+						"molla-eCommerce-html-template__django/assets/css/style.css"
+					],
+					[
+						"header ",
+						"WoClothingStore/templates/header.html"
+					],
+					[
+						"skindemo5",
+						"WoClothingStore/static/assets/css/skins/skin-demo-5.css"
+					],
+					[
+						"demo5",
+						"WoClothingStore/static/assets/js/demos/demo-5.js"
+					],
+					[
+						"category.html",
+						"molla-eCommerce-html-template__django/category.html"
+					],
+					[
+						"forms ",
+						"adminplus/forms.py"
+					],
+					[
+						"prod cre",
+						"adminplus/templates/admin/products/create.html"
+					],
+					[
+						"form amdin",
+						"adminplus/forms.py"
+					],
+					[
+						"model produc",
+						"product/models.py"
+					],
+					[
+						"footer",
+						"WoClothingStore/templates/footer.html"
+					],
+					[
+						"ctx",
+						"WoClothingStore/WoClothingStore/ctx_processor.py"
+					],
+					[
+						"demo-5.css",
+						"molla-eCommerce-html-template__django/assets/css/demos/demo-5.css"
+					],
+					[
+						"index22",
+						"molla-eCommerce-html-template__django/index-22.html"
+					],
+					[
+						"index 5",
+						"molla-eCommerce-html-template__django/index-5.html"
+					],
+					[
+						"admin",
+						"product/admin.py"
+					],
+					[
+						"elements-tabs.html",
+						"molla-eCommerce-html-template__django/elements-tabs.html"
+					],
+					[
+						"model prod",
+						"Ecommercey/product/models.py"
+					],
+					[
+						"models pro",
+						"Ecommercey/product/models.py"
+					],
+					[
+						"model produ",
+						"Ecommercey/product/models.py"
+					],
+					[
+						"model",
+						"Ecommercey/cart/models.py"
+					],
+					[
+						"index3",
+						"molla-eCommerce-html-template__django/index-3.html"
+					],
+					[
+						"index 13",
+						"molla-eCommerce-html-template__django/index-13.html"
+					],
+					[
+						"conat",
+						"home/templates/home/contact.html"
+					],
+					[
+						"about",
+						"home/templates/home/about.html"
+					],
+					[
+						"cona",
+						"home/templates/home/contact.html"
+					],
+					[
+						"contact",
+						"home/templates/home/contact.html"
+					],
+					[
+						"urls home",
+						"home/urls.py"
+					],
+					[
+						"index 22",
+						"molla-eCommerce-html-template__django/index-22.html"
+					],
+					[
+						"model product",
+						"product/models.py"
+					],
+					[
+						"view payment",
+						"digitalstore/payment/views.py"
+					],
+					[
+						"checkout",
+						"digitalstore/home/templates/home/checkout.html"
+					],
+					[
+						"url home",
+						"digitalstore/home/urls.py"
+					],
+					[
+						"admin footer",
+						"digitalstore/adminplus/templates/admin/admin_footer.html"
+					],
+					[
+						"adminpls view",
+						"digitalstore/adminplus/views.py"
+					],
+					[
+						"modle pro",
+						"digitalstore/product/models.py"
+					],
+					[
+						"view client",
+						"digitalstore/client/views.py"
+					],
+					[
+						"view cart",
+						"digitalstore/cart/views.py"
+					],
+					[
+						"client",
+						"digitalstore/client/templates/client/client.html"
+					],
+					[
+						"cancl",
+						"digitalstore/payment/templates/payment/cancel.html"
+					],
+					[
+						"done",
+						"digitalstore/payment/templates/payment/done.html"
+					],
+					[
+						"payment view",
+						"digitalstore/payment/views.py"
+					],
+					[
+						"model paymen",
+						"digitalstore/payment/models.py"
+					],
+					[
+						"model payem",
+						"digitalstore/payment/models.py"
+					],
+					[
+						"view pay",
+						"digitalstore/payment/views.py"
+					],
+					[
+						"report",
+						"digitalstore/adminplus/templates/admin/products/report.html"
+					],
+					[
+						"list prod",
+						"digitalstore/adminplus/templates/admin/products/list.html"
 					]
 				],
 				"width": 0.0
@@ -3949,10 +5045,306 @@
 			},
 			"select_symbol":
 			{
-				"height": 354.0,
-				"last_filter": "Doctor",
+				"height": 243.0,
+				"last_filter": "xuser",
 				"selected_items":
 				[
+					[
+						"xuser",
+						"XuserInfo"
+					],
+					[
+						"xinfo",
+						"XuserInfo"
+					],
+					[
+						"Xuser",
+						"XuserInfo"
+					],
+					[
+						"produc",
+						"Product"
+					],
+					[
+						"categ",
+						"Category"
+					],
+					[
+						"product",
+						"Product"
+					],
+					[
+						"subcar",
+						"SubCategory"
+					],
+					[
+						"prod",
+						"Product"
+					],
+					[
+						"cate",
+						"Category"
+					],
+					[
+						"conta",
+						"Contact"
+					],
+					[
+						"mess",
+						"Message"
+					],
+					[
+						"produ",
+						"Product"
+					],
+					[
+						"sub",
+						"SubCategory"
+					],
+					[
+						"key",
+						"keyword"
+					],
+					[
+						"mes",
+						"Message"
+					],
+					[
+						"catego",
+						"Category"
+					],
+					[
+						"pro",
+						"Product"
+					],
+					[
+						"brand",
+						"Brand"
+					],
+					[
+						"subs",
+						"Subscribe"
+					],
+					[
+						"cart",
+						"Cart"
+					],
+					[
+						"billing",
+						"Billing"
+					],
+					[
+						"subcate",
+						"SubCategory"
+					],
+					[
+						"userad",
+						"UserAddon"
+					],
+					[
+						"usera",
+						"UserAddon"
+					],
+					[
+						"useradd",
+						"UserAddon"
+					],
+					[
+						"subcat",
+						"SubCategory"
+					],
+					[
+						"topic",
+						"Topic"
+					],
+					[
+						"contact",
+						"Contact"
+					],
+					[
+						"redi",
+						"redirect_user"
+					],
+					[
+						"redire",
+						"redirect_user"
+					],
+					[
+						"red",
+						"redirect_user"
+					],
+					[
+						"bradn",
+						"Brand"
+					],
+					[
+						"day",
+						"DaySchedulePattern"
+					],
+					[
+						"user",
+						"User"
+					],
+					[
+						"days",
+						"DaySchedulePattern"
+					],
+					[
+						"clinic",
+						"Clinic"
+					],
+					[
+						"mypatien",
+						"ListMyPatientsView"
+					],
+					[
+						"appvie",
+						"AppointmentViewSet"
+					],
+					[
+						"appser",
+						"AppointmentSerializer"
+					],
+					[
+						"feed",
+						"Feedback"
+					],
+					[
+						"feedback",
+						"CreateFeedBackRepliesForm"
+					],
+					[
+						"good",
+						"good_count"
+					],
+					[
+						"conditionth",
+						"AppointmentConditionThread"
+					],
+					[
+						"clini",
+						"Clinic"
+					],
+					[
+						"awa",
+						"Award"
+					],
+					[
+						"doc",
+						"Doctor"
+					],
+					[
+						"award",
+						"Award"
+					],
+					[
+						"awrad",
+						"Award"
+					],
+					[
+						"dis",
+						"Disease"
+					],
+					[
+						"blogger",
+						"Blogger"
+					],
+					[
+						"doctor",
+						"Doctor"
+					],
+					[
+						"disea",
+						"Disease"
+					],
+					[
+						"symptoms",
+						"query_by_symptoms"
+					],
+					[
+						"speci",
+						"Speciality"
+					],
+					[
+						"diess",
+						"Disease"
+					],
+					[
+						"service",
+						"Service"
+					],
+					[
+						"docto",
+						"Doctor"
+					],
+					[
+						"condition",
+						"Condition"
+					],
+					[
+						"Spe",
+						"Speciality"
+					],
+					[
+						"spe",
+						"Speciality"
+					],
+					[
+						"appoi",
+						"Appointment"
+					],
+					[
+						"Feed",
+						"Feedback"
+					],
+					[
+						"addre",
+						"Address"
+					],
+					[
+						"Favor",
+						"FavoriteDoctor"
+					],
+					[
+						"rela",
+						"Relative"
+					],
+					[
+						"filesha",
+						"FileSharingPatient"
+					],
+					[
+						"fileshar",
+						"FileSharingPatient"
+					],
+					[
+						"User",
+						"User"
+					],
+					[
+						"app",
+						"Appointment"
+					],
+					[
+						"deacti",
+						"DeactivatedApptSlot"
+					],
+					[
+						"dea",
+						"DeactivatedApptSlot"
+					],
+					[
+						"deact",
+						"DeactivatedApptSlot"
+					],
+					[
+						"SocialAuthUserAdapter",
+						"SocialAuthUserAdapter"
+					],
+					[
+						"",
+						"Appointment"
+					],
 					[
 						"Doctor",
 						"Doctor"
@@ -3972,22 +5364,6 @@
 					[
 						"appointmcon",
 						"AppointmentConditionThread"
-					],
-					[
-						"condition",
-						"ConditionThreadListView"
-					],
-					[
-						"service",
-						"Service"
-					],
-					[
-						"speci",
-						"Speciality"
-					],
-					[
-						"user",
-						"User"
 					],
 					[
 						"address",
@@ -4022,16 +5398,8 @@
 						"Relative"
 					],
 					[
-						"User",
-						"User"
-					],
-					[
 						"home",
 						"home_view"
-					],
-					[
-						"app",
-						"Appointment"
 					],
 					[
 						"Speci",
@@ -4042,23 +5410,15 @@
 						"Service"
 					],
 					[
-						"spe",
-						"Speciality"
-					],
-					[
 						"spec",
 						"Specialities"
 					],
 					[
 						"clinicvie",
 						"ClinicListView"
-					],
-					[
-						"clinic",
-						"Clinic"
 					]
 				],
-				"width": 747.0
+				"width": 574.0
 			},
 			"selected_group": 0,
 			"settings":
@@ -4068,12 +5428,12 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 276.0,
+			"side_bar_width": 287.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 133,
+			"window_id": 187,
 			"workspace_name": ""
 		}
 	],
@@ -4081,6 +5441,7 @@
 	{
 		"recent_workspaces":
 		[
+			"/home/ali/Desktop/SmartBotProject.sublime-workspace"
 		]
 	}
 }

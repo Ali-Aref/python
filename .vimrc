@@ -134,7 +134,7 @@ if has('langmap') && exists('+langremap')
   set nolangremap
 endif
 
-" ~by Ali Aref
+"~ by Ali Aref
 imap jj <Esc>
 
 set nocompatible
@@ -152,6 +152,7 @@ Plugin 'w0rp/ale'
 Plugin 'tpope/vim-fugitive'
 Plugin 'airblade/vim-gitgutter'
 Plugin 'mg979/vim-visual-multi'
+Plugin 'mattn/emmet-vim'
 " Plugin 'vim-syntastic/syntastic'
 
 " colorschemes plugins
@@ -166,7 +167,8 @@ set number
 set encoding=utf-8
 let python_highlight_all=1
 set updatetime=100 " setting gitgutter markers delay
-
+let g:user_emmet_leader_key='<leader>e'
+set clipboard=unnamed
 
 " --- NERDTree Custom Shortcust ---
 nnoremap <F5> :NERDTreeToggle<CR>
@@ -180,7 +182,6 @@ let g:ycm_autoclose_preview_window_after_insertion = 1
 
 " Run Python File
 nmap <F10> <Esc>:w<CR>:!clear;python %<CR>
-
 
 " Switch to last tab t<Tab>
 if !exists('g:lasttab')
@@ -207,8 +208,8 @@ let g:ale_echo_msg_format = '[%linter%] %s [%severity%] [%...code...%]'
 let g:ale_completion_enabled = 1
 """ ale_fixers
 let g:ale_fixers = {
-    \    '*': ['remove_trailing_lines', 'trim_whitespace'],
-    \    'javascript': ['eslint', 'prettier'],
+    \    '*': ['remove_trailing_lines', 'trim_whitespace', 'prettier'],
+    \    'javascript': ['prettier'],
     \    'python': ['black']
     \}
 " Set this variable to 1 to fix files when you save them.

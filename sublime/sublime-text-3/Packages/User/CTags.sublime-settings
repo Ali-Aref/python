@@ -1,8 +1,0 @@
-{
-    "command": "/usr/bin/ctags",
-	"extra_tag_paths": [
-        [["source.python", "linux"], "python3"]
-    ],
-    "opts" : ["--exclude=/usr/bin/python3"],
-
-}

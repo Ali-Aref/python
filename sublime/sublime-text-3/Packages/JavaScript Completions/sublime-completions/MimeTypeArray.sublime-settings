@@ -1,1 +1,0 @@
-{"scope":"source.js","completions":[["item\t( index: unsigned long ): MimeType MimeTypeArray","item(${1:index: unsigned long})"],["namedItem\t( name: DOMString ): MimeType MimeTypeArray","namedItem(${1:name: DOMString})"],["length\t: unsigned long MimeTypeArray","length"]]}

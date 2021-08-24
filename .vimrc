@@ -142,7 +142,6 @@ filetype off
 set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
 Plugin 'VundleVim/Vundle.vim'
-
 " Add plugins here
 Plugin 'preservim/nerdtree'
 Plugin 'valloric/youcompleteme'
@@ -157,7 +156,6 @@ Plugin 'mattn/emmet-vim'
 
 " colorschemes plugins
 " Plugin 'flazz/vim-colorschemes'
-Plugin 'rakr/vim-one'
 Plugin 'ayu-theme/ayu-vim'
 
 call vundle#end()
@@ -165,7 +163,6 @@ filetype plugin indent on
 
 set number
 set encoding=utf-8
-let python_highlight_all=1
 set updatetime=100 " setting gitgutter markers delay
 let g:user_emmet_leader_key='<leader>e'
 set clipboard=unnamed
@@ -191,13 +188,13 @@ nmap t<Tab> :exe "tabn ".g:lasttab<CR>
 au TabLeave * let g:lasttab = tabpagenr()
 
 " Syntastic (Python highlight and Syntax Checking)
-set statusline+=%#warningmsg#
-set statusline+=%{SyntasticStatuslineFlag()}
-set statusline+=%*
-let g:syntastic_always_populate_loc_list = 1
-let g:syntastic_auto_loc_list = 1
-let g:syntastic_check_on_open = 1
-let g:syntastic_check_on_wq = 0
+" set statusline+=%#warningmsg#
+" set statusline+=%{SyntasticStatuslineFlag()}
+" set statusline+=%*
+" let g:syntastic_always_populate_loc_list = 1
+" let g:syntastic_auto_loc_list = 1
+" let g:syntastic_check_on_open = 1
+" let g:syntastic_check_on_wq = 0
 
 " Ale Configuration
 """" Better formatting fo worp/ale
@@ -208,14 +205,16 @@ let g:ale_echo_msg_format = '[%linter%] %s [%severity%] [%...code...%]'
 let g:ale_completion_enabled = 1
 """ ale_fixers
 let g:ale_fixers = {
-    \    '*': ['remove_trailing_lines', 'trim_whitespace', 'prettier'],
-    \    'javascript': ['prettier'],
+    \    '*': ['remove_trailing_lines', 'trim_whitespace'],
+    \    'html': ['tidy'],
+    \    'htmldjango': ['tidy'],
+    \    'javascript': [''],
     \    'python': ['black']
     \}
 " Set this variable to 1 to fix files when you save them.
 let g:ale_fix_on_save = 1
 """ Customize linters that are turned on
-let g:ale_python_flake8_options = '--max-line-length=88'
+let g:ale_python_flake8_options = '--max-line-length=120'
 let g:ale_linters = {
 	\   'python': ['flake8'],
 	\}
@@ -224,15 +223,9 @@ let g:ale_sign_error = '>>'
 let g:ale_sign_warning = '--'
 
 " Color Schemes
-" colorscheme Monokai
-" colorscheme one
-colorscheme ayu
-
-set background=dark " for the dark version
-" set background=light " for the light version
-
 " Ayu
 set termguicolors     " enable true colors support
 " let ayucolor="light"  " for light version of theme
-" let ayucolor="mirage" " for mirage version of theme
-let ayucolor="dark"   " for dark version of theme
+let ayucolor="mirage" " for mirage version of theme
+" let ayucolor="dark"   " for dark version of theme
+colorscheme ayu

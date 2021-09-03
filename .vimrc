@@ -145,40 +145,68 @@ Plugin 'VundleVim/Vundle.vim'
 " Add plugins here
 Plugin 'preservim/nerdtree'
 Plugin 'valloric/youcompleteme'
-Plugin 'Lokaltog/powerline', {'rtp': 'powerline/bindings/vim/'}
 Plugin 'kien/ctrlp.vim'
 Plugin 'w0rp/ale'
+" Plugin 'neoclide/coc.nvim'
 Plugin 'tpope/vim-fugitive'
 Plugin 'airblade/vim-gitgutter'
 Plugin 'mg979/vim-visual-multi'
 Plugin 'mattn/emmet-vim'
+Plugin 'Xuyuanp/nerdtree-git-plugin'
+Plugin 'vim-airline/vim-airline'
+Plugin 'vim-airline/vim-airline-themes'
+Plugin 'ryanoasis/vim-devicons' " vim icons
+Plugin 'raimondi/delimitmate' " autoclose quotes, parenthesis, brackets, etc..
+Plugin 'vimwiki/vimwiki'
+" Plugin 'thaerkh/vim-workspace'
 " Plugin 'vim-syntastic/syntastic'
 
 " colorschemes plugins
 " Plugin 'flazz/vim-colorschemes'
 Plugin 'ayu-theme/ayu-vim'
+Plugin 'ayu-theme/ayu-vim-airline'
+Plugin 'morhetz/gruvbox'
+Plugin 'embark-theme/vim', { 'as': 'embark' }
 
 call vundle#end()
 filetype plugin indent on
 
 set number
-set encoding=utf-8
+set encoding=UTF-8
 set updatetime=100 " setting gitgutter markers delay
 let g:user_emmet_leader_key='<leader>e'
-set clipboard=unnamed
+set clipboard=unnamedplus
+
+" airline configurations
+function! AirlineInit()
+    call airline#parts#define_raw('linenr', '%l')
+    call airline#parts#define_accent('linenr', 'bold')
+    let g:airline_section_z = airline#section#create(['%3p%%', g:airline_symbols.linenr, 'linenr', 'maxlinenr', g:airline_symbols.colnr, '%c'])
+endfunction
+autocmd VimEnter * call AirlineInit()
+let g:airline_powerline_fonts = 1
+let g:airline_theme='molokai'
+
+
+" setting the indentation on different files
+autocmd Filetype html setlocal ts=2 sw=2 expandtab
+autocmd Filetype htmldjango setlocal ts=2 sw=2 expandtab
+let g:airline#extensions#whitespace#enabled = 0 " disableing trailing error from statusbar
+
 
 " --- NERDTree Custom Shortcust ---
 nnoremap <F5> :NERDTreeToggle<CR>
 nnoremap <leader>t :NERDTreeFocus<CR>
 " Start NERDTree and put the cursor on it.
-autocmd VimEnter * NERDTree
 let NERDTreeShowHidden=1
+autocmd VimEnter * NERDTree | wincmd p
 
 " YCM you complete me
 let g:ycm_autoclose_preview_window_after_insertion = 1
 
 " Run Python File
-nmap <F10> <Esc>:w<CR>:!clear;python %<CR>
+" nmap <F10> <Esc>:w<CR>:!clear; python3 %<CR>
+nmap <F10> <Esc>:w<CR>:! python3 %<CR>
 
 " Switch to last tab t<Tab>
 if !exists('g:lasttab')
@@ -208,11 +236,11 @@ let g:ale_fixers = {
     \    '*': ['remove_trailing_lines', 'trim_whitespace'],
     \    'html': ['tidy'],
     \    'htmldjango': ['tidy'],
-    \    'javascript': [''],
+    \    'javascript': [],
     \    'python': ['black']
     \}
 " Set this variable to 1 to fix files when you save them.
-let g:ale_fix_on_save = 1
+" let g:ale_fix_on_save = 1
 """ Customize linters that are turned on
 let g:ale_python_flake8_options = '--max-line-length=120'
 let g:ale_linters = {
@@ -221,6 +249,7 @@ let g:ale_linters = {
 let g:ale_set_highlights = 0
 let g:ale_sign_error = '>>'
 let g:ale_sign_warning = '--'
+nmap <F3> :ALEFix <CR>
 
 " Color Schemes
 " Ayu
@@ -229,3 +258,12 @@ set termguicolors     " enable true colors support
 let ayucolor="mirage" " for mirage version of theme
 " let ayucolor="dark"   " for dark version of theme
 colorscheme ayu
+
+" embark theme configs 
+" let g:lightline = {
+"       \ 'colorscheme': 'embark',
+"       \ }
+" 
+" colorscheme embark
+" let g:embark_terminal_italics = 1
+

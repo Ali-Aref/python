@@ -160,6 +160,7 @@ Plugin 'raimondi/delimitmate' " autoclose quotes, parenthesis, brackets, etc..
 Plugin 'vimwiki/vimwiki'
 " Plugin 'thaerkh/vim-workspace'
 " Plugin 'vim-syntastic/syntastic'
+Plugin 'sheerun/vim-polyglot' " advance syntax highlight
 
 " colorschemes plugins
 " Plugin 'flazz/vim-colorschemes'
@@ -167,6 +168,7 @@ Plugin 'ayu-theme/ayu-vim'
 Plugin 'ayu-theme/ayu-vim-airline'
 Plugin 'morhetz/gruvbox'
 Plugin 'embark-theme/vim', { 'as': 'embark' }
+Plugin 'ghifarit53/tokyonight-vim'
 
 call vundle#end()
 filetype plugin indent on
@@ -185,13 +187,19 @@ function! AirlineInit()
 endfunction
 autocmd VimEnter * call AirlineInit()
 let g:airline_powerline_fonts = 1
-let g:airline_theme='molokai'
+" let g:airline_theme='molokai'
+let g:airline_theme = "tokyonight"
+let g:lightline = {'colorscheme' : 'tokyonight'}
 
 
 " setting the indentation on different files
 autocmd Filetype html setlocal ts=2 sw=2 expandtab
 autocmd Filetype htmldjango setlocal ts=2 sw=2 expandtab
-let g:airline#extensions#whitespace#enabled = 0 " disableing trailing error from statusbar
+" let g:airline#extensions#whitespace#enabled = 0 " disableing trailing error from statusbar
+
+
+" vim polyglot settings (advance highlight) 
+let g:polyglot_disabled = ['autoindent']
 
 
 " --- NERDTree Custom Shortcust ---
@@ -236,7 +244,7 @@ let g:ale_fixers = {
     \    '*': ['remove_trailing_lines', 'trim_whitespace'],
     \    'html': ['tidy'],
     \    'htmldjango': ['tidy'],
-    \    'javascript': [],
+    \    'javascript': ['tidy'],
     \    'python': ['black']
     \}
 " Set this variable to 1 to fix files when you save them.
@@ -244,26 +252,23 @@ let g:ale_fixers = {
 """ Customize linters that are turned on
 let g:ale_python_flake8_options = '--max-line-length=120'
 let g:ale_linters = {
-	\   'python': ['flake8'],
-	\}
+\   'python': ['flake8'],
+\}
 let g:ale_set_highlights = 0
-let g:ale_sign_error = '>>'
-let g:ale_sign_warning = '--'
+let g:ale_sign_error = '>>' " >>'
+let g:ale_sign_warning = '--' " '--'
 nmap <F3> :ALEFix <CR>
 
 " Color Schemes
 " Ayu
-set termguicolors     " enable true colors support
+" set termguicolors     " enable true colors support
 " let ayucolor="light"  " for light version of theme
-let ayucolor="mirage" " for mirage version of theme
+" let ayucolor="mirage" " for mirage version of theme
 " let ayucolor="dark"   " for dark version of theme
-colorscheme ayu
+" colorscheme ayu
 
-" embark theme configs 
-" let g:lightline = {
-"       \ 'colorscheme': 'embark',
-"       \ }
-" 
-" colorscheme embark
-" let g:embark_terminal_italics = 1
-
+" tokyo nights colorscheme
+set termguicolors
+let g:tokyonight_style = 'night' " available: night, storm
+let g:tokyonight_enable_italic = 0
+colorscheme tokyonight

@@ -144,13 +144,16 @@ call vundle#begin()
 Plugin 'VundleVim/Vundle.vim'
 " Add plugins here
 Plugin 'preservim/nerdtree'
+Plugin 'tiagofumo/vim-nerdtree-syntax-highlight'
 Plugin 'valloric/youcompleteme'
-Plugin 'kien/ctrlp.vim'
+" Plugin 'kien/ctrlp.vim'
+Plugin 'nvim-lua/plenary.nvim' " telescope dependency
+Plugin 'nvim-telescope/telescope.nvim'
 Plugin 'w0rp/ale'
 " Plugin 'neoclide/coc.nvim'
 Plugin 'tpope/vim-fugitive'
 Plugin 'airblade/vim-gitgutter'
-Plugin 'mg979/vim-visual-multi'
+Plugin 'mg979/vim-visual-multi' " multi-cursor
 Plugin 'mattn/emmet-vim'
 Plugin 'Xuyuanp/nerdtree-git-plugin'
 Plugin 'vim-airline/vim-airline'
@@ -174,10 +177,13 @@ call vundle#end()
 filetype plugin indent on
 
 set number
+set relativenumber
+nnoremap <SPACE> <Nop>
+let mapleader="\<Space>" " mapping leader key'\' to 'space'
 set encoding=UTF-8
 set updatetime=100 " setting gitgutter markers delay
-let g:user_emmet_leader_key='<leader>e'
 set clipboard=unnamedplus
+let g:user_emmet_leader_key='<leader>e'
 
 " airline configurations
 function! AirlineInit()
@@ -187,6 +193,8 @@ function! AirlineInit()
 endfunction
 autocmd VimEnter * call AirlineInit()
 let g:airline_powerline_fonts = 1
+let g:airline#extensions#tabline#enabled = 1 " enables the airline smart tabbar
+let g:airline#extensions#tabline#formatter = 'default'
 " let g:airline_theme='molokai'
 let g:airline_theme = "tokyonight"
 let g:lightline = {'colorscheme' : 'tokyonight'}
@@ -195,22 +203,37 @@ let g:lightline = {'colorscheme' : 'tokyonight'}
 " setting the indentation on different files
 autocmd Filetype html setlocal ts=2 sw=2 expandtab
 autocmd Filetype htmldjango setlocal ts=2 sw=2 expandtab
-" let g:airline#extensions#whitespace#enabled = 0 " disableing trailing error from statusbar
+let g:airline#extensions#whitespace#enabled = 0 " disableing trailing error from statusbar
 
 
 " vim polyglot settings (advance highlight) 
-let g:polyglot_disabled = ['autoindent']
+" let g:polyglot_disabled = ['autoindent']
 
 
-" --- NERDTree Custom Shortcust ---
-nnoremap <F5> :NERDTreeToggle<CR>
-nnoremap <leader>t :NERDTreeFocus<CR>
+" NERDTree Custom Configurations
+nnoremap <leader>t :NERDTreeToggle<CR>
+" nnoremap <leader>tt :NERDTreeFocus<CR>
 " Start NERDTree and put the cursor on it.
-let NERDTreeShowHidden=1
-autocmd VimEnter * NERDTree | wincmd p
+" let NERDTreeShowHidden=1
+" autocmd VimEnter * NERDTree | wincmd p
+" Open the existing NERDTree on each new tab
+" autocmd BufWinEnter * if getcmdwintype() == '' | silent NERDTreeMirror | endif 
+" Mirror the NERDTree before showing it. This makes it the same on all tabs.
+nnoremap <C-n> :NERDTreeMirror<CR>:NERDTreeFocus<CR>
+" Close the tab if NERDTree is the only window remaining in it.
+autocmd BufEnter * if winnr('$') == 1 && exists('b:NERDTree') && b:NERDTree.isTabTree() | quit | endif
+" Exit Vim if NERDTree is the only window remaining in the only tab.
+autocmd BufEnter * if tabpagenr('$') == 1 && winnr('$') == 1 && exists('b:NERDTree') && b:NERDTree.isTabTree() | quit | endif
+" If another buffer tries to replace NERDTree, put it in the other window, and bring back NERDTree.
+autocmd BufEnter * if bufname('#') =~ 'NERD_tree_\d\+' && bufname('%') !~ 'NERD_tree_\d\+' && winnr('$') > 1 |
+    \ let buf=bufnr() | buffer# | execute "normal! \<C-W>w" | execute 'buffer'.buf | endif
+" Nerdtree syntax highlight
+let g:WebDevIconsDisableDefaultFolderSymbolColorFromNERDTreeDir = 1
+let g:WebDevIconsDisableDefaultFileSymbolColorFromNERDTreeFile = 1
+let g:NERDTreeLimitedSyntax = 1 " limit syntax highlighting to comman files, avoiding lag issues
 
 " YCM you complete me
-let g:ycm_autoclose_preview_window_after_insertion = 1
+let g:ycm_autoclose_preview_window_after_insertion = 0
 
 " Run Python File
 " nmap <F10> <Esc>:w<CR>:!clear; python3 %<CR>
@@ -258,6 +281,18 @@ let g:ale_set_highlights = 0
 let g:ale_sign_error = '>>' " >>'
 let g:ale_sign_warning = '--' " '--'
 nmap <F3> :ALEFix <CR>
+
+
+" CtrlP configurations
+let g:ctrlp_map = '<leader>p'
+
+" Telescope configurations
+" Find files using Telescope command-line sugar.
+nnoremap <leader>ff <cmd>Telescope find_files<cr>
+nnoremap <leader>fg <cmd>Telescope live_grep<cr>
+nnoremap <leader>fb <cmd>Telescope buffers<cr>
+nnoremap <leader>fh <cmd>Telescope help_tags<cr>
+
 
 " Color Schemes
 " Ayu

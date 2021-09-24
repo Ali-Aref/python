@@ -20,13 +20,13 @@
     statusline_separator = "arrow"
     statusline_iseparator = "arrow"
     buffer_index_type = 4
-    enable_tabline_filetype_icon = true
+    enable_tabline_filetype_icon = false # because we are using dev-icons
     enable_statusline_mode = false
     bootstrap_before = 'myspacevim#before'
     bootstrap_after = 'myspacevim#after'
     # enable the git stauts in nredtree (may makes it slow)
     enable_filetree_gitstatus = false
-    filetree_direction = "right" # left/right
+    filetree_direction = "left" # left/right
 
 # Enable autocomplete layer
 [[layers]]
@@ -44,15 +44,19 @@ default_height = 30
 name = "colorscheme"
 
 [[custom_plugins]] # tokyonight
-repo = "https://github.com/ghifarit53/tokyonight-vim"
+repo = "ghifarit53/tokyonight-vim"
 merged = 0
 
 [[custom_plugins]] # advance syntax highlight
 repo = "sheerun/vim-polyglot"
 merged = true
 
+[[custom_plugins]]  # dev icons
+repo = "ryanoasis/vim-devicons"
+merged = 0
+
 [[layers]] # fuzzy searching
-name = "ctrlp"
+name = "leaderf"
 
 [[layers]]
 name = "lang#python"
@@ -60,6 +64,9 @@ python_interpreter = "/usr/bin/python3.7"
 format_on_save = true
 enabled_linters = ['python', 'flake8']
 # flake8 max-line-length = 110 in "~/.config/flake8"
+
+[[layers]]
+name = "lang#javascript"
 
 [[layers]] # activate formatting layer
 name = "format"
@@ -69,3 +76,6 @@ format_on_save = true # globally format_on_save
 [[layers]]
 name = 'core#statusline'
 enable = false
+
+[[custom_plugins]]
+repo = "sirver/ultisnips"

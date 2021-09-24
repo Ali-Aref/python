@@ -5,16 +5,16 @@ function! myspacevim#before() abort
     inoremap jj <Esc>
     " share clipboard
     set clipboard=unnamedplus
-    " status line
-    let g:lightline = {'colorscheme' : 'tokyonight'}
-    let g:airline_theme = "tokyonight"
-    " settings black for formatting python fiels (yapf)
+    " settings black for formatting python files (yapf)
     let g:neoformat_python_black = {
     \ 'exe': 'black',
     \ 'stdin': 1,
     \ 'args': ['-q', '-', '-l 110'],
     \ }
     let g:neoformat_enabled_python = ['black', ]
+    " github layer configs
+    let g:github_dashboard = { 'username': 'ali-aref', 'password': "ala-4e2g:Dhh-arsalis" }
+    let g:gista#client#default_username = 'monkeyxite'
 endfunction
 
 function! myspacevim#after() abort

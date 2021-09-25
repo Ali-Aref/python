@@ -79,6 +79,3 @@ format_on_save = true # globally format_on_save
 name = 'core#statusline'
 enable = false
 
-
-[[layers]] # autocomplete layer configurations
-name = "autocomplete"

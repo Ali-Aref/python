@@ -27,6 +27,8 @@
     # enable the git stauts in nredtree (may makes it slow)
     enable_filetree_gitstatus = false
     filetree_direction = "left" # left/right
+    # autocomplete default (neosnippet) other ultisnips
+    snippet_engine = "neosnippet"
 
 # Enable autocomplete layer
 [[layers]]
@@ -77,5 +79,6 @@ format_on_save = true # globally format_on_save
 name = 'core#statusline'
 enable = false
 
-[[custom_plugins]]
-repo = "sirver/ultisnips"
+
+[[layers]] # autocomplete layer configurations
+name = "autocomplete"

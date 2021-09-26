@@ -191,13 +191,37 @@ snippet model
 snippet init
 	def __init__(self, *args, **kwargs):
 	    super(self.__class__, self).__init__(*args, **kwargs)
-	    ${0}
-
+    ${0}
 
 snippet getcontextdata
 	def get_context_data(self, *args, **kwargs):
 	    context = super(self.__class__, self).get_context_data(*args, **kwargs)
 	    return context
+	${0}
+
+snippet getsuccessurl
+	def get_success_url(self):
+        return reverse("${1:VIEW_NAME}", kwargs={${2:"pk", self.get_object().pk}})
+	${0}
+
+snippet getqueryset
+	def get_queryset(self):
+		return ${1:ObjectName}.objects.filter(${2})
+	${0}
+
+snippet getobject
+	def get_object(self):
+		return ${1:ObjectName}.objects.get(${2})
+	${0}
+
+snippet formvalid
+	def form_valid(self, form):
+		return super(self.__class__, self).form_valid(form)
+	${0}
+
+snippet forminvalid
+	def form_invalid(self, form):
+		return super(self.__class__, self).form_invalid(form)
 	${0}
 
 snippet dispatch
@@ -210,6 +234,8 @@ snippet r2r
 			${2}
 		}${0:, context_instance=RequestContext(request)}
 	)
+
+
 
 snippet createview
 	class ${1:ModelName}CreateView(generic.CreateView):

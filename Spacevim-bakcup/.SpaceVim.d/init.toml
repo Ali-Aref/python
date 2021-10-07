@@ -1,0 +1,81 @@
+#=============================================================================
+# dark_powered.toml --- dark powered configuration example for SpaceVim
+# Copyright (c) 2016-2020 Wang Shidong & Contributors
+# Author: Wang Shidong < wsdjeg at 163.com >
+# URL: https://spacevim.org
+# License: GPLv3
+#=============================================================================
+
+# All SpaceVim option below [option] section
+[options]
+    # set spacevim theme. by default colorscheme layer is not loaded,
+    # if you want to use more colorscheme, please load the colorscheme
+    # layer
+    colorscheme = "tokyonight"
+    # Disable guicolors in basic mode, many terminal do not support 24bit
+    # true colors
+    enable_guicolors = true
+    # Disable statusline separator, if you want to use other value, please
+    # install nerd fonts
+    statusline_separator = "arrow"
+    # statusline_iseparator = "arrow"
+    buffer_index_type = 4
+    enable_tabline_filetype_icon = false # because we are using dev-icons
+    enable_statusline_mode = false
+    bootstrap_before = 'myspacevim#before'
+    bootstrap_after = 'myspacevim#after'
+    # enable the git stauts in nredtree (may makes it slow)
+    enable_filetree_gitstatus = false
+    filetree_direction = "left" # left/right
+    # autocomplete default (neosnippet) other ultisnips
+    snippet_engine = "neosnippet"
+
+# Enable autocomplete layer
+[[layers]]
+name = 'autocomplete'
+auto_completion_return_key_behavior = "complete"
+auto_completion_tab_key_behavior = "smart"
+
+[[layers]]
+name = 'shell'
+default_position = 'top'
+default_height = 30
+
+# ~ Ali-Aref
+[[layers]] # activate the colorschemes
+name = "colorscheme"
+
+[[custom_plugins]] # tokyonight
+repo = "ghifarit53/tokyonight-vim"
+merged = 0
+
+[[custom_plugins]] # advance syntax highlight
+repo = "sheerun/vim-polyglot"
+merged = true
+
+[[custom_plugins]]  # dev icons
+repo = "ryanoasis/vim-devicons"
+merged = 0
+
+[[layers]] # fuzzy searching
+name = "leaderf"
+
+[[layers]]
+name = "lang#python"
+python_interpreter = "/usr/bin/python3.7"
+format_on_save = true
+enabled_linters = ['python', 'flake8']
+# flake8 max-line-length = 110 in "~/.config/flake8"
+
+[[layers]]
+name = "lang#javascript"
+
+[[layers]] # activate formatting layer
+name = "format"
+format_on_save = true # globally format_on_save
+
+# disabling the core#status line to user airline status lines
+[[layers]]
+name = 'core#statusline'
+enable = false
+

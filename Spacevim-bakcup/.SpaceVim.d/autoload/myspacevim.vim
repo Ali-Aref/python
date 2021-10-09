@@ -9,7 +9,7 @@ function! myspacevim#before() abort
     let g:neoformat_python_black = {
     \ 'exe': 'black',
     \ 'stdin': 1,
-    \ 'args': ['-q', '-', '-l 110'],
+    \ 'args': ['-q', '-', '-l 80'],
     \ }
     let g:neoformat_enabled_python = ['black', ]
     " github layer configs

@@ -278,7 +278,8 @@ snippet createview
 	class ${1:ModelName}CreateView(generic.CreateView):
 	    model = ${2: $1}
 	    template_name = "${3:$1/$1_form.html}"
-	    ${0}
+	    form_class = ${4:forms.$1Form}
+	    success_url = "${0}"
 
 snippet updateview
 	class ${1:ModelName}UpdateView(generic.UpdateView):
@@ -288,28 +289,25 @@ snippet updateview
 	    success_url = "${5:.}"
 
 		def get_object(self):
-			return $1.objects.get(pk=${6:self.kwargs.get("pk")})
-		${0}
+			return $1.objects.get(pk=${0:self.kwargs.get("pk")})
 
 snippet deleteview
 	class ${1:ModelName}DeleteView(generic.DeleteView):
-	    model = ${2: $1}
+	    model = ${0: $1}
 		
 		def get_success_url(self):
 	        return reverse("${3:$1:list}")
 
 		def get(self, request, *args, **kwargs):
 	        return self.post(request, *args, **kwargs)
-	    ${0}
 
 snippet detailsview
-	class ${1:ModelName}DetailsView(generic.UpdateView):
+	class ${1:ModelName}DetailsView(generic.DetailView):
 	    model = ${2: $1}
 	    template_name = "${3:$1/$1_detail.html}"
 
 		def get_object(self):
-			return $1.objects.get(pk=${4:self.kwargs.get("pk")})
-		${0}
+			return $1.objects.get(pk=${0:self.kwargs.get("pk")})
 
 snippet listview
 	class ${1:ModelName}ListView(generic.ListView):

@@ -36,17 +36,17 @@ snippet mchar
 snippet mcomma
 	${1:FIELDNAME} = models.CommaSeparatedIntegerField(max_length=${0})
 snippet mdate
-	${1:FIELDNAME} = models.DateField(auto_now_add=${2:True}, auto_now=${3:False}}${0:, blank=True, null=True})
+	${1:FIELDNAME} = models.DateField(auto_now_add=${2:True}, auto_now=${0:False}})
 snippet mdatetime
-	${1:FIELDNAME} = models.DateTimeField(auto_now_add=${2:True}, auto_now=${3:False}${0:, blank=True, null=True)
+	${1:FIELDNAME} = models.DateTimeField(auto_now_add=${2:True}, auto_now=${0:False})
 snippet mdecimal
 	${1:FIELDNAME} = models.DecimalField(max_digits=${2}, decimal_places=${0})
 snippet memail
-	${1:FIELDNAME} = models.EmailField(max_length=${2:75}${0:, blank=True})
+	${1:FIELDNAME} = models.EmailField(${0})
 snippet mfile
 	${1:FIELDNAME} = models.FileField(upload_to=${0:path/for/upload})
 snippet mfilepath
-	${1:FIELDNAME} = models.FilePathField(path=${2:"/abs/path/to/dir"}${3:, max_length=100}${4:, match="*.ext"}${5:, recursive=True}${0:, blank=True, })
+	${1:FIELDNAME} = models.FilePathField(path=${2:"/abs/path/to/dir"}${3:, max_length=100}${4:, match="*.ext"}${0:, recursive=True})
 snippet mfloat
 	${1:FIELDNAME} = models.FloatField(${0})
 snippet mimage
@@ -62,24 +62,24 @@ snippet mposint
 snippet mpossmallint
 	${1:FIELDNAME} = models.PositiveSmallIntegerField(${0})
 snippet mslug
-	${1:FIELDNAME} = models.SlugField(max_length=${2:50}${0:, blank=True})
+	${1:FIELDNAME} = models.SlugField(${0})
 snippet msmallint
 	${1:FIELDNAME} = models.SmallIntegerField(${0})
 snippet mtext
-	${1:FIELDNAME} = models.TextField(${0:blank=True})
+	${1:FIELDNAME} = models.TextField(${0})
 snippet mtime
-	${1:FIELDNAME} = models.TimeField(${2:auto_now_add=True, auto_now=True}${0:, blank=True, null=True})
+	${1:FIELDNAME} = models.TimeField(auto_now_add=${2:True}, auto_now=${3:False})
 snippet murl
-	${1:FIELDNAME} = models.URLField(${2:verify_exists=False}${3:, max_length=200}${0:, blank=True})
+	${1:FIELDNAME} = models.URLField(verify_exists=${0:False})
 snippet mxml
-	${1:FIELDNAME} = models.XMLField(schema_path=${2:None}${0:, blank=True})
+	${1:FIELDNAME} = models.XMLField(schema_path=${0:None})
 # Relational Fields
 snippet fk
-	${1:FIELDNAME} = models.ForeignKey(${2:OtherModel}, on_delete=models.${3:CASCADE}, related_name="${4:RelatedName}" ${5:, limit_choices_to=})
+	${1:FIELDNAME} = models.ForeignKey(${2:OtherModel}, on_delete=models.${3:CASCADE}, related_name="${4:RelatedName}" ${0:, limit_choices_to=})
 snippet m2m
-	${1:FIELDNAME} = models.ManyToManyField(${2:OtherModel}, related_name="${3:RelatedName}" ${4:, limit_choices_to=}${0:, db_table=''})
+	${1:FIELDNAME} = models.ManyToManyField(${2:OtherModel}, related_name="${3:RelatedName}" ${0:, limit_choices_to=})
 snippet o2o
-	${1:FIELDNAME} = models.OneToOneField(${2:OtherModel}${3:, parent_link=True}${4:, related_name=''}${5:, limit_choices_to=}${0:, to_field=''})
+	${1:FIELDNAME} = models.OneToOneField(${2:OtherModel}, related_name="${4:RelatedName}"${0:, to_field=''})
 
 
 # Form Fields

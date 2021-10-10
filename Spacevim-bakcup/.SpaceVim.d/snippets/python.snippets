@@ -30,21 +30,21 @@ snippet mbigint
 snippet mbinary
 	${1:FIELDNAME} = models.BinaryField(${0})
 snippet mbool
-	${1:FIELDNAME} = models.BooleanField(${0:default=True})
+	${1:FIELDNAME} = models.BooleanField(default=${0:True})
 snippet mchar
-	${1:FIELDNAME} = models.CharField(max_length=${2}${0:, blank=True})
+	${1:FIELDNAME} = models.CharField(max_length=${0}})
 snippet mcomma
-	${1:FIELDNAME} = models.CommaSeparatedIntegerField(max_length=${2}${0:, blank=True})
+	${1:FIELDNAME} = models.CommaSeparatedIntegerField(max_length=${0})
 snippet mdate
-	${1:FIELDNAME} = models.DateField(${2:auto_now_add=True, auto_now=True}${0:, blank=True, null=True})
+	${1:FIELDNAME} = models.DateField(auto_now_add=${2:True}, auto_now=${3:False}}${0:, blank=True, null=True})
 snippet mdatetime
-	${1:FIELDNAME} = models.DateTimeField(${2:auto_now_add=True, auto_now=True}${0:, blank=True, null=True})
+	${1:FIELDNAME} = models.DateTimeField(auto_now_add=${2:True}, auto_now=${3:False}${0:, blank=True, null=True)
 snippet mdecimal
 	${1:FIELDNAME} = models.DecimalField(max_digits=${2}, decimal_places=${0})
 snippet memail
 	${1:FIELDNAME} = models.EmailField(max_length=${2:75}${0:, blank=True})
 snippet mfile
-	${1:FIELDNAME} = models.FileField(upload_to=${2:path/for/upload}${0:, max_length=100})
+	${1:FIELDNAME} = models.FileField(upload_to=${0:path/for/upload})
 snippet mfilepath
 	${1:FIELDNAME} = models.FilePathField(path=${2:"/abs/path/to/dir"}${3:, max_length=100}${4:, match="*.ext"}${5:, recursive=True}${0:, blank=True, })
 snippet mfloat
@@ -389,14 +389,14 @@ snippet idmsg "Import Django Messages"
     
     
 #---------------- Extra Snippets ---------------------#    
-snippet fpath "Simple Path"
+snippet path "FBV Path"
     path("${1:PATH}", v.${2:VIEW}, name="${0:PATH_NAME}"),
     
-snippet cpath "Simple Path"
+snippet cpath "CBV Path"
     path("${1:PATH}", v.${2:VIEW}.as_view(), name="${0:PATH_NAME}"),
 
 snippet ipath "Path As Include"
-    path("${1:PATH}", include("${2:AppName}.urls", namespace="${0:NAME}")),
+    path("${1:PATH}", include("${2}.urls", namespace="${0:NAME}")),
 
 snippet rpg
     request.POST.get("${0}")
@@ -407,6 +407,17 @@ snippet rgg
 snippet rfg
 	request.FILES.get("${0}")
 
+snippet btnt "blank=True, null=True"
+	blank=True, null=True
+
+snippet bfnf "blank=False, null=False"
+	blank=False, null=False
+
+snippet btnf "blank=True, null=False"
+	blank=True, null=False
+
+snippet bfnt "blank=False, null=True"
+	blank=False, null=True
 
 snippet formfile
 	from django import forms

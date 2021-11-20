@@ -11,12 +11,16 @@ an executable
 -- general
 lvim.log.level = "warn"
 lvim.format_on_save = true
-lvim.colorscheme = "tokyonight"
+lvim.colorscheme = "sonokai"
 
 -- keymappings [view all the defaults by pressing <leader>Lk]
 lvim.leader = "space"
 -- add your own keymapping
 lvim.keys.normal_mode["<C-s>"] = ":w<cr>"
+lvim.keys.normal_mode["<A-h>"] = "<C-w>h"
+lvim.keys.normal_mode["<A-l>"] = "<C-w>l"
+lvim.keys.normal_mode["<A-j>"] = "<C-w>j"
+lvim.keys.normal_mode["<A-k>"] = "<C-w>k"
 lvim.keys.insert_mode.jj = "<ESC>"
 -- unmap a default keymapping
 -- lvim.keys.normal_mode["<C-Up>"] = ""
@@ -123,14 +127,20 @@ formatters.setup {
   {
     exe = "prettier",
     ---@usage specify which filetypes to enable. By default a providers will attach to all the filetypes it supports.
-    filetypes = { "typescript", "typescriptreact" },
+    filetypes = { "typescript", "typescriptreact", "javascript" },
   },
+  -- { exe = "prettier", filetypes = {"html", "htmldjango"}, args = {"--print-width=160"} },
 }
 
 -- -- set additional linters
 local linters = require "lvim.lsp.null-ls.linters"
 linters.setup {
-  { exe = "flake8" },
+  { exe = "flake8",
+    args = {
+      "--max-line-length=80",
+      "--ignore=E203",
+    } 
+  },
   {
     exe = "eslint_d",
     ---@usage specify which filetypes to enable. By default a providers will attach to all the filetypes it supports.
@@ -141,10 +151,26 @@ linters.setup {
 -- Additional Plugins
 lvim.plugins = {
     {"folke/tokyonight.nvim"},
-    {"ChristianChiarulli/nvcode-color-schemes.vim"},
+    {"Shatur/neovim-ayu"},
+    {"sainnhe/sonokai"},
+    {"ray-x/aurora"},
     {
       "folke/trouble.nvim",
       cmd = "TroubleToggle",
+    },
+    {
+      "norcalli/nvim-colorizer.lua",
+        config = function()
+          require("colorizer").setup({ "*" }, {
+              RGB = true, -- #RGB hex codes
+              RRGGBB = true, -- #RRGGBB hex codes
+              RRGGBBAA = true, -- #RRGGBBAA hex codes
+              rgb_fn = true, -- CSS rgb() and rgba() functions
+              hsl_fn = true, -- CSS hsl() and hsla() functions
+              css = true, -- Enable all CSS features: rgb_fn, hsl_fn, names, RGB, RRGGBB
+              css_fn = true, -- Enable all CSS *functions*: rgb_fn, hsl_fn
+              })
+      end,
     },
 }
 
@@ -154,13 +180,15 @@ lvim.plugins = {
 -- }
 
 -- ~ Add-ons AA
+vim.opt.spell = false
 vim.opt.timeoutlen = 250
-vim.opt.spell = true
-vim.opt.relativenumber = true
-vim.g.tokyonight_style = "storm" -- tokyonight: storm, day, night
+-- vim.opt.relativenumber = true
+vim.opt.cursorline = true -- highlight the current line
 
 lvim.transparent_window = false
 lvim.lsp.diagnostics.virtual_text = false -- disable line shown errors
 lvim.builtin.project.manual_mode = true -- disable changing root directory
-lvim.builtin.project.show_hidden = true -- show hidden files in telescope, while searching
+lvim.builtin.lualine.options.theme = "auto"
 
+require'luasnip'.filetype_extend("python", {"django"})
+vim.cmd("let g:sonokai_style = 'atlantis'") -- values: `'default'`, `'atlantis'`, `'andromeda'`, `'shusia'`, `'maia'`, `'espresso'`

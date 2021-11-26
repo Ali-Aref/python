@@ -10,18 +10,18 @@ an executable
 
 -- general
 lvim.log.level = "warn"
-lvim.format_on_save = true
-lvim.colorscheme = "sonokai"
+lvim.format_on_save = false
+lvim.colorscheme = "tokyonight"
 
 -- keymappings [view all the defaults by pressing <leader>Lk]
 lvim.leader = "space"
 -- add your own keymapping
 lvim.keys.normal_mode["<C-s>"] = ":w<cr>"
+lvim.keys.insert_mode.jj = "<ESC>"
 lvim.keys.normal_mode["<A-h>"] = "<C-w>h"
 lvim.keys.normal_mode["<A-l>"] = "<C-w>l"
 lvim.keys.normal_mode["<A-j>"] = "<C-w>j"
 lvim.keys.normal_mode["<A-k>"] = "<C-w>k"
-lvim.keys.insert_mode.jj = "<ESC>"
 -- unmap a default keymapping
 -- lvim.keys.normal_mode["<C-Up>"] = ""
 -- edit a default keymapping
@@ -56,13 +56,35 @@ lvim.builtin.which_key.mappings["t"] = {
   l = { "<cmd>Trouble loclist<cr>", "LocationList" },
   w = { "<cmd>Trouble lsp_workspace_diagnostics<cr>", "Diagnostics" },
 }
+lvim.builtin.which_key.mappings["j"] = {
+  name = "+Jump",
+  w = { "<cmd>HopWord<cr>", "Word" },
+  c = { "<cmd>HopChar1<cr>", "Char1" },
+  C = { "<cmd>HopChar2<cr>", "Char2" },
+  l = { "<cmd>HopLine<cr>", "Line" },
+  L = { "<cmd>HopLineStart<cr>", "Line Start" },
+  p = { "<cmd>HopPattern<cr>", "Pattern" },
+  a = { "<cmd>HopLineStartAC<cr>", "After Cursor" },
+  b = { "<cmd>HopLineStartBC<cr>", "Before Cursor" },
+}
+lvim.builtin.which_key.vmappings["j"] = {
+  name = "+Jump",
+  w = { "<cmd>HopWord<cr>", "Word" },
+  c = { "<cmd>HopChar1<cr>", "Char1" },
+  C = { "<cmd>HopChar2<cr>", "Char2" },
+  l = { "<cmd>HopLine<cr>", "Line" },
+  L = { "<cmd>HopLineStart<cr>", "Line Start" },
+  p = { "<cmd>HopPattern<cr>", "Pattern" },
+  a = { "<cmd>HopLineStartAC<cr>", "After Cursor" },
+  b = { "<cmd>HopLineStartBC<cr>", "Before Cursor" },
+}
 
 -- TODO: User Config for predefined plugins
 -- After changing plugin config exit and reopen LunarVim, Run :PackerInstall :PackerCompile
-lvim.builtin.dashboard.active = true
+lvim.builtin.dashboard.active = false
 lvim.builtin.terminal.active = true
 lvim.builtin.nvimtree.setup.view.side = "left"
-lvim.builtin.nvimtree.show_icons.git = 0
+lvim.builtin.nvimtree.show_icons.git = 1
 
 -- if you don't want all the parsers change this to a table of the ones you want
 lvim.builtin.treesitter.ensure_installed = {
@@ -126,8 +148,9 @@ formatters.setup {
   { exe = "black", args = {"--line-length", "80"} },
   {
     exe = "prettier",
+    args = {},
     ---@usage specify which filetypes to enable. By default a providers will attach to all the filetypes it supports.
-    filetypes = { "typescript", "typescriptreact", "javascript" },
+    filetypes = { "typescript", "typescriptreact", "javascript", "javascriptreact"  },
   },
   -- { exe = "prettier", filetypes = {"html", "htmldjango"}, args = {"--print-width=160"} },
 }
@@ -144,7 +167,7 @@ linters.setup {
   {
     exe = "eslint_d",
     ---@usage specify which filetypes to enable. By default a providers will attach to all the filetypes it supports.
-    filetypes = { "javascript", "javascriptreact" },
+    filetypes = { "javascript", "javascriptreact", "typescript", "typescriptreact" },
   },
 }
 
@@ -153,7 +176,6 @@ lvim.plugins = {
     {"folke/tokyonight.nvim"},
     {"Shatur/neovim-ayu"},
     {"sainnhe/sonokai"},
-    {"ray-x/aurora"},
     {
       "folke/trouble.nvim",
       cmd = "TroubleToggle",
@@ -170,6 +192,25 @@ lvim.plugins = {
               css = true, -- Enable all CSS features: rgb_fn, hsl_fn, names, RGB, RRGGBB
               css_fn = true, -- Enable all CSS *functions*: rgb_fn, hsl_fn
               })
+      end,
+    },
+    {
+      -- find and replace
+      "windwp/nvim-spectre",
+      event = "BufRead",
+      config = function()
+        require("spectre").setup()
+      end,
+    },
+
+    {
+      -- jump anywhere in the file
+      "phaazon/hop.nvim",
+      event = "BufRead",
+      config = function()
+        require("hop").setup()
+        vim.api.nvim_set_keymap("n", "s", ":HopChar2<cr>", { silent = true })
+        vim.api.nvim_set_keymap("n", "S", ":HopWord<cr>", { silent = true })
       end,
     },
 }
@@ -189,6 +230,20 @@ lvim.transparent_window = false
 lvim.lsp.diagnostics.virtual_text = false -- disable line shown errors
 lvim.builtin.project.manual_mode = true -- disable changing root directory
 lvim.builtin.lualine.options.theme = "auto"
+lvim.builtin.telescope.defaults.file_ignore_patterns = { "node_modules" }
 
 require'luasnip'.filetype_extend("python", {"django"})
-vim.cmd("let g:sonokai_style = 'atlantis'") -- values: `'default'`, `'atlantis'`, `'andromeda'`, `'shusia'`, `'maia'`, `'espresso'`
+-- vim.cmd("let g:sonokai_style = 'andromeda'") -- values: `'default'`, `'atlantis'`, `'andromeda'`, `'shusia'`, `'maia'`, `'espresso'`
+
+-- lsp
+require'lspconfig'.tsserver.setup{
+  cmd = { "typescript-language-server", "--stdio" },
+  filetypes = { "javascript", "javascriptreact", "javascript.jsx", "typescript", "typescriptreact", "typescript.tsx" },
+  on_attach = function(client, bufnr)
+      -- we use null-ls formatter
+      client.resolved_capabilities.document_formatting = false
+  end,  
+}
+-- require'lspconfig'.tsserver.format_on_save = false
+
+-- require'hop'.setup()

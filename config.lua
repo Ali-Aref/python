@@ -11,7 +11,7 @@ an executable
 -- general
 lvim.log.level = "warn"
 lvim.format_on_save = false
-lvim.colorscheme = "tokyonight"
+lvim.colorscheme = "sonokai"
 
 -- keymappings [view all the defaults by pressing <leader>Lk]
 lvim.leader = "space"
@@ -22,6 +22,9 @@ lvim.keys.normal_mode["<A-h>"] = "<C-w>h"
 lvim.keys.normal_mode["<A-l>"] = "<C-w>l"
 lvim.keys.normal_mode["<A-j>"] = "<C-w>j"
 lvim.keys.normal_mode["<A-k>"] = "<C-w>k"
+-- lvim.keys.normal_mode["<F5>"] = ":! node %<cr>"
+lvim.keys.normal_mode["<F5>"] = ":! python %<cr>"
+
 -- unmap a default keymapping
 -- lvim.keys.normal_mode["<C-Up>"] = ""
 -- edit a default keymapping
@@ -78,6 +81,7 @@ lvim.builtin.which_key.vmappings["j"] = {
   a = { "<cmd>HopLineStartAC<cr>", "After Cursor" },
   b = { "<cmd>HopLineStartBC<cr>", "Before Cursor" },
 }
+lvim.builtin.which_key.mappings["E"] = {"<cmd>NvimTreeRefresh<cr>", "Refresh explorer"}
 
 -- TODO: User Config for predefined plugins
 -- After changing plugin config exit and reopen LunarVim, Run :PackerInstall :PackerCompile
@@ -161,7 +165,7 @@ linters.setup {
   { exe = "flake8",
     args = {
       "--max-line-length=80",
-      "--ignore=E203",
+      "--ignore=E203,W503",
     } 
   },
   {
@@ -195,15 +199,6 @@ lvim.plugins = {
       end,
     },
     {
-      -- find and replace
-      "windwp/nvim-spectre",
-      event = "BufRead",
-      config = function()
-        require("spectre").setup()
-      end,
-    },
-
-    {
       -- jump anywhere in the file
       "phaazon/hop.nvim",
       event = "BufRead",
@@ -222,20 +217,24 @@ lvim.plugins = {
 
 -- ~ Add-ons AA
 vim.opt.spell = false
+vim.opt.cmdheight = 1 -- default is 2
 vim.opt.timeoutlen = 250
--- vim.opt.relativenumber = true
+vim.opt.relativenumber = true
 vim.opt.cursorline = true -- highlight the current line
 
 lvim.transparent_window = false
 lvim.lsp.diagnostics.virtual_text = false -- disable line shown errors
 lvim.builtin.project.manual_mode = true -- disable changing root directory
 lvim.builtin.lualine.options.theme = "auto"
-lvim.builtin.telescope.defaults.file_ignore_patterns = { "node_modules" }
+lvim.builtin.telescope.defaults.file_ignore_patterns = { "node_modules", ".gitignore" }
+lvim.builtin.nvimtree.show_icons.git = 0
 
 require'luasnip'.filetype_extend("python", {"django"})
--- vim.cmd("let g:sonokai_style = 'andromeda'") -- values: `'default'`, `'atlantis'`, `'andromeda'`, `'shusia'`, `'maia'`, `'espresso'`
 
--- lsp
+-- themes options
+vim.cmd("let g:sonokai_style = 'andromeda'") -- values: `'default'`, `'atlantis'`, `'andromeda'`, `'shusia'`, `'maia'`, `'espresso'`
+
+-- lsp configurations
 require'lspconfig'.tsserver.setup{
   cmd = { "typescript-language-server", "--stdio" },
   filetypes = { "javascript", "javascriptreact", "javascript.jsx", "typescript", "typescriptreact", "typescript.tsx" },
@@ -244,6 +243,13 @@ require'lspconfig'.tsserver.setup{
       client.resolved_capabilities.document_formatting = false
   end,  
 }
--- require'lspconfig'.tsserver.format_on_save = false
-
--- require'hop'.setup()
+-- lvim.builtin.nvimtree.setup.filters.custom = { ".git", "node_modules", ".cache" }
+lvim.builtin.nvimtree.setup.filters.custom = { ".git", "node_modules", ".cache", "__pycache__", ".gitignore" }
+require("nvim-web-devicons").set_icon {
+  ["sqlite3"] = {
+    icon = "",
+    color = "#ff9e03",
+    cterm_color = "65",
+    name = "sqlite3"
+  },
+}

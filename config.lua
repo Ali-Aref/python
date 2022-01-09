@@ -208,6 +208,8 @@ lvim.plugins = {
         vim.api.nvim_set_keymap("n", "S", ":HopWord<cr>", { silent = true })
       end,
     },
+    -- flutter plugins
+  {'akinsho/flutter-tools.nvim', requires = 'nvim-lua/plenary.nvim'}
 }
 
 -- Autocommands (https://neovim.io/doc/user/autocmd.html)
@@ -219,7 +221,7 @@ lvim.plugins = {
 vim.opt.spell = false
 vim.opt.cmdheight = 1 -- default is 2
 vim.opt.timeoutlen = 250
-vim.opt.relativenumber = true
+vim.opt.relativenumber = false
 vim.opt.cursorline = true -- highlight the current line
 
 lvim.transparent_window = false
@@ -243,6 +245,11 @@ require'lspconfig'.tsserver.setup{
       client.resolved_capabilities.document_formatting = false
   end,  
 }
+
+require("flutter-tools").setup{}
+
+
+ 
 -- lvim.builtin.nvimtree.setup.filters.custom = { ".git", "node_modules", ".cache" }
 lvim.builtin.nvimtree.setup.filters.custom = { ".git", "node_modules", ".cache", "__pycache__", ".gitignore" }
 require("nvim-web-devicons").set_icon {
@@ -253,3 +260,4 @@ require("nvim-web-devicons").set_icon {
     name = "sqlite3"
   },
 }
+

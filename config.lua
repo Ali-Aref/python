@@ -11,22 +11,25 @@ an executable
 -- general
 lvim.log.level = "warn"
 lvim.format_on_save = false
-lvim.colorscheme = "sonokai"
+lvim.colorscheme = "onedark"
 
 -- keymappings [view all the defaults by pressing <leader>Lk]
 lvim.leader = "space"
 -- add your own keymapping
 lvim.keys.normal_mode["<C-s>"] = ":w<cr>"
 lvim.keys.insert_mode.jj = "<ESC>"
+-- lvim.keys.insert_mode.kj = false
+-- lvim.keys.insert_mode.jk = false
 lvim.keys.normal_mode["<A-h>"] = "<C-w>h"
 lvim.keys.normal_mode["<A-l>"] = "<C-w>l"
 lvim.keys.normal_mode["<A-j>"] = "<C-w>j"
 lvim.keys.normal_mode["<A-k>"] = "<C-w>k"
 -- lvim.keys.normal_mode["<F5>"] = ":! node %<cr>"
 lvim.keys.normal_mode["<F5>"] = ":! python %<cr>"
+-- lvim.keys.normal_mode["<F5>"] = ":! javac % && java Main <cr>"
 
 -- unmap a default keymapping
--- lvim.keys.normal_mode["<C-Up>"] = ""
+-- lvim.keys.normal_mode["<C-Up>"] = false
 -- edit a default keymapping
 -- lvim.keys.normal_mode["<C-q>"] = ":q<cr>"
 
@@ -49,15 +52,16 @@ lvim.keys.normal_mode["<F5>"] = ":! python %<cr>"
 -- }
 
 -- Use which-key to add extra bindings with the leader-key prefix
--- lvim.builtin.which_key.mappings["P"] = { "<cmd>Telescope projects<CR>", "Projects" }
+lvim.builtin.which_key.mappings["P"] = { "<cmd>Telescope projects<CR>", "Projects" }
+lvim.builtin.which_key.mappings["E"] = {"<cmd>NvimTreeRefresh<cr>", "Refresh explorer"}
 lvim.builtin.which_key.mappings["t"] = {
   name = "+Trouble",
   r = { "<cmd>Trouble lsp_references<cr>", "References" },
   f = { "<cmd>Trouble lsp_definitions<cr>", "Definitions" },
-  d = { "<cmd>Trouble lsp_document_diagnostics<cr>", "Diagnostics" },
+  d = { "<cmd>Trouble document_diagnostics<cr>", "Diagnostics" },
   q = { "<cmd>Trouble quickfix<cr>", "QuickFix" },
   l = { "<cmd>Trouble loclist<cr>", "LocationList" },
-  w = { "<cmd>Trouble lsp_workspace_diagnostics<cr>", "Diagnostics" },
+  w = { "<cmd>Trouble workspace_diagnostics<cr>", "Wordspace Diagnostics" },
 }
 lvim.builtin.which_key.mappings["j"] = {
   name = "+Jump",
@@ -81,14 +85,15 @@ lvim.builtin.which_key.vmappings["j"] = {
   a = { "<cmd>HopLineStartAC<cr>", "After Cursor" },
   b = { "<cmd>HopLineStartBC<cr>", "Before Cursor" },
 }
-lvim.builtin.which_key.mappings["E"] = {"<cmd>NvimTreeRefresh<cr>", "Refresh explorer"}
 
 -- TODO: User Config for predefined plugins
 -- After changing plugin config exit and reopen LunarVim, Run :PackerInstall :PackerCompile
-lvim.builtin.dashboard.active = false
+lvim.builtin.alpha.active = true
+lvim.builtin.alpha.mode = "dashboard"
+lvim.builtin.notify.active = true
 lvim.builtin.terminal.active = true
 lvim.builtin.nvimtree.setup.view.side = "left"
-lvim.builtin.nvimtree.show_icons.git = 1
+lvim.builtin.nvimtree.show_icons.git = 0
 
 -- if you don't want all the parsers change this to a table of the ones you want
 lvim.builtin.treesitter.ensure_installed = {
@@ -99,6 +104,7 @@ lvim.builtin.treesitter.ensure_installed = {
   "lua",
   "python",
   "typescript",
+  "tsx",
   "css",
   "rust",
   "java",
@@ -113,16 +119,20 @@ lvim.builtin.treesitter.highlight.enabled = true
 -- ---@usage disable automatic installation of servers
 lvim.lsp.automatic_servers_installation = false
 
--- ---@usage Select which servers should be configured manually. Requires `:LvimCacheRest` to take effect.
--- See the full default list `:lua print(vim.inspect(lvim.lsp.override))`
--- vim.list_extend(lvim.lsp.override, { "pyright" })
-
--- ---@usage setup a server -- see: https://www.lunarvim.org/languages/#overriding-the-default-configuration
+-- ---configure a server manually. !!Requires `:LvimCacheReset` to take effect!!
+-- ---see the full default list `:lua print(vim.inspect(lvim.lsp.automatic_configuration.skipped_servers))`
+-- vim.list_extend(lvim.lsp.automatic_configuration.skipped_servers, { "pyright" })
 -- local opts = {} -- check the lspconfig documentation for a list of all possible options
--- require("lvim.lsp.manager").setup("pylsp", opts)
+-- require("lvim.lsp.manager").setup("pyright", opts)
 
--- you can set a custom on_attach function that will be used for all the language servers
--- See <https://github.com/neovim/nvim-lspconfig#keybindings-and-completion>
+-- ---remove a server from the skipped list, e.g. eslint, or emmet_ls. !!Requires `:LvimCacheReset` to take effect!!
+-- ---`:LvimInfo` lists which server(s) are skiipped for the current filetype
+-- vim.tbl_map(function(server)
+--   return server ~= "emmet_ls"
+-- end, lvim.lsp.automatic_configuration.skipped_servers)
+
+-- -- you can set a custom on_attach function that will be used for all the language servers
+-- -- See <https://github.com/neovim/nvim-lspconfig#keybindings-and-completion>
 -- lvim.lsp.on_attach_callback = function(client, bufnr)
 --   local function buf_set_option(...)
 --     vim.api.nvim_buf_set_option(bufnr, ...)
@@ -130,76 +140,66 @@ lvim.lsp.automatic_servers_installation = false
 --   --Enable completion triggered by <c-x><c-o>
 --   buf_set_option("omnifunc", "v:lua.vim.lsp.omnifunc")
 -- end
--- you can overwrite the null_ls setup table (useful for setting the root_dir function)
--- lvim.lsp.null_ls.setup = {
---   root_dir = require("lspconfig").util.root_pattern("Makefile", ".git", "node_modules"),
--- }
--- or if you need something more advanced
--- lvim.lsp.null_ls.setup.root_dir = function(fname)
---   if vim.bo.filetype == "javascript" then
---     return require("lspconfig/util").root_pattern("Makefile", ".git", "node_modules")(fname)
---       or require("lspconfig/util").path.dirname(fname)
---   elseif vim.bo.filetype == "php" then
---     return require("lspconfig/util").root_pattern("Makefile", ".git", "composer.json")(fname) or vim.fn.getcwd()
---   else
---     return require("lspconfig/util").root_pattern("Makefile", ".git")(fname) or require("lspconfig/util").path.dirname(fname)
---   end
--- end
 
 -- -- set a formatter, this will override the language server formatting capabilities (if it exists)
 local formatters = require "lvim.lsp.null-ls.formatters"
 formatters.setup {
-  { exe = "black", args = {"--line-length", "80"} },
+  { command = "isort", filetypes = { "python" } },
+  { command = "black", filetypes = { "python" }, args = {"--line-length", "80"} },
   {
-    exe = "prettier",
-    args = {},
+    -- each formatter accepts a list of options identical to https://github.com/jose-elias-alvarez/null-ls.nvim/blob/main/doc/BUILTINS.md#Configuration
+    command = "prettier",
+    ---@usage arguments to pass to the formatter
+    -- these cannot contain whitespaces, options such as `--line-width 80` become either `{'--line-width', '80'}` or `{'--line-width=80'}`
+    extra_args = { "--print-with", "100" },
     ---@usage specify which filetypes to enable. By default a providers will attach to all the filetypes it supports.
-    filetypes = { "typescript", "typescriptreact", "javascript", "javascriptreact"  },
+    filetypes = { "typescript", "typescriptreact", "javascript", "javascriptreact", "html", "htmldjango", "css" },
   },
-  -- { exe = "prettier", filetypes = {"html", "htmldjango"}, args = {"--print-width=160"} },
 }
 
 -- -- set additional linters
 local linters = require "lvim.lsp.null-ls.linters"
 linters.setup {
-  { exe = "flake8",
-    args = {
-      "--max-line-length=80",
-      "--ignore=E203,W503",
-    } 
+  { command = "flake8", filetypes = { "python" }, args = { "--max-line-length=80" } },
+  -- {
+  --   -- each linter accepts a list of options identical to https://github.com/jose-elias-alvarez/null-ls.nvim/blob/main/doc/BUILTINS.md#Configuration
+  --   command = "shellcheck",
+  --   ---@usage arguments to pass to the formatter
+  --   -- these cannot contain whitespaces, options such as `--line-width 80` become either `{'--line-width', '80'}` or `{'--line-width=80'}`
+  --   extra_args = { "--severity", "warning" },
+  -- },
+  {
+    command = "codespell",
+    ---@usage specify which filetypes to enable. By default a providers will attach to all the filetypes it supports.
+    filetypes = { "javascript", "python", "javascriptreact", "typescript", "typescriptreact" },
   },
   {
     exe = "eslint_d",
     ---@usage specify which filetypes to enable. By default a providers will attach to all the filetypes it supports.
     filetypes = { "javascript", "javascriptreact", "typescript", "typescriptreact" },
   },
+  {
+    command = "jsonlint", filetypes = { "json" },
+  },
 }
 
 -- Additional Plugins
 lvim.plugins = {
-    {"folke/tokyonight.nvim"},
-    {"Shatur/neovim-ayu"},
+    {
+      "folke/lsp-colors.nvim",
+      event = "BufRead",
+    },
     {"sainnhe/sonokai"},
+    {"navarasu/onedark.nvim"},
+    { "ellisonleao/gruvbox.nvim" },
+    -- {'christianchiarulli/nvcode-color-schemes.vim'},
+    {"elianiva/gruvy.nvim", requires = {"rktjmp/lush.nvim"}},
+    {"folke/tokyonight.nvim"},
     {
       "folke/trouble.nvim",
       cmd = "TroubleToggle",
     },
     {
-      "norcalli/nvim-colorizer.lua",
-        config = function()
-          require("colorizer").setup({ "*" }, {
-              RGB = true, -- #RGB hex codes
-              RRGGBB = true, -- #RRGGBB hex codes
-              RRGGBBAA = true, -- #RRGGBBAA hex codes
-              rgb_fn = true, -- CSS rgb() and rgba() functions
-              hsl_fn = true, -- CSS hsl() and hsla() functions
-              css = true, -- Enable all CSS features: rgb_fn, hsl_fn, names, RGB, RRGGBB
-              css_fn = true, -- Enable all CSS *functions*: rgb_fn, hsl_fn
-              })
-      end,
-    },
-    {
-      -- jump anywhere in the file
       "phaazon/hop.nvim",
       event = "BufRead",
       config = function()
@@ -208,8 +208,6 @@ lvim.plugins = {
         vim.api.nvim_set_keymap("n", "S", ":HopWord<cr>", { silent = true })
       end,
     },
-    -- flutter plugins
-  {'akinsho/flutter-tools.nvim', requires = 'nvim-lua/plenary.nvim'}
 }
 
 -- Autocommands (https://neovim.io/doc/user/autocmd.html)
@@ -217,47 +215,44 @@ lvim.plugins = {
 --   { "BufWinEnter", "*.lua", "setlocal ts=8 sw=8" },
 -- }
 
+
 -- ~ Add-ons AA
-vim.opt.spell = false
+-- vim.opt.spell = true
 vim.opt.cmdheight = 1 -- default is 2
 vim.opt.timeoutlen = 250
-vim.opt.relativenumber = false
-vim.opt.cursorline = true -- highlight the current line
+-- vim.opt.relativenumber = true
+-- vim.opt.cursorline = false -- highlight the current line
 
-lvim.transparent_window = false
+-- lvim.builtin.lualine.options.theme = "auto"
 lvim.lsp.diagnostics.virtual_text = false -- disable line shown errors
 lvim.builtin.project.manual_mode = true -- disable changing root directory
-lvim.builtin.lualine.options.theme = "auto"
-lvim.builtin.telescope.defaults.file_ignore_patterns = { "node_modules", ".gitignore" }
-lvim.builtin.nvimtree.show_icons.git = 0
+lvim.builtin.telescope.defaults.file_ignore_patterns = { "node_modules", "env", ".gitignore", "migrations" }
+-- lvim.builtin.telescope.defaults.layout_config.prompt_position = "top" -- default "bottom"
+lvim.builtin.bufferline.diagnostics_update_in_insert = true
 
-require'luasnip'.filetype_extend("python", {"django"})
+-- friendly snnippets
+require'luasnip'.filetype_extend("python", {"django", "django-rest"})
 
--- themes options
+-- themes
 vim.cmd("let g:sonokai_style = 'andromeda'") -- values: `'default'`, `'atlantis'`, `'andromeda'`, `'shusia'`, `'maia'`, `'espresso'`
+require('onedark').setup  {
+    -- Main options --
+    style = 'dark', -- Default theme style. Choose between 'dark', 'darker', 'cool', 'deep', 'warm', 'warmer' and 'light'
+    transparent = false,  -- Show/hide background
+    -- term_colors = true, -- Change terminal color as per the selected theme style
+    -- ending_tildes = false, -- Show the end-of-buffer tildes. By default they are hidden
+    -- cmp_itemkind_reverse = false, -- reverse item kind highlights in cmp menu
+    toggle_style_key = '<leader>ts', -- Default keybinding to toggle
+    toggle_style_list = {'dark', 'darker', 'cool', 'deep'}, -- List of styles to toggle between
 
--- lsp configurations
-require'lspconfig'.tsserver.setup{
-  cmd = { "typescript-language-server", "--stdio" },
-  filetypes = { "javascript", "javascriptreact", "javascript.jsx", "typescript", "typescriptreact", "typescript.tsx" },
-  on_attach = function(client, bufnr)
-      -- we use null-ls formatter
-      client.resolved_capabilities.document_formatting = false
-  end,  
+    -- Change code style ---
+    -- Options are italic, bold, underline, none
+    -- You can configure multiple style with comma seperated, For e.g., keywords = 'italic,bold'
+    code_style = {
+        comments = 'italic',
+        keywords = 'none',
+        functions = 'none',
+        strings = 'none',
+        variables = 'none'
+    },
 }
-
-require("flutter-tools").setup{}
-
-
- 
--- lvim.builtin.nvimtree.setup.filters.custom = { ".git", "node_modules", ".cache" }
-lvim.builtin.nvimtree.setup.filters.custom = { ".git", "node_modules", ".cache", "__pycache__", ".gitignore" }
-require("nvim-web-devicons").set_icon {
-  ["sqlite3"] = {
-    icon = "",
-    color = "#ff9e03",
-    cterm_color = "65",
-    name = "sqlite3"
-  },
-}
-

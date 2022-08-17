@@ -10,28 +10,27 @@ an executable
 
 -- general
 lvim.log.level = "warn"
-lvim.format_on_save = false
-lvim.colorscheme = "onedark"
+lvim.format_on_save = true
+lvim.colorscheme = "onedarker"
+-- to disable icons and use a minimalist setup, uncomment the following
+-- lvim.use_icons = false
 
 -- keymappings [view all the defaults by pressing <leader>Lk]
 lvim.leader = "space"
 -- add your own keymapping
 lvim.keys.normal_mode["<C-s>"] = ":w<cr>"
-lvim.keys.insert_mode.jj = "<ESC>"
--- lvim.keys.insert_mode.kj = false
--- lvim.keys.insert_mode.jk = false
+lvim.keys.normal_mode["<S-l>"] = ":BufferLineCycleNext<CR>"
+lvim.keys.normal_mode["<S-h>"] = ":BufferLineCyclePrev<CR>"
 lvim.keys.normal_mode["<A-h>"] = "<C-w>h"
 lvim.keys.normal_mode["<A-l>"] = "<C-w>l"
 lvim.keys.normal_mode["<A-j>"] = "<C-w>j"
 lvim.keys.normal_mode["<A-k>"] = "<C-w>k"
 -- lvim.keys.normal_mode["<F5>"] = ":! node %<cr>"
 lvim.keys.normal_mode["<F5>"] = ":! python %<cr>"
--- lvim.keys.normal_mode["<F5>"] = ":! javac % && java Main <cr>"
-
 -- unmap a default keymapping
--- lvim.keys.normal_mode["<C-Up>"] = false
--- edit a default keymapping
--- lvim.keys.normal_mode["<C-q>"] = ":q<cr>"
+-- vim.keymap.del("n", "<C-Up>")
+-- override a default keymapping
+-- lvim.keys.normal_mode["<C-q>"] = ":q<cr>" -- or vim.keymap.set("n", "<C-q>", ":q<cr>" )
 
 -- Change Telescope navigation to use j and k for navigation and n and p for history in both input and normal mode.
 -- we use protected-mode (pcall) just in case the plugin wasn't loaded yet.
@@ -53,7 +52,7 @@ lvim.keys.normal_mode["<F5>"] = ":! python %<cr>"
 
 -- Use which-key to add extra bindings with the leader-key prefix
 lvim.builtin.which_key.mappings["P"] = { "<cmd>Telescope projects<CR>", "Projects" }
-lvim.builtin.which_key.mappings["E"] = {"<cmd>NvimTreeRefresh<cr>", "Refresh explorer"}
+lvim.builtin.which_key.mappings["E"] = { "<cmd>NvimTreeRefresh<cr>", "Refresh explorer" }
 lvim.builtin.which_key.mappings["t"] = {
   name = "+Trouble",
   r = { "<cmd>Trouble lsp_references<cr>", "References" },
@@ -93,7 +92,7 @@ lvim.builtin.alpha.mode = "dashboard"
 lvim.builtin.notify.active = true
 lvim.builtin.terminal.active = true
 lvim.builtin.nvimtree.setup.view.side = "left"
-lvim.builtin.nvimtree.show_icons.git = 0
+lvim.builtin.nvimtree.setup.renderer.icons.show.git = false
 
 -- if you don't want all the parsers change this to a table of the ones you want
 lvim.builtin.treesitter.ensure_installed = {
@@ -116,6 +115,20 @@ lvim.builtin.treesitter.highlight.enabled = true
 
 -- generic LSP settings
 
+-- -- make sure server will always be installed even if the server is in skipped_servers list
+-- lvim.lsp.installer.setup.ensure_installed = {
+--     "sumeko_lua",
+--     "jsonls",
+-- }
+-- -- change UI setting of `LspInstallInfo`
+-- -- see <https://github.com/williamboman/nvim-lsp-installer#default-configuration>
+-- lvim.lsp.installer.setup.ui.check_outdated_servers_on_open = false
+-- lvim.lsp.installer.setup.ui.border = "rounded"
+-- lvim.lsp.installer.setup.ui.keymaps = {
+--     uninstall_server = "d",
+--     toggle_server_expand = "o",
+-- }
+
 -- ---@usage disable automatic installation of servers
 lvim.lsp.automatic_servers_installation = false
 
@@ -126,7 +139,7 @@ lvim.lsp.automatic_servers_installation = false
 -- require("lvim.lsp.manager").setup("pyright", opts)
 
 -- ---remove a server from the skipped list, e.g. eslint, or emmet_ls. !!Requires `:LvimCacheReset` to take effect!!
--- ---`:LvimInfo` lists which server(s) are skiipped for the current filetype
+-- ---`:LvimInfo` lists which server(s) are skipped for the current filetype
 -- vim.tbl_map(function(server)
 --   return server ~= "emmet_ls"
 -- end, lvim.lsp.automatic_configuration.skipped_servers)
@@ -145,7 +158,7 @@ lvim.lsp.automatic_servers_installation = false
 local formatters = require "lvim.lsp.null-ls.formatters"
 formatters.setup {
   { command = "isort", filetypes = { "python" } },
-  { command = "black", filetypes = { "python" }, args = {"--line-length", "80"} },
+  { command = "black", filetypes = { "python" }, args = { "--line-length", "80" } },
   {
     -- each formatter accepts a list of options identical to https://github.com/jose-elias-alvarez/null-ls.nvim/blob/main/doc/BUILTINS.md#Configuration
     command = "prettier",
@@ -185,16 +198,9 @@ linters.setup {
 
 -- Additional Plugins
 lvim.plugins = {
-    {
-      "folke/lsp-colors.nvim",
-      event = "BufRead",
-    },
-    {"sainnhe/sonokai"},
-    {"navarasu/onedark.nvim"},
-    { "ellisonleao/gruvbox.nvim" },
-    -- {'christianchiarulli/nvcode-color-schemes.vim'},
-    {"elianiva/gruvy.nvim", requires = {"rktjmp/lush.nvim"}},
     {"folke/tokyonight.nvim"},
+    { "sainnhe/sonokai" },
+    { "ellisonleao/gruvbox.nvim" },
     {
       "folke/trouble.nvim",
       cmd = "TroubleToggle",
@@ -211,17 +217,28 @@ lvim.plugins = {
 }
 
 -- Autocommands (https://neovim.io/doc/user/autocmd.html)
--- lvim.autocommands.custom_groups = {
---   { "BufWinEnter", "*.lua", "setlocal ts=8 sw=8" },
--- }
+-- vim.api.nvim_create_autocmd("BufEnter", {
+--   pattern = { "*.json", "*.jsonc" },
+--   -- enable wrap mode for json files only
+--   command = "setlocal wrap",
+-- })
+-- vim.api.nvim_create_autocmd("FileType", {
+--   pattern = "zsh",
+--   callback = function()
+--     -- let treesitter use bash highlight for zsh files as well
+--     require("nvim-treesitter.highlight").attach(0, "bash")
+--   end,
+-- })
 
 
 -- ~ Add-ons AA
 -- vim.opt.spell = true
 vim.opt.cmdheight = 1 -- default is 2
 vim.opt.timeoutlen = 250
--- vim.opt.relativenumber = true
+vim.opt.relativenumber = false
+lvim.transparent_window = false
 -- vim.opt.cursorline = false -- highlight the current line
+-- vim.opt.guifont = "monospace:h17" -- the font used in graphical neovim applications
 
 -- lvim.builtin.lualine.options.theme = "auto"
 lvim.lsp.diagnostics.virtual_text = false -- disable line shown errors
@@ -231,28 +248,30 @@ lvim.builtin.telescope.defaults.file_ignore_patterns = { "node_modules", "env", 
 lvim.builtin.bufferline.diagnostics_update_in_insert = true
 
 -- friendly snnippets
-require'luasnip'.filetype_extend("python", {"django", "django-rest"})
+require 'luasnip'.filetype_extend("python", { "django", "django-rest" })
 
 -- themes
 vim.cmd("let g:sonokai_style = 'andromeda'") -- values: `'default'`, `'atlantis'`, `'andromeda'`, `'shusia'`, `'maia'`, `'espresso'`
-require('onedark').setup  {
-    -- Main options --
-    style = 'dark', -- Default theme style. Choose between 'dark', 'darker', 'cool', 'deep', 'warm', 'warmer' and 'light'
-    transparent = false,  -- Show/hide background
-    -- term_colors = true, -- Change terminal color as per the selected theme style
-    -- ending_tildes = false, -- Show the end-of-buffer tildes. By default they are hidden
-    -- cmp_itemkind_reverse = false, -- reverse item kind highlights in cmp menu
-    toggle_style_key = '<leader>ts', -- Default keybinding to toggle
-    toggle_style_list = {'dark', 'darker', 'cool', 'deep'}, -- List of styles to toggle between
+-- require('onedark').setup  {
+--     -- Main options --
+--     style = 'dark', -- Default theme style. Choose between 'dark', 'darker', 'cool', 'deep', 'warm', 'warmer' and 'light'
+--     transparent = false,  -- Show/hide background
+--     -- term_colors = true, -- Change terminal color as per the selected theme style
+--     -- ending_tildes = false, -- Show the end-of-buffer tildes. By default they are hidden
+--     -- cmp_itemkind_reverse = false, -- reverse item kind highlights in cmp menu
+--     toggle_style_key = '<leader>ts', -- Default keybinding to toggle
+--     toggle_style_list = {'dark', 'darker', 'cool', 'deep'}, -- List of styles to toggle between
 
-    -- Change code style ---
-    -- Options are italic, bold, underline, none
-    -- You can configure multiple style with comma seperated, For e.g., keywords = 'italic,bold'
-    code_style = {
-        comments = 'italic',
-        keywords = 'none',
-        functions = 'none',
-        strings = 'none',
-        variables = 'none'
-    },
-}
+--     -- Change code style ---
+--     -- Options are italic, bold, underline, none
+--     -- You can configure multiple style with comma seperated, For e.g., keywords = 'italic,bold'
+--     code_style = {
+--         comments = 'italic',
+--         keywords = 'none',
+--         functions = 'none',
+--         strings = 'none',
+--         variables = 'none'
+--     },
+-- }
+vim.g.tokyonight_transparent_sidebar = true
+vim.g.tokyonight_italic_functions = true
